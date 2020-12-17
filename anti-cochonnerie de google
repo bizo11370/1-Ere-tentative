@@ -5,10 +5,7 @@
 ||adservice.google.com^$important
 ||translate.googleapis.com^$important
 ||www.googletagservices.com^$important
-||www.google-analytics.com^$important
-||www.google-analytics.com^$script,important
-||www.google-analytics.com/analytics.js$script,important
-||www.google-analytics.com/analytics.js$important
+||googletagservices.com/tag/js/gpt.js$script,redirect-rule=googletagservices.com/gpt.js
 ||www.googletagmanager.com^$important
 ||www.googletagmanager.com/gtm.js$important
 ||fonts.googleapis.com^$important
