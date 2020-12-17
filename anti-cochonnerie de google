@@ -1,0 +1,14 @@
+[ écrit par bizo]
+! Title: anti-cochonnerie de google
+! Description:  bloks cochonnerie de google
+
+||adservice.google.com^$important
+||translate.googleapis.com^$important
+||www.googletagservices.com^$important
+||www.google-analytics.com^$important
+||www.google-analytics.com/analytics.js$important
+||www.googletagmanager.com^$important
+||www.googletagmanager.com/gtm.js$important
+||fonts.googleapis.com^$important
+||googlesyndication.com^$important
+||pagead2.googlesyndication.com^$important
