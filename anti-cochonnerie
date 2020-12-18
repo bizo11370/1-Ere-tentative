@@ -3,10 +3,12 @@
 ! Description:  bloks cochonnerie de google
 
 ||adservice.google.com^$important
-||translate.googleapis.com^$important
 ||googletagservices.com^$important
 ||googletagmanager.com^$important
 ||google-analytics.com^$important
 ||fonts.googleapis.com^$important
 ||googlesyndication.com^$important				
 ||pagead2.googlesyndication.com^$important
+
+
+||msecnd.net^$important
