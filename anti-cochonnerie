@@ -1,17 +1,21 @@
 [ écrit par bizo]
 ! Title: anti-cochonnerie
-! Description:  bloks cochonnerie
 
 ||adservice.google.com^$important
 ||googletagservices.com^$important
 ||googletagmanager.com^$important
 ||google-analytics.com^$important
-||fonts.googleapis.com^$important
 ||googlesyndication.com^$important				
 ||pagead2.googlesyndication.com^$important
 
 
-||msecnd.net^$important
-||ssl.p.jwpcdn.com^$important
-||stripe.com^$important
-||stripe.network^$important
+||cdn.taboola.com^$important
+||chatango.com^$important
+||platform.bidgear.com^
+||propellerclick.com^
+||bluekai.com^
+||vkcache.com^$important
+||vkcdnservice.com^$important
+||moneymakercdn.com^$important
+||sharethis.com^$important
+||rating-widget.com^$important
