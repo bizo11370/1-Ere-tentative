@@ -1,6 +1,6 @@
 [ écrit par bizo]
-! Title: anti-cochonnerie de google
-! Description:  bloks cochonnerie de google
+! Title: anti-cochonnerie
+! Description:  bloks cochonnerie
 
 ||adservice.google.com^$important
 ||googletagservices.com^$important
@@ -12,3 +12,6 @@
 
 
 ||msecnd.net^$important
+||ssl.p.jwpcdn.com^$important
+||stripe.com^$important
+||stripe.network^$important
