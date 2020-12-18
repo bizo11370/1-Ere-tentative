@@ -5,10 +5,8 @@
 ||adservice.google.com^$important
 ||translate.googleapis.com^$important
 ||googletagservices.com^$important
-||google-analytics.com^$script,important
 ||googletagmanager.com^$important
 ||google-analytics.com^$important
-||googletagmanager.com/gtm.js$important
 ||fonts.googleapis.com^$important
 ||googlesyndication.com^$important				
 ||pagead2.googlesyndication.com^$important
