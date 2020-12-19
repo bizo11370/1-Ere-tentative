@@ -4,18 +4,19 @@
 
 ||adservice.google.com^$important
 ||googletagservices.com^$important
-||fonts.googleapis.com^
 ||googletagmanager.com^$important
-||google-analytics.com^$important
 ||googlesyndication.com^$important				
 ||pagead2.googlesyndication.com^$important
+||ajax.googleapis.com^$stylesheet,important
+||google-analytics.com^$script,important
+||fonts.googleapis.com^$stylesheet,important
 
 
 @@||fonts.googleapis.com/css?$domain=google.com|translate.google.com.hk|translate.google.co.kr|translate.google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
 @@||fonts.gstatic.com^$domain=floatplane.com|google.com|youtube.com|bloble.io|regexpal.com|translate.google.com.hk|translate.google.co.kr|translate.google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
 
 
-||consensu.org^$important
+||consensu.org^$script,important
 ||networkadvertising.org^$important
 ||cookielaw.org^$important
 
@@ -32,18 +33,20 @@
 ||doubleclick.net^$important
 ||d31qbv1cthcecs.cloudfront.net^$important
 
-
+||fonts.gstatic.com^$font,important
+||popnc.com^$script,important
+||velocitycdn.com^$script,important
+||moneymakercdn.com^$script,important
+||greatdexchange.com^$script,important
 ||ads.youtube.com^$important
 ||adskeeper.com^$important
 ||bebi.com^$important
 ||cpmstar.com^$important
 ||in-page-push.com^$important
-||popnc.com^$important
 ||jwpltx.com^$important
 ||jwpcdn.com^$important
 ||jsc.adskeeper.com^$important
 ||l.longtailvideo.com^$important
-||greatdexchange.com^$important
 ||moneymakercdn.com^$important
 ||itnuzleafan.com^$important
 ||adservice.com^$important
@@ -65,10 +68,7 @@
 ||bluekai.com^$important
 ||vkcache.com^$important
 ||vkcdnservice.com^$important
-||moneymakercdn.com^$important
 ||sharethis.com^$important
 ||rating-widget.com^$important
-||ajax.googleapis.com^$important
-||rating-widget.com^$important
 
-
+||stun:35.224.227.218^
