@@ -82,5 +82,5 @@
 /cdn-cgi/bm/cv/*
 /rss.*$image,important
 
-
+||*/footer_banner2.php$frame,important
 
