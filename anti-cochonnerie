@@ -7,9 +7,8 @@
 ||googlesyndication.com^$important				
 ||pagead2.googlesyndication.com^$important
 ||google-analytics.com^$script,important
-||googleapis.com^$stylesheet,important
 
-@@||fonts.googleapis.com/css?$domain=google.com|translate.google.com.hk|translate.google.co.kr|translate.google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
+
 @@||fonts.gstatic.com^$domain=floatplane.com|google.com|youtube.com|bloble.io|regexpal.com|translate.google.com.hk|translate.google.co.kr|translate.google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
 
 
