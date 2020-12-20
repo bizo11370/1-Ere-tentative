@@ -7,7 +7,7 @@
 ||googlesyndication.com^$important				
 ||pagead2.googlesyndication.com^$important
 ||google-analytics.com^$script,important
-||googleapis.com^$important
+||googleapis.com^
 ||clients1.google.com^$important
 ||apis.google.com^$important
 ||translate.google.com^$important
