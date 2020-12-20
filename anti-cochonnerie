@@ -20,6 +20,7 @@
 ||networkadvertising.org^$important
 ||cookielaw.org^$important
 
+
 ||yandex.ru^$important
 ||advast.sibnet.ru^$important
 ||yadro.ru^$important
@@ -33,6 +34,7 @@
 ||doubleclick.net^$important
 ||d31qbv1cthcecs.cloudfront.net^$important
 
+||*.stripe.com^$script,important
 ||fonts.gstatic.com^$font,important
 ||popnc.com^$script,important
 ||velocitycdn.com^$script,important
