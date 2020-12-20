@@ -7,15 +7,24 @@
 ||googlesyndication.com^$important				
 ||pagead2.googlesyndication.com^$important
 ||google-analytics.com^$script,important
+||googleapis.com^$important
+||clients1.google.com^$important
+||apis.google.com^$important
+||translate.google.com^$important
+
+||connect.facebook.net^
 
 
 @@||fonts.gstatic.com^$domain=floatplane.com|google.com|youtube.com|bloble.io|regexpal.com|translate.google.com.hk|translate.google.co.kr|translate.google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
-
+@@||www.google.com/recaptcha/*$subdocument
 
 !blocking rules
 ||consensu.org^$script,important
 ||networkadvertising.org^$important
 ||cookielaw.org^$important
+
+
+||adskeeper.co.uk^important
 
 
 ||yandex.ru^$important
@@ -30,7 +39,11 @@
 ||msecnd.net^$important
 ||doubleclick.net^$important
 ||d31qbv1cthcecs.cloudfront.net^$important
+||whugesto.net^$important
+||jaftouja.net^$important
 
+
+||addthis.com^
 ||*.stripe.com^$script,important
 ||fonts.gstatic.com^$font,important
 ||popnc.com^$script,important
@@ -69,8 +82,14 @@
 ||vkcdnservice.com^$important
 ||sharethis.com^$important
 ||rating-widget.com^$important
+||runative-syndicate.com^$important
+||stickyadstv.com^$important
+||onstunkyr.com^$important
+||notifpush.com^$important
+||pardot.com^$important
+||wysistat.com^$important
+||runative-syndicate.com^important
 
-||stun:35.224.227.218^
 
 ||fonts.*.net^
 ||fonts.*.com^
@@ -80,6 +99,16 @@
 /pagead/js/*
 /cdn-cgi/bm/cv/*
 /rss.*$image,important
+/wp-content/plugins/*
+/adsense/*
+/securepubads.
+
+
+
+.fr/*/ads/$domain=~lemde.fr|~yoopies.fr
+
+gen_204?
+*_204?
 
 ||*/footer_banner2.php$frame,important
 
