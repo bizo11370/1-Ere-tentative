@@ -83,6 +83,11 @@ gen_204?
 @@||m*.uqload.com^$1p
 @@||uqload.com/embed-*.html
 
+#The Block list Cybo's Hosts
+
+@@*/blank.gif
+
+
 
 !malware blocking rules
 
