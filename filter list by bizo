@@ -10,7 +10,7 @@
 ||googleapis.com^$important
 ||clients1.google.com^$important
 ||apis.google.com^$important
-||translate.google.com^$important
+
 
 ||connect.facebook.net^
 
@@ -38,6 +38,7 @@
 ||c.sibnet.ru^$important
 
 
+||w55c.net^
 ||2mdn.net^$important
 ||am15.net^$important
 ||msecnd.net^$important
