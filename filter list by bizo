@@ -9,6 +9,7 @@
 ||connect.facebook.net^
 
 
+@@||filters.adtidy.org
 @@||www.google.com/recaptcha/*$subdocument
 @@||coveo.com^$domain=dell.com
 @@||filterlists.com^$1p
