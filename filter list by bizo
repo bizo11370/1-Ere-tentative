@@ -17,6 +17,10 @@
 
 @@||fonts.gstatic.com^$domain=floatplane.com|google.com|youtube.com|bloble.io|regexpal.com|translate.google.com.hk|translate.google.co.kr|translate.google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
 @@||www.google.com/recaptcha/*$subdocument
+@@||coveo.com^$domain=dell.com
+@@||filterlists.com^$1p
+@@||translate.google.com/gen204$image,domain=filterlists.com
+@@||cdncontent.wakanim.tv^
 
 !blocking rules
 ||consensu.org^$script,important
@@ -42,8 +46,8 @@
 ||whugesto.net^$important
 ||jaftouja.net^$important
 
-
-||addthis.com^
+||vostfree.com/atag.js^important
+||addthis.com^$important
 ||*.stripe.com^$script,important
 ||fonts.gstatic.com^$font,important
 ||popnc.com^$script,important
@@ -116,7 +120,7 @@ gen_204?
 *##+js(cookie-remover, *)
 
 #The Block List Project Malware list uqload.com unblock
-k
+
 @@||uqload.com/player_clappr^$1p
 @@||uqload.com/css^$1p
 @@||uqload.com/images^$1p
