@@ -1,13 +1,9 @@
 !title:filter list by bizo
 
 
-||adservice.google.com^$important
 ||googletagservices.com^$important
 ||googletagmanager.com^$important			
 ||pagead2.googlesyndication.com^$important
-||google-analytics.com^$script,important
-||clients1.google.com^$important
-||apis.google.com^$important
 
 
 ||connect.facebook.net^
@@ -26,69 +22,34 @@
 ||cookielaw.org^$important
 
 
-||adskeeper.co.uk^important
-
-
-||yandex.ru^$important
-||advast.sibnet.ru^$important
-||yadro.ru^$important
-||myvi.ru^$important
-||c.sibnet.ru^$important
-
-
 ||2mdn.net^$important
-||am15.net^$important
 ||msecnd.net^$important
-||doubleclick.net^$important
 ||d31qbv1cthcecs.cloudfront.net^$important
 ||whugesto.net^$important
 ||jaftouja.net^$important
 
 ||vostfree.com/atag.js^important
-||addthis.com^$important
-||fonts.gstatic.com^$font,important
 ||popnc.com^$script,important
 ||velocitycdn.com^$script,important
-||moneymakercdn.com^$script,important
 ||greatdexchange.com^$script,important
 ||ads.youtube.com^$important
-||adskeeper.com^$important
-||bebi.com^$important
-||cpmstar.com^$important
-||in-page-push.com^$important
-||jwpltx.com^$important
 ||jwpcdn.com^$important
-||jsc.adskeeper.com^$important
 ||l.longtailvideo.com^$important
 ||moneymakercdn.com^$important
 ||itnuzleafan.com^$important
 ||adservice.com^$important
-||stickyadstv.com^$important
-||pixel.quantserve.com^$important
-||secure.quantserve.com^$important
-||quantserve.com^$important
 ||kampyle.com^$important
 ||clicktale.com^$important
-||addthis.com^$important
-||criteo.com^$important
 ||booking.com^$important
 ||dealers.mascus.com^$important
-||bidgear.com^$important
 ||chatango.com^$important
-||platform.bidgear.com^^$important
 ||propellerclick.com^$important
-||bluekai.com^$important
 ||vkcache.com^$important
 ||vkcdnservice.com^$important
-||sharethis.com^$important
-||rating-widget.com^$important
 ||runative-syndicate.com^$important
-||stickyadstv.com^$important
 ||onstunkyr.com^$important
 ||notifpush.com^$important
-||pardot.com^$important
 ||wysistat.com^$important
-||runative-syndicate.com^$important$important
 ||azoaltou.com^$important
 ||gumbolersgthb.com^$important
 ||stats.wp.com^
@@ -126,8 +87,7 @@ gen_204?
 @@||uqload.com/embed-*.html
 
 
-!
-malware blocking rules
+!malware blocking rules
 
 1dmp.io
 247-inc.net
@@ -945,6 +905,7 @@ shop.pe
 shopnetic.com
 sibautomation.com
 advast.sibnet.ru
+c.sibnet.ru
 counter.sibnet.ru
 cvn12.sibnet.ru
 cvn22.sibnet.ru
