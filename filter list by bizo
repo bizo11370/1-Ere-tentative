@@ -88,8 +88,9 @@
 ||notifpush.com^$important
 ||pardot.com^$important
 ||wysistat.com^$important
-||runative-syndicate.com^important
-
+||runative-syndicate.com^$important$important
+||azoaltou.com^$important
+||gumbolersgthb.com^$important
 
 ||fonts.*.net^
 ||fonts.*.com^
@@ -113,3 +114,12 @@ gen_204?
 *##+js(ra, *)
 *##+js(aeld, /*/i)
 *##+js(cookie-remover, *)
+
+#The Block List Project Malware list uqload.com unblock
+k
+@@||uqload.com/player_clappr^$1p
+@@||uqload.com/css^$1p
+@@||uqload.com/images^$1p
+@@||m*.uqload.com^$1p
+@@||uqload.com/embed-*.html
+
