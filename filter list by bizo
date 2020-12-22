@@ -1,9 +1,10 @@
 !title:filter list by bizo
 
 
-|| googletagservices.com ^ $ important
-|| googletagmanager.com ^ $ important			
-|| pagead2.googlesyndication.com ^ $ important
+||googletagservices.com^$important
+||googletagmanager.com^$important			
+||pagead2.googlesyndication.com^$important
+
 
 
 @@||filters.adtidy.org
