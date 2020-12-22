@@ -1,6 +1,11 @@
 !title:filter list by bizo
 
 
+|| googletagservices.com ^ $ important
+|| googletagmanager.com ^ $ important			
+|| pagead2.googlesyndication.com ^ $ important
+
+
 @@||filters.adtidy.org
 @@||www.google.com/recaptcha/*$subdocument
 @@||coveo.com^$domain=dell.com
