@@ -18,6 +18,7 @@
 @@||vidoup.xyz/cdn/*$xhr,domain=getvid.club
 @@||khms*.google.com^$image,1p
 @@||cdn.taboola.com^$script
+@@||otakufr.co/wp-content/plugins/*$image
 
 #The Block List Project Malware list uqload.com unblock
 
