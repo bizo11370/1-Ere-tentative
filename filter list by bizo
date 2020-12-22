@@ -60,9 +60,8 @@
 ||ad-arata.s3.amazonaws.com^
 ||ads.linkedin.com^
 ||banner.vatanclick.ir^
-||jdd01.198game.net^||secure.iqmining.com^
-
-
+||jdd01.198game.net^
+||secure.iqmining.com^
 ||delivery.content-recommendation.net^
 ||apps2.ctnetpass2.com^
 ||appsha2.ctnetload2.com^
@@ -89,9 +88,7 @@
 ||olswr.27684.club^
 
 
-#
-miscellaneous block list
-
+#miscellaneous block list
 
 ||*/tracker.gif$image,important
 
