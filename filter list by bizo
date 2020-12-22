@@ -17,6 +17,7 @@
 @@||dv*.sibnet.ru^
 @@||vidoup.xyz/cdn/*$xhr,domain=getvid.club
 @@||khms*.google.com^$image,1p
+@@||cdn.taboola.com^$script
 
 #The Block List Project Malware list uqload.com unblock
 
