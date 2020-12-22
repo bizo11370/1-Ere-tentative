@@ -8,6 +8,10 @@
 @@||filterlists.com^$1p
 @@||translate.google.com/gen204$image,domain=filterlists.com
 @@||cdncontent.wakanim.tv^
+@@||ajax.googleapis.com/ajax/libs/webfont/$script,domain=help.typepad.com|regexpal.com
+@@||fast.fonts.net/jsapi/$script
+@@||fonts.googleapis.com/css?$domain=google.com|translate.google.com.hk|translate.google.co.kr|translate.google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
+@@||fonts.gstatic.com^$domain=floatplane.com|google.com|youtube.com|bloble.io|regexpal.com|translate.google.com.hk|translate.google.co.kr|translate.google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.
 
 #The Block List Project Malware list uqload.com unblock
 
