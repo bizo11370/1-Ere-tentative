@@ -5,17 +5,19 @@
 @@||ajax.googleapis.com/ajax/libs/webfont/$script,domain=help.typepad.com|regexpal.com
 @@||cdn.taboola.com^$script
 @@||cdncontent.wakanim.tv^
-@@||coveo.com^$ domaine=domaine=dell.com
+@@||coveo.com^$domain=dell.com
 @@||fast.fonts.net/jsapi/$script
 @@||filterlists.com^$1p
 @@||filters.adtidy.org
-@@||getvid.club^$domaine=vostfree.com
+@@||getvid.club^$domain=vostfree.com
 @@||khms*.google.com^$image,1p
 @@||otakufr.co/wp-content/plugins/*$image
 @@||translate.google.com/gen204$image,domain=filterlists.com
-@@||vidoup.xyz/cdn/*$xhr,domaine=getvid.club
-@@||www.google.com/recaptcha/*$sous-document
-@@||fonts.gstatic.com^$domain=floatplane.com|google.com|youtube.com|bloble.io|regexpal.com|translate.google.com.hk|translate.google.co.kr|translate .google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
+@@||vidoup.xyz/cdn/*$xhr,domain=getvid.club
+@@||www.google.com/recaptcha/*$sub-document 
+
+@@||fonts.gstatic.com^$domain=floatplane.com|google.com|youtube.com|bloble.io|regexpal.com|
+translate.google.com.hk|translate.google.co.kr|translate .google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
 @@||fonts.googleapis.com/css?$domain=google.com|translate.google.com.hk|translate.google.co.kr|translate.google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
 
 #The Block List Project Malware list uqload.com unblock
