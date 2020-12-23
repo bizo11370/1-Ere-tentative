@@ -13,8 +13,6 @@
 @@||fonts.googleapis.com/css?$domain=google.com|translate.google.com.hk|translate.google.co.kr|translate.google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
 @@||fonts.gstatic.com^$domain=floatplane.com|google.com|youtube.com|bloble.io|regexpal.com|translate.google.com.hk|translate.google.co.kr|translate.google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.
 @@||getvid.club^$domain=vostfree.com
-@@||c.sibnet.ru^
-@@||dv*.sibnet.ru^
 @@||vidoup.xyz/cdn/*$xhr,domain=getvid.club
 @@||khms*.google.com^$image,1p
 @@||cdn.taboola.com^$script
@@ -336,8 +334,7 @@ gen_204?
 ||bnee.adj.st^
 ||boldchat.com^
 ||bonappetit.com^
-||booking.com^$important
-||booking.com^$important
+||booking.com^
 ||books.google.com^
 ||bounceexchange.com^
 ||boutiquedomadoo.disqus.com^
@@ -356,9 +353,7 @@ gen_204?
 ||c.aaxads.com^
 ||c.am15.net^
 ||c.amazon-adsystem.com^
-||c.amazon-adsystem.com^
 ||c.la2-c1-ia5.salesforceliveagent.com^
-||c.sibnet.ru^
 ||c.webengage.com^
 ||c212.net^
 ||c3tag.com^
@@ -482,9 +477,6 @@ gen_204?
 ||curalate.com^
 ||customer.io^
 ||custora.com^
-||cvn12.sibnet.ru^
-||cvn22.sibnet.ru^
-||cvn32.sibnet.ru^
 ||cvt1.sibnet.ru^
 ||cxense.com^
 ||d.applovin.com^
@@ -679,10 +671,6 @@ gen_204?
 ||dtto8zfzskfoa.cloudfront.net^
 ||dub.stats.paypal.com^
 ||dv2m1uumnsgtu.cloudfront.net^
-||dv49.sibnet.ru^
-||dv6.sibnet.ru^
-||dv8.sibnet.ru^
-||dv98.sibnet.ru^
 ||dviixeyykyqjv.cloudfront.net^
 ||dwf6crl4raal7.cloudfront.net^
 ||dxprljqoay4rt.cloudfront.net^
