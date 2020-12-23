@@ -13,6 +13,7 @@
 @@||otakufr.co/wp-content/plugins/*$image
 @@||translate.google.com/gen204$image,domain=filterlists.com
 @@||vidoup.xyz/cdn/*$xhr,domain=getvid.club
+@@||wakanim.tv^$script,xhr,1p
 @@||www.google.com/recaptcha/*$sub-document 
 
 @@||fonts.gstatic.com^$domain=floatplane.com|google.com|youtube.com|bloble.io|regexpal.com|translate.google.com.hk|translate.google.co.kr|translate .google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
