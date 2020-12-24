@@ -13,13 +13,12 @@
 @@||otakufr.co/wp-content/plugins/*$image
 @@||translate.google.com/gen204$image,domain=filterlists.com
 @@||vidoup.xyz/cdn/*$xhr,domain=getvid.club
-@@||www.google.com/recaptcha/*$sub-document 
 
 @@||fonts.gstatic.com^$domain=floatplane.com|google.com|youtube.com|bloble.io|regexpal.com|translate.google.com.hk|translate.google.co.kr|translate .google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
 
 @@||fonts.googleapis.com/css?$domain=google.com|translate.google.com.hk|translate.google.co.kr|translate.google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
 
-#The Block List Project Malware list uqload.com unblock
+!The Block List Project Malware list uqload.com unblock
 
 @@||uqload.com/player_clappr^$1p
 @@||uqload.com/css^$1p
@@ -27,11 +26,11 @@
 @@||m*.uqload.com^$1p
 @@||uqload.com/embed-*.html
 
-#The Block list Cybo's Hosts unblock
+!The Block list Cybo's Hosts unblock
 
 @@*/blank.gif
 
-#miscellaneous block list 1
+!miscellaneous block list 1
 
 ||*/tracker.gif$image,important
 
@@ -54,7 +53,7 @@ gen_204?
 *##+js(cookie-remover, *)
 
 
-#miscellaneous block list 2
+!miscellaneous block list 2
 
 
 ||000359.xyz^$important
