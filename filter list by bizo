@@ -18,13 +18,20 @@
 
 @@||fonts.googleapis.com/css?$domain=google.com|translate.google.com.hk|translate.google.co.kr|translate.google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
 
-!The Block List Project Malware list uqload.com unblock
+!filter list uqload.com unblock
 
 @@||uqload.com/player_clappr^$1p
 @@||uqload.com/css^$1p
 @@||uqload.com/images^$1p
 @@||m*.uqload.com^$1p
 @@||uqload.com/embed-*.html
+
+!filter list toonanime
+
+@@||cdn*.tooncdn.xyz/*$domain=toonanime.xyz
+@@||hydracdn.network^$domain=toonanime.co
+wvvw.toonanime.co##div.content__sidebar-section p
+
 
 !The Block list Cybo's Hosts unblock
 
