@@ -1,6 +1,7 @@
 !title:filter list by bizo
 
-!unblock list
+#unblock list
+
 
 @@||ajax.googleapis.com/ajax/libs/webfont/$script,domain=help.typepad.com|regexpal.com
 @@||cdncontent.wakanim.tv^
@@ -20,6 +21,7 @@
 
 !filter list uqload.com unblock
 
+
 @@||uqload.com/player_clappr^$1p
 @@||uqload.com/css^$1p
 @@||uqload.com/images^$1p
@@ -29,6 +31,7 @@
 
 !filter list toonanime
 
+
 @@||cdn*.tooncdn.xyz/*$domain=toonanime.xyz
 @@||hydracdn.network^$domain=toonanime.co
 wvvw.toonanime.co##div.content__sidebar-section p
@@ -36,9 +39,11 @@ wvvw.toonanime.co##div.content__sidebar-section p
 
 !The Block list Cybo's Hosts unblock
 
+
 @@*/blank.gif
 
 !miscellaneous block list 1
+
 
 ||*/tracker.gif$image,important
 
@@ -14035,7 +14040,7 @@ gen_204?
 ||fooheety.com^$important
 ||fooropetes.com^$important
 ||football-eg.com^$important
-||footprint.net^$important                                                     
+||footprint.net^$important
 ||foozoop.com^$important
 ||fophaumpoor.com^$important
 ||forage.restaurant^$important
