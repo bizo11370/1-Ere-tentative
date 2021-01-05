@@ -5,6 +5,5 @@
 order allow,deny
 deny from 13.32.0.0/15
 deny from 13.224.0.0
-allow from all
 </Limit>
 
