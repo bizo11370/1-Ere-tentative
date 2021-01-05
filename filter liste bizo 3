@@ -1,9 +1,4 @@
-# Bloquer des adresses IP
-# Remplacer IP_ADDRESS_* avec l'adresse que vous voulez
 
-<Limit GET POST>
-order allow,deny
 deny from 13.32.0.0/15
-deny from 13.224.0.0
-</Limit>
+deny from 13.224.0.1
 
