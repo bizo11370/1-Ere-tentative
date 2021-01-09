@@ -1,21 +1,24 @@
 !title:filter list by bizo 3
 
 
+<? php
 
-!fliter voiranime.com
+require_once  "vendor / autoload.php" ;
 
+$ secret   = 'CAPTCHA-SECRET' ;
+$ sitekey = 'CAPTCHA-SITEKEY' ;
+$ captcha = nouveau \ Anhskohbo \ NoCaptcha \ NoCaptcha ( $ secret , $ sitekey );
 
-voiranime.com#$#abort-current-inline-script document.createElement String.fromCharCode
-flystream.fr,filmtelecharger.net,libertyvf.co,libertyvf.tv,libertyvf.com,streaming-one.com,extreme-d0wn.com,extreme-d0wn.net,extreme-down.in,extreme-down.ninja,extreme-down.one,extreme-down.pro,extreme-down.top,extreme-down.tv,extrem-down.vip,extreme-down.video,extreme-down.xyz,extreme-download.cc,extreme-download.ch,extreme-download.im,extreme-download.me,extreme-download.ninja,extreme-download.xyz,runative-syndicate.com,run-syndicate.com,runative-syndicate.com,spolecznosci.net#$#abort-current-inline-script Math zfgloaded
+if (! vide ( $ _POST )) {
+     var_dump ( $ captcha -> verifyResponse ( $ _POST [ 'g-recaptcha-response' ]));
+    exit ();
+}
 
-voiranime.com##.top-footer
+?>
 
-||runative-syndicate.com^$subdocument
+< form  action = " ? " method = " POST " >
+    <? php  echo  $ captcha -> display (); ?>
+    < button  type = " submit " > Soumettre </ button >
+</ form >
 
-
-
-
-
-
-
-!end
+<? php  echo  $ captcha -> renderJs (); ?>
