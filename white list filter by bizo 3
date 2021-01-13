@@ -1,0 +1,63 @@
+!title:various filter whitelist by bizo 3
+
+
+! various filter whitelist
+
+
+@@*/blank.gif
+@@||ajax.googleapis.com/ajax/libs/webfont/$script,domain=help.typepad.com|regexpal.com
+@@||amazonaws.com^$domain=github.com
+@@||aol.com/Beacons/*$image
+@@||coveo.com^$domain=dell.com
+@@||fast.fonts.net/jsapi/$script
+@@||filterlists.com^$1p
+@@||filters.adtidy.org
+@@||fls-eu.amazon.fr^$image,1p
+@@||getvid.club^$domain=vostfree.com
+@@||github.com^
+@@||i*.wp.com^$image
+@@||i1.wp.com/*//img/default_avatar.png$image
+@@||khms*.google.com^$image,1p
+@@||lmcdn.fr^$domain=leroymerlin.fr
+@@||media.adeo.com^$image,domain=leroymerlin.fr
+@@||otakufr.co/wp-content/plugins/*$image
+@@||pinterest.fr^
+@@||s.aolcdn.com^$domain=mail.aol.com
+@@||translate.google.com/gen204$image,domain=filterlists.com
+@@||vidbem.com^
+@@||vidoup.xyz/cdn/*$xhr,domain=getvid.club
+
+
+
+@@||fonts.gstatic.com^$domain=floatplane.com|google.com|youtube.com|bloble.io|regexpal.com|translate.google.com.hk|translate.google.co.kr|translate .google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
+
+@@||fonts.googleapis.com/css?$domain=google.com|translate.google.com.hk|translate.google.co.kr|translate.google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
+
+
+!uqload.com filter whitelist
+
+
+@@||uqload.com/player_clappr^$1p
+@@||uqload.com/css^$1p
+@@||uqload.com/images^$1p
+@@||m*.uqload.com^$1p
+@@||uqload.com/embed-*.html
+@@||noagliph.com^$stylesheet,domain=uqload.com
+
+
+!toonanime filter whitelist
+
+
+@@||cdn.plyr.io^$domain=toonanime.xyz
+@@||cdn*.tooncdn.xyz/*$domain=toonanime.xyz
+@@||geoip.redirect-ads.com^$domain=toonanime.co
+@@||hydracdn.network^$domain=toonanime.co
+@@||platform-api.sharethis.com/*$domain=toonanime.co
+
+
+!wakanim filter whitelist
+
+@@||cdncontent.wakanim.tv/scripts/dist/ads.js
+@@||wakanim.tv^$script,xhr,1p
+@@||www.googletagservices.com^$domain=wakanim.tv
+wakanim.tv###qc-cmp2-container
