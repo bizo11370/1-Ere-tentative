@@ -60,8 +60,10 @@
 
 @@||cdncontent.wakanim.tv/scripts/dist/ads.js
 @@||wakanim.tv^$script,xhr,1p
+@@||www.wakanim.tv/fr/v2/video/advertisement$domain=www.wakanim.tv
+@@||www.wakanim.tv/manifest.json$domain=www.wakanim.tv
 @@||www.googletagservices.com^$domain=wakanim.tv
-wakanim.tv###qc-cmp2-container
+
 
 
 ! youtube filter whitelist
