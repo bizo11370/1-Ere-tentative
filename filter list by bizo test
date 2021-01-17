@@ -1,46 +1,6 @@
 !title:filter list by bizo test
 
 
-<div class="slide-text">Glisser les flèches vers la droite</div>
 
 
-<div class="handle" style="perspective: 1000px; backface-visibility: hidden; transform: translateX(250px);"> &gt;&gt;&gt; </div>
-
-
-<script type="text/javascript">
-
-        $(function() {
-
-                var slideToUnlockOld = new Unlocker('stu', {
-                    steps: 2,
-                    callback: function(x, y) {
-
-                    if (x) {
-
-                        this.disable();
-                        $('#stu').fadeOut();
-
-                        url = window.location.href;
-
-                        $.ajax({
-                            type: "get",
-                              url: url,
-                              success: function(d){
-                              console.log( d );
-                                  $('.s-t-u').remove();
-                                  $('body').prepend(d);
-                            },
-                              error: function(xhr, status, error) {
-                              console.log('status: ' + error );
-                           },
-                        });
-
-                    }
-            }
-          });
-        })
-
-        </script>
-
-        
 !end
