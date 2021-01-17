@@ -9,6 +9,7 @@
 @@||amazonaws.com^$domain=github.com
 @@||aol.com/Beacons/*$image
 @@||coveo.com^$domain=dell.com
+@@||embed.mystream.to^
 @@||fast.fonts.net/jsapi/$script
 @@||filterlists.com^$1p
 @@||filters.adtidy.org
@@ -22,6 +23,7 @@
 @@||media.adeo.com^$image,domain=leroymerlin.fr
 @@||otakufr.co/wp-content/plugins/*$image
 @@||pinterest.fr^
+@@||privacybadger.org^
 @@||s.aolcdn.com^$domain=mail.aol.com
 @@||translate.google.com/gen204$image,domain=filterlists.com
 @@||udc.yahoo.com^
@@ -93,3 +95,12 @@
 @@||www.google.*/tv/images/*youtube.png
 @@||www.google.*/tv/images/youtube.jpg
 @@||y2mate.com/themes/images/tip-download-youtube.jpg$image
+
+
+! sfr.fr filter whitelist
+
+
+@@||s1.s-sfr.fr/cas/css/style-responsive.css$stylesheet,domain=www.sfr.fr
+@@||msc01.s-sfr.fr^$image,domain=webmail.sfr.fr
+@@||msc02.s-sfr.fr^$font,image,script,stylesheet,domain=webmail.sfr.fr
+@@||msc03.s-sfr.fr^$script,domain=webmail.sfr.fr
