@@ -8,6 +8,7 @@
 @@||ajax.googleapis.com/ajax/libs/webfont/$script,domain=help.typepad.com|regexpal.com
 @@||amazonaws.com^$domain=github.com
 @@||aol.com/Beacons/*$image
+@@||ccmbg.com^$image,stylesheet,domain=www.commentcamarche.net
 @@||coveo.com^$domain=dell.com
 @@||embed.mystream.to^
 @@||fast.fonts.net/jsapi/$script
@@ -22,11 +23,13 @@
 @@||lmcdn.fr^$domain=leroymerlin.fr
 @@||media.adeo.com^$image,domain=leroymerlin.fr
 @@||otakufr.co/wp-content/plugins/*$image
+@@||p.typekit.net^$image,domain=simulator.peintures.pro
 @@||pinterest.fr^
 @@||privacybadger.org^
 @@||s.aolcdn.com^$domain=mail.aol.com
 @@||translate.google.com/gen204$image,domain=filterlists.com
 @@||udc.yahoo.com^
+@@||use.typekit.net^$font,domain=simulator.peintures.pro
 @@||vidbem.com^
 @@||vidoup.xyz/cdn/*$xhr,domain=getvid.club
 @@||www.securiteinfo.com/administration-systeme-et-reseau/outils/ultimate-hosts-blacklist.shtml$domain=www.securiteinfo.com
