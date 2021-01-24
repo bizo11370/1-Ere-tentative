@@ -4,6 +4,7 @@
 ! various filter whitelist
 
 
+@@||boomerang.dell.com/api/boomerangNsq$ping,domain=www.dell.com
 @@*/blank.gif
 @@||ajax.googleapis.com/ajax/libs/webfont/$script,domain=help.typepad.com|regexpal.com
 @@||amazonaws.com^$domain=github.com
@@ -107,3 +108,6 @@
 @@||msc01.s-sfr.fr^$image,domain=webmail.sfr.fr
 @@||msc02.s-sfr.fr^$font,image,script,stylesheet,domain=webmail.sfr.fr
 @@||msc03.s-sfr.fr^$script,domain=webmail.sfr.fr
+
+
+!end
