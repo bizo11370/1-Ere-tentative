@@ -18,6 +18,7 @@
 @@||fls-eu.amazon.fr^$image,1p
 @@||getvid.club^$domain=vostfree.com
 @@||github-production-upload-manifest-file-7fdce7.s3.amazonaws.com^$xhr,domain=github.com
+@@||github-production-upload-manifest-file-7fdce7.s3.amazonaws.com^$xhr,domain=github.com
 @@||github.com^
 @@||i*.wp.com^$image
 @@||i1.wp.com/*//img/default_avatar.png$image
@@ -29,6 +30,10 @@
 @@||pinterest.fr^
 @@||privacybadger.org^
 @@||s.aolcdn.com^$domain=mail.aol.com
+@@||s.aolcdn.com^$font,domain=www.aol.com
+@@||s.aolcdn.com^$image,domain=www.aol.com
+@@||s.aolcdn.com^$script,domain=www.aol.com
+@@||s.aolcdn.com^$stylesheet,domain=www.aol.com
 @@||translate.google.com/gen204$image,domain=filterlists.com
 @@||udc.yahoo.com^
 @@||use.typekit.net^$font,domain=simulator.peintures.pro
