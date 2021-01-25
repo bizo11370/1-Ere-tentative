@@ -4,11 +4,11 @@
 ! various filter whitelist
 
 
-@@||boomerang.dell.com/api/boomerangNsq$ping,domain=www.dell.com
 @@*/blank.gif
 @@||ajax.googleapis.com/ajax/libs/webfont/$script,domain=help.typepad.com|regexpal.com
 @@||amazonaws.com^$domain=github.com
 @@||aol.com/Beacons/*$image
+@@||boomerang.dell.com/api/boomerangNsq$ping,domain=www.dell.com
 @@||ccmbg.com^$image,stylesheet,domain=www.commentcamarche.net
 @@||coveo.com^$domain=dell.com
 @@||embed.mystream.to^
@@ -17,6 +17,7 @@
 @@||filters.adtidy.org
 @@||fls-eu.amazon.fr^$image,1p
 @@||getvid.club^$domain=vostfree.com
+@@||github-production-upload-manifest-file-7fdce7.s3.amazonaws.com^$xhr,domain=github.com
 @@||github.com^
 @@||i*.wp.com^$image
 @@||i1.wp.com/*//img/default_avatar.png$image
@@ -34,6 +35,7 @@
 @@||vidbem.com^
 @@||vidoup.xyz/cdn/*$xhr,domain=getvid.club
 @@||www.securiteinfo.com/administration-systeme-et-reseau/outils/ultimate-hosts-blacklist.shtml$domain=www.securiteinfo.com
+
 
 @@||fonts.gstatic.com^$domain=floatplane.com|google.com|youtube.com|bloble.io|regexpal.com|translate.google.com.hk|translate.google.co.kr|translate .google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
 
