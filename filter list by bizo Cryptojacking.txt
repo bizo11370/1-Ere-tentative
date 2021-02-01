@@ -175,7 +175,6 @@
 ||10xbtc.ga^$important
 ||10xbtc.net^$important
 ||10xbtc.ru^$important
-||12 usd.biz^$important
 ||12dailycoin.com^$important
 ||12dailycoins.com^$important
 ||12inv.com^$important
@@ -248,7 +247,6 @@
 ||100btc.com^$important
 ||100btcpalace.com^$important
 ||100h3x.com^$important
-||100pb.en ligne^$important
 ||100pb.online^$important
 ||100timesbitcoins.com^$important
 ||100x-bitcoin.com^$important
@@ -300,7 +298,6 @@
 ||330ca589.space^$important
 ||333e.io^$important
 ||333eth.io^$important
-||340ca71c espace^$important
 ||340ca71c.space^$important
 ||355shares.com^$important
 ||360caa42.space^$important
@@ -368,8 +365,7 @@
 ||543874163.ddns.net^$important
 ||1480876790.rsc.cdn77.org^$important
 ||4009997658.com^$important
-|| sia.tech Issue 128^$important
-||# www.sia.tech Issue 128^$important
+||sia.tech Issue 128^$important
 ||a-ad.adwo.com^$important
 ||a-ads.com^$important
 ||a-o.ninja^$important
@@ -1192,7 +1188,7 @@
 ||amazingbitcoin.org^$important
 ||amazingbtcdeposit.com^$important
 ||amazingdeposit.com^$important
-||amazonaws.com^$important
+||amazonaws.com^
 ||amazonhash.com^$important
 ||amber.coin-miners.info^$important
 ||amber.suprnova.cc^$important
@@ -3436,7 +3432,6 @@
 ||cache.windowsdefenderhost.com^$important
 ||cacpcaizwx.bid^$important
 ||cadulscdfhtcb.bid^$important
-||café magique^$important
 ||cafvzpusl.com^$important
 ||cage.xtrapool.com^$important
 ||cagepool.xtrapool.com^$important
@@ -9629,7 +9624,6 @@
 ||jdniyyricenx.com^$important
 ||jdtufqcyumvb.com^$important
 ||jdzmcidlajwwzi.bid^$important
-||je veux apprendre.argent^$important
 ||je.nanopool.org^$important
 ||jebe.renren.com^$important
 ||jebe.xnimg.cn^$important
