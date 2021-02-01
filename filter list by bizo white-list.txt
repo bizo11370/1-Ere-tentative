@@ -17,8 +17,7 @@
 @@||filters.adtidy.org
 @@||fls-eu.amazon.fr^$image,1p
 @@||getvid.club^$domain=vostfree.com
-@@||github-production-upload-manifest-file-7fdce7.s3.amazonaws.com^$xhr,domain=github.com
-@@||github-production-upload-manifest-file-7fdce7.s3.amazonaws.com^$xhr,domain=github.com
+@@||github-production-upload-manifest-file-*.amazonaws.com^$xhr,domain=github.com
 @@||github.com^
 @@||i*.wp.com^$image
 @@||i1.wp.com/*//img/default_avatar.png$image
