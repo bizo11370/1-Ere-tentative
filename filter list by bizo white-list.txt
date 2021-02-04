@@ -4,7 +4,6 @@
 ! various filter whitelist
 
 
-@@*/blank.gif
 @@||ajax.googleapis.com/ajax/libs/webfont/$script,domain=help.typepad.com|regexpal.com
 @@||amazonaws.com^$domain=github.com
 @@||aol.com/Beacons/*$image
@@ -24,6 +23,8 @@
 @@||khms*.google.com^$image,1p
 @@||lmcdn.fr^$domain=leroymerlin.fr
 @@||media.adeo.com^$image,domain=leroymerlin.fr
+@@||neveragain.allstatics.com^$image,domain=www.wondershare.fr
+@@||neveragain.allstatics.com^$stylesheet,domain=www.wondershare.fr
 @@||otakufr.co/wp-content/plugins/*$image
 @@||p.typekit.net^$image,domain=simulator.peintures.pro
 @@||pinterest.fr^
@@ -38,6 +39,7 @@
 @@||use.typekit.net^$font,domain=simulator.peintures.pro
 @@||vidbem.com^
 @@||vidoup.xyz/cdn/*$xhr,domain=getvid.club
+@@||www.ciuvo.com^$subdocument,domain=erp.bdrthermea.com
 @@||www.securiteinfo.com/administration-systeme-et-reseau/outils/ultimate-hosts-blacklist.shtml$domain=www.securiteinfo.com
 
 
