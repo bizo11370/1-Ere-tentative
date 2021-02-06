@@ -174,8 +174,11 @@ wakanim.tv###qc-cmp2-container
 
 
 ||2mdn.net^$domain=crunchyroll.com
+||connect.facebook.net^$domain=crunchyroll.com
 ||crunchyroll.adnetasia.com^$important
 ||crunchyroll.adtrackers.net^$important
+||crunchyroll.com/tracker
+||crunchyroll.com/versioned_assets/js/tracking^
 ||eec.crunchyroll.com^
 ||fbcdn.net^$domain=crunchyroll.com
 ||fwmrm.net^$domain=crunchyroll.com
@@ -184,6 +187,7 @@ wakanim.tv###qc-cmp2-container
 ||innovid.com^$domain=crunchyroll.com
 ||media.bidr.io^$domain=crunchyroll.com
 ||stickyadstv.com^$domain=crunchyroll.com
+||www.crunchyroll.com/i/rss.png$domain=www.crunchyroll.com
 www.crunchyroll.com###onetrust-consent-sdk
 
 
