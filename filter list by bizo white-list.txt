@@ -10,6 +10,7 @@
 @@||boomerang.dell.com/api/boomerangNsq$ping,domain=www.dell.com
 @@||ccmbg.com^$image,stylesheet,domain=www.commentcamarche.net
 @@||coveo.com^$domain=dell.com
+@@||dc.services.visualstudio.com^$xhr,domain=www.microsoft.com
 @@||embed.mystream.to^
 @@||fast.fonts.net/jsapi/$script
 @@||filterlists.com^$1p
@@ -39,7 +40,9 @@
 @@||use.typekit.net^$font,domain=simulator.peintures.pro
 @@||vidbem.com^
 @@||vidoup.xyz/cdn/*$xhr,domain=getvid.club
+@@||wcpstatic.microsoft.com/mscc/*$script,domain=www.microsoft.com
 @@||www.ciuvo.com^$subdocument,domain=erp.bdrthermea.com
+@@||www.crunchyroll.com/fr$generichide
 @@||www.securiteinfo.com/administration-systeme-et-reseau/outils/ultimate-hosts-blacklist.shtml$domain=www.securiteinfo.com
 
 
