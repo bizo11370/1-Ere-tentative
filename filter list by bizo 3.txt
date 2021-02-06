@@ -1,9 +1,10 @@
 !title:filter list by bizo 3
 
-# multiple lists : trackers - trojan horse - suspicious top level domain - reputation - malicious advertising - adult - cookies - others#
+# multiple lists 
 
 
 ! filter list cookie
+
 
 &accept_cookies=
 _alert_cookie/
@@ -1144,8 +1145,10 @@ wakanim.tv###qc-cmp2-container
 ||fwmrm.net^$domain=crunchyroll.com
 ||innovid.com^$domain=crunchyroll.com
 ||media.bidr.io^$domain=crunchyroll.com
+||sa.crunchyroll.com^
 ||stickyadstv.com^$domain=crunchyroll.com
 ||www.crunchyroll.com/i/rss.png$domain=www.crunchyroll.com
+crunchyroll.com##.cr-expo-banner
 www.crunchyroll.com###onetrust-consent-sdk
 
 
