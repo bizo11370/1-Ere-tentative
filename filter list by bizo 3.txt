@@ -1142,8 +1142,6 @@ wakanim.tv###qc-cmp2-container
 ||eec.crunchyroll.com^
 ||fbcdn.net^$domain=crunchyroll.com
 ||fwmrm.net^$domain=crunchyroll.com
-||img1.ak.crunchyroll.com/i/spire1/*.jpg$image,domain=crunchyroll.com
-||img1.ak.crunchyroll.com/i/spire2/*.jpg$image,domain=crunchyroll.com
 ||innovid.com^$domain=crunchyroll.com
 ||media.bidr.io^$domain=crunchyroll.com
 ||stickyadstv.com^$domain=crunchyroll.com
