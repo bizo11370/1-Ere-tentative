@@ -2151,7 +2151,6 @@
 ||goldstats.com^$important
 ||gondolagnome.com^$important
 ||goodadvert.ru^$important
-||google-analytics.com^$important
 ||googleadservices.com^$important
 ||googlesyndication.com^$important
 ||gorgeousground.com^$important
