@@ -3009,8 +3009,11 @@ wakanim.tv###qc-cmp2-container
 ||sa.crunchyroll.com^
 ||stickyadstv.com^$domain=crunchyroll.com
 ||www.crunchyroll.com/i/rss.png$domain=www.crunchyroll.com
+||www.crunchyroll.com/versioned_assets/js/components/ads_enabled.ac6fa3aa.js$important
 crunchyroll.com##.cr-expo-banner
+www.crunchyroll.com##.ot-fade-in.onetrust-pc-dark-filter
 www.crunchyroll.com###onetrust-consent-sdk
+www.crunchyroll.com###template_skin_splashlink
 
 
 ! filter list vostfree
