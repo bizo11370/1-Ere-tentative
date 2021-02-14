@@ -10287,7 +10287,7 @@ zysk.com.pl###pageUpperInfo
 ##.article-pic-soc
 ##.article-rail__social
 ##.article-return-to-top
-##.article-section > .ui-button-close
+##.article-section
 ##.article-selection-shares
 ##.article-share
 ##.article-share__item
@@ -10872,7 +10872,7 @@ zysk.com.pl###pageUpperInfo
 ##.bio-socials
 ##.bio-with-share
 ##.bipPasekCookie
-##.biscotto > .biscotto-inner
+##.biscotto
 ##.biscotto.sc-bottom
 ##.biscuit-message
 ##.biscuit-usage
@@ -11779,10 +11779,10 @@ zysk.com.pl###pageUpperInfo
 ##.cc-stop-overlay
 ##.cc-window-banner
 ##.cc-window.cookie
-##.cc-wrapper > .cc-inner
+##.cc-wrapper
 ##.cc[data-notice="cookies"]
 ##.ccbar.ccpane
-##.ccbarbody .ccpane
+##.ccbarbody
 ##.ccc_banner-wrapper
 ##.ccc-widget
 ##.cccenter-show-banner
@@ -11890,7 +11890,7 @@ zysk.com.pl###pageUpperInfo
 ##.clm-cookie-banner
 ##.clone-cookie-alert
 ##.close-cookies
-##.close-wrap > .close-overlay
+##.close-wrap
 ##.closeCookieParent
 ##.closeCookiePolicy
 ##.cls_xswdg_feedburner
@@ -12133,8 +12133,7 @@ zysk.com.pl###pageUpperInfo
 ##.contact-socials
 ##.contact-whatsapp
 ##.contactSocialMedia
-##.container > .infoBoxList > .shareInfoBox
-##.container ~ div[data-react-class="CookieAgree"]
+##.container
 ##.container__cookiesPolicy
 ##.container_cookie
 ##.container_cookies
@@ -12966,14 +12965,12 @@ zysk.com.pl###pageUpperInfo
 ##.cookie-warning-wrapper
 ##.cookie-warnung
 ##.cookie-widget
-##.cookie-widget-v2
 ##.cookie-window
 ##.cookie-wr
 ##.cookie-wrap
 ##.cookie-wrap-content
 ##.cookie-wrap-tip
 ##.cookie-wrapper
-##.cookie-wrapper ~ div[class*="overlay-cookie"]
 ##.cookie-wrn-wrapper
 ##.cookie.alert
 ##.cookie.anchored-toast
@@ -13000,6 +12997,7 @@ zysk.com.pl###pageUpperInfo
 ##.cookie[role="alertdialog"]
 ##.cookie5
 ##.cookie24_banner-wrapper
+##.cookie-widget-v2
 ##.cookieabfrage
 ##.cookieAcc
 ##.CookieAccept
@@ -14319,7 +14317,7 @@ zysk.com.pl###pageUpperInfo
 ##.dtm-footer-social-link
 ##.duc-base_cookie-consent
 ##.dv-cookies
-##.dv-responsive div[data-bind*="CookiesInfo"]
+##.dv-responsive
 ##.dv-social-media
 ##.dvcookies-banner-container
 ##.dvNewDetailShare
@@ -15211,7 +15209,7 @@ zysk.com.pl###pageUpperInfo
 ##.fcs-cookie-component
 ##.fdbk_tab_right
 ##.fe-share
-##.feature > #tell-a-friend
+##.feature
 ##.feature-photos-share-tool
 ##.featured-article-fb
 ##.featured-author-info-social
@@ -15949,7 +15947,7 @@ zysk.com.pl###pageUpperInfo
 ##.freyja_mob_follow
 ##.frizbit-prompt
 ##.front-overlay-arrows
-##.front-page > #sliding-popup
+##.front-page
 ##.frontendPrivacy__consentBanner
 ##.frontpage-social-block
 ##.fs_facebook
@@ -16397,10 +16395,10 @@ zysk.com.pl###pageUpperInfo
 ##.go-top-button
 ##.go-top-footer-btn
 ##.go-top-wrapper
+##.go2top
 ##.go-top2
 ##.go-twit
 ##.go-up-btn
-##.go2top
 ##.goBackTop
 ##.good_old_share_specificfeeds_follow
 ##.goodshare
@@ -16806,7 +16804,7 @@ zysk.com.pl###pageUpperInfo
 ##.hh-socialmedia
 ##.hh-twitter
 ##.hi-hd-share
-##.hidden-horizontal-scrollbar, .filter-bar__provider-row
+##.hidden-horizontal-scrollbar,
 ##.hidden-nav-share
 ##.hidden-xs.eu-policy
 ##.hide-cookie-setting-button
@@ -17166,11 +17164,11 @@ zysk.com.pl###pageUpperInfo
 ##.icon-google
 ##.icon-google_plus
 ##.icon-google-32
+##.icon-google-plus2
 ##.icon-google-plus-2
 ##.icon-google-plus-circle
 ##.icon-google-plus-icon
 ##.icon-google-plus-round
-##.icon-google-plus2
 ##.icon-GooglePlus
 ##.icon-googlePlus
 ##.icon-googleplus-white
@@ -17266,8 +17264,6 @@ zysk.com.pl###pageUpperInfo
 ##.icon-sd-pinterest
 ##.icon-sd-twitter
 ##.icon-share
-##.icon-share2
-##.icon-share12
 ##.icon-share-2
 ##.icon-share-alt
 ##.icon-share-facebook
@@ -17276,6 +17272,8 @@ zysk.com.pl###pageUpperInfo
 ##.icon-share-tumblr
 ##.icon-share-twitter
 ##.icon-share-vine
+##.icon-share2
+##.icon-share12
 ##.icon-sidebar-share
 ##.icon-sina-weibo
 ##.icon-social
@@ -17304,9 +17302,6 @@ zysk.com.pl###pageUpperInfo
 ##.icon-social-tumblr
 ##.icon-social-twitter
 ##.icon-social-twitter-circle
-##.icon2-linkedin
-##.icon2-twitter
-##.icon2-vimeo
 ##.icon-social-whatsup2
 ##.icon-social-youtube
 ##.icon-soundcloud
@@ -17331,8 +17326,6 @@ zysk.com.pl###pageUpperInfo
 ##.icon-Twitter
 ##.icon-twitter
 ##.icon-twitter_master
-##.icon-twitter-2
-##.icon-twitter-24
 ##.icon-twitter-alt
 ##.icon-twitter-bg
 ##.icon-twitter-bird
@@ -17347,10 +17340,11 @@ zysk.com.pl###pageUpperInfo
 ##.icon-twitter-squared
 ##.icon-twitter-sticky
 ##.icon-twitter-white
-##.icon2-facebook
 ##.icon-twitter2
 ##.icon-twitter3
 ##.icon-twitter16
+##.icon-twitter-2
+##.icon-twitter-24
 ##.icon-vimeo
 ##.icon-VK
 ##.icon-vk
@@ -17365,13 +17359,17 @@ zysk.com.pl###pageUpperInfo
 ##.icon-youtube_master
 ##.icon-youtube-24
 ##.icon-youtube-alt
-##.icon-youtube-play-2
 ##.icon-youtube-sign
 ##.icon-youtube-white
 ##.icon-yt
 ##.icon.google_button
 ##.icon.Gplus
 ##.icon.RSS
+##.icon2-facebook
+##.icon2-linkedin
+##.icon2-twitter
+##.icon2-vimeo
+##.icon-youtube-play-2
 ##.icona-rss
 ##.icona-social
 ##.icone-rss
@@ -18903,7 +18901,7 @@ zysk.com.pl###pageUpperInfo
 ##.ml-footer-social-links
 ##.ml-share
 ##.mm-cookies
-##.mm-page > #cookie
+##.mm-page
 ##.mmCookieInfoBoxUser
 ##.mmcookiepref-plugin
 ##.mmCookies
@@ -19831,7 +19829,7 @@ zysk.com.pl###pageUpperInfo
 ##.notifyjs-cookiebar-base
 ##.notifyjs-corner
 ##.notifyjs-notify-cookies-info
-##.noty_cont > li > .noty_alert > .noty_message
+##.noty_cont
 ##.noty_cookie
 ##.nova_reseau-sociaux
 ##.np_DialogConsent
@@ -20044,7 +20042,7 @@ zysk.com.pl###pageUpperInfo
 ##.outer-privacy-top-navigationBar
 ##.outerCookieBar
 ##.outerHeaderCtaNewsletterWrap
-##.overflow-wrapper > #notify-bar
+##.overflow-wrapper
 ##.overfooter-social
 ##.overlay_facebook
 ##.overlay_pri
@@ -20777,6 +20775,9 @@ zysk.com.pl###pageUpperInfo
 ##.pt-cookie-bar
 ##.pt-share
 ##.pterest
+##.pub_300x250
+##.pub_300x250m
+##.pub_728x90
 ##.pub-page-share-tools
 ##.pubexchange_module
 ##.public_legal_cookies
@@ -20895,7 +20896,7 @@ zysk.com.pl###pageUpperInfo
 ##.rads-share
 ##.rads-social
 ##.RadSocialShare
-##.rail > .ad_spot + .most-popular
+##.rail
 ##.RailCtaNewsletterWrap
 ##.rambler-share
 ##.rank-cookie-bar
@@ -21190,6 +21191,7 @@ zysk.com.pl###pageUpperInfo
 ##.s_tumblr
 ##.s_twitter
 ##.s_youtube
+##.s-10-cookie-consent
 ##.s-btn-gotop
 ##.s-btns
 ##.s-cookie-hint
@@ -21228,7 +21230,6 @@ zysk.com.pl###pageUpperInfo
 ##.s5_scrolltotop
 ##.s24-art-share
 ##.s360-cookie-hint-wrapper
-##.s-10-cookie-consent
 ##.saboxplugin-socials
 ##.safirShare
 ##.Sailthru_Subscribe
@@ -21276,7 +21277,7 @@ zysk.com.pl###pageUpperInfo
 ##.scpin-detector
 ##.scrbbl-post-opts-wrap-share
 ##.scrbbl-tb-share-actions
-##.screenContent > .u-bottom0
+##.screenContent
 ##.scribol
 ##.script_cookie_banner
 ##.scriptlesssocialsharing
@@ -22684,7 +22685,7 @@ zysk.com.pl###pageUpperInfo
 ##.site_cookiesplash
 ##.site_header_cookie
 ##.site_share
-##.site-content > .slide-dock-on
+##.site-content
 ##.site-cookie
 ##.site-cookie-info
 ##.site-cookie-panel
@@ -23073,6 +23074,10 @@ zysk.com.pl###pageUpperInfo
 ##.social_header
 ##.social_header_icons
 ##.social_holder
+##.social2
+##.social2-links-wrapper
+##.social4i
+##.social300
 ##.social_i_30x30
 ##.social_ico
 ##.social_ico_box
@@ -23907,10 +23912,6 @@ zysk.com.pl###pageUpperInfo
 ##.social-utility
 ##.social-utils-top
 ##.social-v
-##.social2
-##.social2-links-wrapper
-##.social4i
-##.social300
 ##.social-v3-googleplus
 ##.social-v3-linkedin
 ##.social-v3-twitter
@@ -24633,7 +24634,7 @@ zysk.com.pl###pageUpperInfo
 ##.sticky-cookie-warning
 ##.sticky-cookielawbanner
 ##.sticky-cookies
-##.sticky-footer > div > div > .c-cell
+##.sticky-footer
 ##.sticky-footer-cookie-info
 ##.sticky-likebox
 ##.sticky-share
@@ -24793,6 +24794,7 @@ zysk.com.pl###pageUpperInfo
 ##.subscribe_link
 ##.subscribe_newsletter
 ##.subscribe_newsletter_notificationbox
+##.subscribe2
 ##.subscribe_popup1
 ##.subscribe_rss
 ##.subscribe_thasu
@@ -24848,7 +24850,6 @@ zysk.com.pl###pageUpperInfo
 ##.subscribe-widget-sidebar
 ##.subscribe-wrapper
 ##.subscribe.block
-##.subscribe2
 ##.subscribeblock
 ##.subscribeBox
 ##.subscribebox
@@ -24881,7 +24882,7 @@ zysk.com.pl###pageUpperInfo
 ##.sucuri_social_icons_widget
 ##.SUD_socail_links
 ##.sui-CmpBanner
-##.sui-CmpUi > .sui-MoleculeNotification
+##.sui-CmpUi
 ##.sui-CookieBanner
 ##.sulco-cookies
 ##.sumome-image-sharer
@@ -25049,11 +25050,16 @@ zysk.com.pl###pageUpperInfo
 ##.tesco-cookie
 ##.test-cookie-notification
 ##.testoCookiePolicy
+##.text_ad
 ##.text_list_inline
+##.text-ad
+##.text-ad-links
+##.text-ads
 ##.text-center.cookie
 ##.text-cookie
 ##.text-cookies-notification
 ##.text-m-join-us-on-facebook
+##.textAd
 ##.texteAlerteCookie
 ##.texto_cookies
 ##.tf-share
@@ -25957,12 +25963,12 @@ zysk.com.pl###pageUpperInfo
 ##.vs-twitter
 ##.vshare
 ##.vw_js_cookie_eu_policy
-##.vw_m511_back_top
-##.vw_m520_topbar
 ##.vw_system_notification_opt_in
 ##.vw-cookie-alert
-##.vw-scroll-to-top
 ##.vw5-statisticsOptBox
+##.vw_m511_back_top
+##.vw_m520_topbar
+##.vw-scroll-to-top
 ##.vwd4_cookie_policy
 ##.vxp-share__channel-link
 ##.W_gotop
@@ -26591,23 +26597,22 @@ zysk.com.pl###pageUpperInfo
 ##.zr_alerts_widget_link
 ##.zss-follow-us
 ##.ZZ_social_icons
-##[alt="Like us on Facebook"]
+##[alt="Like
 ##[alt="retweet"]
-##[alt="Scroll Top"]
+##[alt="Scroll
 ##[app="back-to-top-button"]
 ##[aria-controls="rssModal"]
 ##[aria-describedby="cookie-information"]
 ##[aria-describedby="cookieprivacy"]
 ##[aria-describedby="cookies-policy-message"]
 ##[aria-describedby="dialog-eu-cookie-law"]
-##[aria-label^="Follow on Facebook"]
-##[aria-label="Back to top"]
+##[aria-label^="Follow
+##[aria-label="Back
 ##[aria-label="cookieconsent"]
-##[aria-label="Follow us on Facebook"]
-##[aria-label="Follow us on Twitter"]
-##[aria-label="More sharing options"]
-##[aria-label="Scroll to top of page"]
-##[aria-label="Social bar"]
+##[aria-label="Follow
+##[aria-label="More
+##[aria-label="Scroll
+##[aria-label="Social
 ##[aria-labelledby="ui-dialog-title-cookiebox"]
 ##[card-share-open]
 ##[class*="socialLink"]
@@ -26619,180 +26624,18 @@ zysk.com.pl###pageUpperInfo
 ##[cnn-cookie-policy]
 ##[cookie-unique-name]
 ##[data-at-selector="cookie-banner"]
-##[data-bind="visible: showCookieWarning"]
+##[data-bind="visible:
 ##[data-bvo-type="share"]
 ##[data-cookie-id]
 ##[data-cookie-validity-days]
 ##[data-cookie^="cookie.disclaimer"]
 ##[data-cookie="uso-accept-cookies"]
-##[data-ffx-event-category="Share content"]
+##[data-ffx-event-category="Share
 ##[data-funct="GoToPageTop"]
 ##[data-gtm-trigger*="share"]
 ##[data-id="documentScrollToTop"]
 ##[data-key="cookies-warning"]
-##[data-link^="https://twitter.com/share?"]
-##[data-link^="https://www.facebook.com/sharer.php?"]
-##[data-linktracking="cta:scroll_up"]
-##[data-module="cookies"]
-##[data-module="newsletter-signup"]
-##[data-name="cookieNotice"]
-##[data-ng-click^="scrollToTop"]
-##[data-notification="CookiePolicyAgreement"]
-##[data-open="rssModal"]
-##[data-original-title="Share or embed this video!"]
-##[data-pin-href^="https://www.pinterest.com/pin/create/"]
-##[data-pin-log^="button_pinit"]
-##[data-placement-name="share"]
-##[data-plugin="fbshare"]
-##[data-plugin="pinshare"]
-##[data-plugin="twshare"]
-##[data-popover=".share-popover"]
-##[data-post-nav-item="Share"]
-##[data-qa="txtGdprCookiePopup"]
-##[data-react-class="EUCookieBanner"]
-##[data-role="back-to-top-cta"]
-##[data-selector="cookie-policy"]
-##[data-social-action="visit"]
-##[data-social="share"]
-##[data-target="#newsletter-modal"]
-##[data-target="#social-share"]
-##[data-target="coockie"]
-##[data-test-id="cookie-consent-banner"]
-##[data-test="back-to-top"]
-##[data-test="cookie-banner"]
-##[data-test="social-icon-facebook"]
-##[data-test="social-icon-google"]
-##[data-test="social-icon-pinterest"]
-##[data-test="social-icon-twitter"]
-##[data-testid="article-toolbar-goToTopButton"]
-##[data-testid="react-scroll-up-button"]
-##[data-token="gdpr_cookie_notice"]
-##[data-tracking-event="eventShareUs"]
-##[data-tracking-zone="share"]
-##[data-trackname="page-top"]
-##[data-trigger="share-links-manager"]
-##[data-type="cookie-addsense"]
-##[data-type="facebook-bottom-share"]
-##[data-type="pinterest-bottom-share"]
-##[data-type="shareCardAction"]
-##[data-type="twitter-bottom-share"]
-##[data-unique-cookie-name]
-##[data-veci="cookies-policy"]
-##[eapps-link="share"]
-##[href^="//plus.google.com/share"]
-##[href^="//twitter.com/share"]
-##[href^="//www.twitter.com/share"]
-##[href^="http://reddit.com/submit"]
-##[href^="https://tm-offers.gamingadult.com/"] > .lazyloaded
-##[href="http://www.addthis.com/bookmark.php"]
-##[href="https://www.addthis.com/bookmark.php"]
-##[id^="gigya_inline_share_"]
-##[id^="sl_share_fb"]
-##[id^="wellthemes_social_subscribers_widget"]
-##[js-target="share-flyout"]
-##[name="Click to follow us on twitter"]
-##[name="cookie-info"]
-##[name="fb_share"]
-##[name="goBackTop"]
-##[ng-show^="cookiePolicyCtrl"]
-##[onclick^="jumpToTop"]
-##[onclick^="window.open ('http://twitter.com/intent/tweet?status="]
-##[onclick^="window.open ('http://www.facebook.com/share.php?"]
-##[onclick^="window.open ('https://plus.google.com/share?url="]
-##[onclick^="window.open('http://twitter.com/home?status="]
-##[onclick^="window.open('http://twitter.com/share?"]
-##[onclick^="window.open('http://www.blogger.com/blog-this.g?"]
-##[onclick^="window.open('http://www.facebook.com/sharer.php?"]
-##[onclick^="window.open('http://www.pinterest.com/pin/create/"]
-##[onclick^="window.open('http://www.tumblr.com/share/"]
-##[onclick^="window.open('https://facebook.com/sharer/sharer.php?"]
-##[onclick^="window.open('https://plus.google.com/share?"]
-##[onclick^="window.open('https://twitter.com/intent/tweet?"]
-##[onclick^="window.open('https://www.facebook.com/sharer/sharer.php?"]
-##[original-title="Toggle to share your comment"]
-##[target="socialbookmark"]
-##[title^="Follow me on "]
-##[title^="Follow on Facebook"]
-##[title^="Follow On Twitter"]
-##[title^="Follow on Twitter"]
-##[title^="Follow Us On "]
-##[title^="Follow Us on "]
-##[title^="Follow us on "]
-##[title^="Like us on Facebook"]
-##[title^="Share on Facebook"]
-##[title^="Share on Google+"]
-##[title^="Share on LinkedIn"]
-##[title^="Share on Linkedin"]
-##[title^="Share on Tumblr"]
-##[title^="Share on Twitter"]
-##[title^="Share this article!"]
-##[title^="Share this story"]
-##[title^="Share via Facebook"]
-##[title^="Share with Digg"]
-##[title^="Share with Facebook"]
-##[title^="Share with Fark"]
-##[title^="Share with Stumble Upon"]
-##[title^="Share with Twitter"]
-##[title^="Stumble This Post"]
-##[title^="Submit this post on "]
-##[title^="Subscribe to our YouTube "]
-##[title="Add us on Google+"]
-##[title="Back to Top"]
-##[title="Be Our Fan on Facebook!"]
-##[title="Become a Facebook Fan"]
-##[title="Become a Fan on Facebook"]
-##[title="Bookmark using any bookmark manager!"]
-##[title="Click to share this post on Twitter"]
-##[title="CONNECT WITH US ON FACEBOOK"]
-##[title="Digg it!"]
-##[title="Digg This Post"]
-##[title="Email this page to a friend"]
-##[title="Facebook-like"]
-##[title="Find us on Facebook"]
-##[title="FOLLOW US ON TWITTER"]
-##[title="Get Posts On Facebook Wall"]
-##[title="Go to the top"]
-##[title="Go to Top"]
-##[title="Join us on Twitter"]
-##[title="Like this article?  Submit it to your favourite social bookmarking site!"]
-##[title="More ways to share"]
-##[title="Post this story to Twitter"]
-##[title="Post to del.icio.us"]
-##[title="Post to Digg"]
-##[title="Post to Facebook"]
-##[title="Post to Stumble-upon"]
-##[title="Post to Twitter"]
-##[title="Recommend this page"]
-##[title="Reddit!"]
-##[title="Return to top of page"]
-##[title="Scroll Top"]
-##[title="Share on Google Plus"]
-##[title="Share on Wechat"]
-##[title="Share on Weibo"]
-##[title="Share to Facebook"]:not(.wpel-icon-right)
-##[title="Share via email"]
-##[title="Share via Reddit"]
-##[title="Submit to Digg"]
-##[title="Submit to Google Bookmarks"]
-##[title="submit to redit"]
-##[title="Subscribe by Facebook"]
-##[title="Subscribe by Twitter"]
-##[title="Subscribe in a reader"]
-##[title="Subscribe to our blog"]
-##[title="Subscribe to our RSS feed"]
-##[title="Subscribe to RSS Feed"]
-##[title="SUBSCRIBE TO RSS FEEDS"]
-##[title="Subscribe via Email"]
-##[title="Thumb this up at StumbleUpon"]
-##[title="Torna in cima alla pagina"]
-##[title="Torna in cima"]
-##[title="Tweet This"]
-##[title="Watch Our Videos on YouTube"]
-##[title="Yahoo! Buzz"]
-##[type="cookie-notification"]
-##[uk-icon="facebook"]
-##[uk-icon="google-plus"]
-##[uk-icon="twitter"]
+##[data-link^="https://twitter.com/share
 ###___gatsby div[class*="cookies-alert"]
 ###___gatsby div[class*="cookies-module--cookieprompt"]
 ###___ndtvpushdiv
@@ -42365,7 +42208,7 @@ www.microsoft.com##.f-horizontal.m-social
 
 ! filter list google
 
-
+google.fr###lb
 www.google.fr##.fp-nh.gTMtLb
 www.google.fr##.gb_g
 
