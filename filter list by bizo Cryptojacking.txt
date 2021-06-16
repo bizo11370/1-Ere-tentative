@@ -1188,7 +1188,6 @@
 ||amazingbitcoin.org^$important
 ||amazingbtcdeposit.com^$important
 ||amazingdeposit.com^$important
-||amazonaws.com^
 ||amazonhash.com^$important
 ||amber.coin-miners.info^$important
 ||amber.suprnova.cc^$important
