@@ -19,6 +19,7 @@ _pagespeed_beacon?
 /img/social-
 /js/script-*.*.js$script,domain=domonosok.tk|haes.tech|hqq.to|porn-watch.ru
 /mod_pagespeed_beacon?
+/optimizely-
 /perf-vitals_
 /rollbar.js
 /rss.gif
@@ -131,6 +132,7 @@ i.ibb.co/kg3hHbm
 ###ads3
 ###ads4
 ###cookie-policy
+###fb-root:not(body):not(html)
 ###gotop
 ###privacy-alert
 ###share-button
@@ -138,11 +140,13 @@ i.ibb.co/kg3hHbm
 ###to-top:not(body)
 
 
+||fonts.googleapis.com/css
 ||fonts.googleapis.com/css?
 ||googletagmanager.com^
 ||googletagservices.com^
 ||pagead2.googlesyndication.com^
 ||googlesyndication.com^
+
 
 sb.scorecardresearch.com
 www.tns-counter.ru
@@ -200,6 +204,7 @@ www.tns-counter.ru
 
 ||img1.ak.crunchyroll.com/i/spire2/05ed6158ab0bf2442c692c2325f954571555017990_main.png$image
 ||img1.ak.crunchyroll.com/i/spire3/7b6a2f23ff22d2f7ed1b603a105db55c1623107784_main.jpg$image
+||img1.ak.crunchyroll.com/i/spire3/68b7afadc32d87c6d7396d3b8635c3b91623614424_main.jpg$image
 
 
 ||abtasty.com^
@@ -250,14 +255,12 @@ www.tns-counter.ru
 ||amung.us^
 
 
-||clipwatching.com/clipjs.js
-
-
 ||ddmax20.xyz^
 ||yomeno.xyz^
 
 
 ||am15.net^
+||az416426.vo.msecnd.net^
 ||tag.aticdn.net^
 ||whowhipi.net^
 
@@ -280,6 +283,12 @@ www.tns-counter.ru
 ||d2kk0o3fr7ed01.cloudfront.net^
 ||d18t35yyry2k49.cloudfront.net^
 ||dmmzkfd82wayn.cloudfront.net^
+
+
+||clipwatching.com/clipjs.js
+||youtube.com/api/stats/qoe?
+||youtube.com/*_204
+||www.wakanim.tv/manifest.json$other,domain=www.wakanim.tv
 
 
 ||aol.com/beacons/
@@ -336,6 +345,7 @@ google.fr###tadsb[aria-label]
 google.fr###taw > div > [data-ved]
 nautiljon.com##.gad
 s.yimg.com##div
+toonanime.tv##iframe:nth-of-type(3)
 v5.anime-ultime.net##.playBigBtn
 video.sibnet.ru##.vjs-overlayclip-box-close
 video.sibnet.ru##.vjs-share-button
@@ -353,6 +363,7 @@ www.rueducommerce.fr##.mfp-ready.mfp-bg
 www.silicon.fr##.pop-in-workplace.pop-in.event-popin
 www.wakanim.tv##.css-1bch5xm.qc-cmp-cleanslate
 www.wakanim.tv##.nav-main_social
+www.wakanim.tv##div.footer-main_item:nth-of-type(6)
 
 
 foxsports.com.au,americanphotomag.com,baggersmag.com,boatingmag.com,cbssports.com,chowhound.com,cnet.com,cruisingworld.com,cycleworld.com,dirtrider.com,diversitybestpractices.com,edmunds.com,floridatravellife.com,frontpage.pch.com,gamespot.com,goal.com,hotbikeweb.com,ign.com,infinitiev.com,islands.com,marlinmag.com,metacritic.com,motorcyclecruiser.com,motorcyclistonline.com,msn.com,outdoorlife.com,popphoto.com,popsci.com,range365.com,saltwatersportsman.com,scubadiving.com,sportdiver.com,sportfishingmag.com,sportingnews.com,spox.com,superstreetbike.com,thoughtcatalog.com,tv.com,tvguide.com,utvdriver.com,wakeboardingmag.com,webmd.com,wetteronline.de,workingmother.com,yachtingmagazine.com##+js(set-constant, Object.prototype.iadb, undefined)
@@ -363,9 +374,17 @@ foxsports.com.au,americanphotomag.com,baggersmag.com,boatingmag.com,cbssports.co
 
 *##+js(abort-current-inline-script, *)
 *##+js(abort-on-property-read, *)
+*##+js(abort-on-property-write, *)
+*##+js(addEventListener-defuser, *)
 *##+js(addEventListener-defuser, /*/i)
+*##+js(cookie-remover, *)
 *##+js(no-floc)
+*##+js(no-setInterval-if, *)
+*##+js(no-setTimeout-if, *)
+*##+js(remove-attr, *)
+*##+js(set-constant, *)
 *##+js(set-constant, Document.prototype.interestCohort, undefined)
+*##+js(window.open-defuser)
 
 
 clipwatching.*##+js(abort-current-inline-script, String.fromCharCode, /emZnbG9hZGVk|break;case \$\.|break;case \d{1}/)
@@ -432,7 +451,7 @@ www.google.*##+js(set-constant, rwt, noopFunc)
 172.67.137.113
 
 
-
+@@||cdnjs.cloudflare.com^$script,domain=www.easylounge.com
 @@||cdn.cookielaw.org^$script,domain=www.crunchyroll.com
 @@||wakanim.tv/fr/v2/*$domain=wakanim.tv
 @@||www.google.*/search?$generichide
