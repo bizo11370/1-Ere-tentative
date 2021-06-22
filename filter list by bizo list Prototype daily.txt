@@ -308,7 +308,6 @@ www.tns-counter.ru
 ||cookielaw.org^$3p
 
 
-||sa.crunchyroll.com/analytics.js
 ||google-analytics.com^
 
 
