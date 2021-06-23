@@ -15,7 +15,9 @@ _pagespeed_beacon?
 /ckies.js
 /client_204?$image
 /cookiecontrol.js
+/cookiejs/*
 /gen_204?$ping
+/html/body/div[2]/div[1]
 /img/social-
 /js/script-*.*.js$script,domain=domonosok.tk|haes.tech|hqq.to|porn-watch.ru
 /mod_pagespeed_beacon?
@@ -92,6 +94,7 @@ i.ibb.co/kg3hHbm
 ##.widget_adswidget2-quick-adsense
 ##.widget_adswidget3-quick-adsense
 ##.widget_adswidget4-quick-adsense
+##.ytp-share-button
 ##[href*="/afu.php"]
 ##[id*="ScriptRoot"]
 ##[id^="adswidget2-quick-adsense"]
@@ -106,8 +109,6 @@ i.ibb.co/kg3hHbm
 ##a[href^="http://vk.com/share.php?"]
 ##a[href^="http://vk.com/share.php"]
 ##a[href^="http://www.facebook.com/sharer.php?"]
-##a[href^="http://www.facebook.com/sharer.php?"]
-##a[href^="http://www.facebook.com/sharer.php"]
 ##a[href^="http://www.facebook.com/sharer.php"]
 ##a[href^="http://www.odnoklassniki.ru/dk?st.cmd=addShare"]
 ##a[href^="https://plus.google.com/share?"]
@@ -170,6 +171,7 @@ www.tns-counter.ru
 ||inpagepush.com^$important
 ||moneymakercdn.com^$important
 ||movcpm.com^$important
+||platform.twitter.com/widgets/*$important
 ||scorecardresearch.com^$important
 
 
@@ -182,17 +184,21 @@ www.tns-counter.ru
 ||chatango.com^$3p
 ||cloudflareinsights.com^$3p
 ||cloudfront.net^$font,3p
+||connect.facebook.net^$3p,domain=~facebook.com|~fb.com
 ||consensu.org^$3p
+||cookielaw.org^$3p
 ||cookielaw.org^$3p
 ||datadome.co^$3p
 ||etp-prod.com^$3p
 ||fwmrm.net^$3p
 ||hubvisor.io^$3p
 ||moneymakercdn.com^$3p
+||platform.twitter.com/js/button.$3p
 ||popnc.com^$3p
 ||privacy-center.org^$3p
 ||rating-widget.com^$3p
 ||segment.io^$3p
+||sentry.io^$3p
 ||services.vlitag.com^$3p
 ||smartlook.com^$3p
 ||static.criteo.net^3p
@@ -202,9 +208,6 @@ www.tns-counter.ru
 ||widget.trustpilot.com^$3p
 
 
-||img1.ak.crunchyroll.com/i/spire2/05ed6158ab0bf2442c692c2325f954571555017990_main.png$image
-||img1.ak.crunchyroll.com/i/spire3/7b6a2f23ff22d2f7ed1b603a105db55c1623107784_main.jpg$image
-||img1.ak.crunchyroll.com/i/spire3/68b7afadc32d87c6d7396d3b8635c3b91623614424_main.jpg$image
 
 
 ||abtasty.com^
@@ -221,6 +224,7 @@ www.tns-counter.ru
 ||eec.crunchyroll.com^
 ||exdynsrv.com^
 ||faglollstwo.com^
+||google-analytics.com^
 ||greatdexchange.com^
 ||imasdk.googleapis.com^
 ||in-page-push.com^
@@ -246,6 +250,8 @@ www.tns-counter.ru
 ||wkcuhilbg.com^
 ||www.hugedomains.com^
 ||ytimm.com^
+||js.stripe.com^
+||m.stripe.com^
 
 
 ||d-bi.fr^
@@ -276,6 +282,9 @@ www.tns-counter.ru
 ||yadro.ru^
 
 
+||hubvisor.io^
+
+
 ||matomo.cloud^
 
 
@@ -285,44 +294,32 @@ www.tns-counter.ru
 ||dmmzkfd82wayn.cloudfront.net^
 
 
-||clipwatching.com/clipjs.js
-||youtube.com/api/stats/qoe?
-||youtube.com/*_204
-||www.wakanim.tv/manifest.json$other,domain=www.wakanim.tv
+||m.stripe.network^
 
 
 ||aol.com/beacons/
 ||aolcdn.com/ads/
-||yahoo.com/p?
-
-
-||jwpcdn.com/player/plugins/googima/$script
-
-
-||m.stripe.com^
-||m.stripe.network^
-||js.stripe.com^
-
-
-/cookiejs/*
-||cookielaw.org^$3p
-
-
-||google-analytics.com^
-
-
-||platform.twitter.com/widgets/*$important
-||platform.twitter.com/js/button.$3p
-||connect.facebook.net^$3p,domain=~facebook.com|~fb.com
-
-
+||bing.com/fd/ls/
+||clipwatching.com/clipjs.js
 ||crunchyroll.com/tracker
 ||crunchyroll.com/versioned_assets/js/tracking^
 ||ianimes.org/img/tracker.gif
+||img1.ak.crunchyroll.com/i/spire2/05ed6158ab0bf2442c692c2325f954571555017990_main.png$image
+||img1.ak.crunchyroll.com/i/spire3/7b6a2f23ff22d2f7ed1b603a105db55c1623107784_main.jpg$image
+||img1.ak.crunchyroll.com/i/spire3/68b7afadc32d87c6d7396d3b8635c3b91623614424_main.jpg$image
+||jwpcdn.com/player/plugins/googima/$script
+||sa.crunchyroll.com/analytics.js
+||www.wakanim.tv/manifest.json$other,domain=www.wakanim.tv
+||www.youtube.com/youtubei/*/log_event$xmlhttprequest
+||yahoo.com/p?
+||youtube.com/*_204
+||youtube.com/api/stats/qoe?
 
 
 anime-planet.com##.pure-g > .pure-1 > .halo
 anime-planet.com###siteContainer > .halo.aligncenter
+bing.com##.adsMvC
+bing.com##a[href*="/aclick?ld="]:not(.vsp_ads)
 clipwatching.com##.cover
 clipwatching.com##.video_ad2_fadein
 clipwatching.com###coverAds
@@ -351,7 +348,6 @@ video.sibnet.ru##.vjs-share-button
 video.sibnet.ru###vjs-overlayclip-box
 video.sibnet.ru###vjs-overlayclip-container-box
 vostfree.com###ads
-www.cdiscount.com###overlay
 www.google.fr##.HTjtHe
 www.jeuxvideo.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
 www.lcd-compare.com##.in.fade.modal-backdrop
@@ -363,6 +359,12 @@ www.silicon.fr##.pop-in-workplace.pop-in.event-popin
 www.wakanim.tv##.css-1bch5xm.qc-cmp-cleanslate
 www.wakanim.tv##.nav-main_social
 www.wakanim.tv##div.footer-main_item:nth-of-type(6)
+youtube.com##.share-panel-services, .ytp-button.ytp-share-button
+youtube.com##.ytp-ad-progress-list
+youtube.com##.ytp-cards-teaser
+youtube.com##.ytp-paid-content-overlay
+youtube.com##.ytp-pause-overlay
+youtube.com##.ytp-title-channel
 
 
 foxsports.com.au,americanphotomag.com,baggersmag.com,boatingmag.com,cbssports.com,chowhound.com,cnet.com,cruisingworld.com,cycleworld.com,dirtrider.com,diversitybestpractices.com,edmunds.com,floridatravellife.com,frontpage.pch.com,gamespot.com,goal.com,hotbikeweb.com,ign.com,infinitiev.com,islands.com,marlinmag.com,metacritic.com,motorcyclecruiser.com,motorcyclistonline.com,msn.com,outdoorlife.com,popphoto.com,popsci.com,range365.com,saltwatersportsman.com,scubadiving.com,sportdiver.com,sportfishingmag.com,sportingnews.com,spox.com,superstreetbike.com,thoughtcatalog.com,tv.com,tvguide.com,utvdriver.com,wakeboardingmag.com,webmd.com,wetteronline.de,workingmother.com,yachtingmagazine.com##+js(set-constant, Object.prototype.iadb, undefined)
@@ -386,6 +388,324 @@ foxsports.com.au,americanphotomag.com,baggersmag.com,boatingmag.com,cbssports.co
 *##+js(window.open-defuser)
 
 
+bing.com##+js(abort-current-inline-script, $, .show)
+bing.com##+js(abort-current-inline-script, $, adbd)
+bing.com##+js(abort-current-inline-script, $, adi)
+bing.com##+js(abort-current-inline-script, $, gandalfads)
+bing.com##+js(abort-current-inline-script, $, keydown)
+bing.com##+js(abort-current-inline-script, $, serve)
+bing.com##+js(abort-current-inline-script, $, show)
+bing.com##+js(abort-current-inline-script, $, test-block)
+bing.com##+js(abort-current-inline-script, $, undefined)
+bing.com##+js(abort-current-inline-script, $, urlForPopup)
+bing.com##+js(abort-current-inline-script, adcashMacros)
+bing.com##+js(abort-current-inline-script, addEventListener, adb)
+bing.com##+js(abort-current-inline-script, addEventListener, Adblock)
+bing.com##+js(abort-current-inline-script, addEventListener, blocker)
+bing.com##+js(abort-current-inline-script, addEventListener, google_ad_client)
+bing.com##+js(abort-current-inline-script, addEventListener, nextFunction)
+bing.com##+js(abort-current-inline-script, atob, decodeURI)
+bing.com##+js(abort-current-inline-script, atob, decodeURIComponent)
+bing.com##+js(abort-current-inline-script, atob, tabunder)
+bing.com##+js(abort-current-inline-script, Date, ='\x)
+bing.com##+js(abort-current-inline-script, decodeURI, decodeURIComponent)
+bing.com##+js(abort-current-inline-script, document.addEventListener, responseText)
+bing.com##+js(abort-current-inline-script, document.createElement, 'script')
+bing.com##+js(abort-current-inline-script, document.createElement, adblock)
+bing.com##+js(abort-current-inline-script, document.createElement, jsc.mgid.com)
+bing.com##+js(abort-current-inline-script, document.dispatchEvent, myEl)
+bing.com##+js(abort-current-inline-script, document.getElementById, adblock)
+bing.com##+js(abort-current-inline-script, document.getElementById, adblockinfo)
+bing.com##+js(abort-current-inline-script, document.getElementById, block)
+bing.com##+js(abort-current-inline-script, document.getElementById, null)
+bing.com##+js(abort-current-inline-script, document.getElementById, overlay)
+bing.com##+js(abort-current-inline-script, document.getElementById, tester)
+bing.com##+js(abort-current-inline-script, document.head.appendChild, ='\x)
+bing.com##+js(abort-current-inline-script, document.oncontextmenu)
+bing.com##+js(abort-current-inline-script, document.onmousedown)
+bing.com##+js(abort-current-inline-script, document.querySelectorAll, popMagic)
+bing.com##+js(abort-current-inline-script, document.write)
+bing.com##+js(abort-current-inline-script, doOnce)
+bing.com##+js(abort-current-inline-script, eval, ignielAdBlock)
+bing.com##+js(abort-current-inline-script, ExoLoader)
+bing.com##+js(abort-current-inline-script, FbotonOn)
+bing.com##+js(abort-current-inline-script, FGmirror)
+bing.com##+js(abort-current-inline-script, jQuery, AdBlock)
+bing.com##+js(abort-current-inline-script, jQuery, ai_adb)
+bing.com##+js(abort-current-inline-script, jQuery, Proteger)
+bing.com##+js(abort-current-inline-script, jQuery, setTimeout)
+bing.com##+js(abort-current-inline-script, loadTool, popping)
+bing.com##+js(abort-current-inline-script, matchMedia, Adblocker)
+bing.com##+js(abort-current-inline-script, Math, break;case $.)
+bing.com##+js(abort-current-inline-script, Math, break)
+bing.com##+js(abort-current-inline-script, Math, XMLHttpRequest)
+bing.com##+js(abort-current-inline-script, Math, zfgloaded)
+bing.com##+js(abort-current-inline-script, Math.floor, axtd)
+bing.com##+js(abort-current-inline-script, Math.random)
+bing.com##+js(abort-current-inline-script, Object.defineProperty, vocabulary)
+bing.com##+js(abort-current-inline-script, puShown, /doOpen|popundr/)
+bing.com##+js(abort-current-inline-script, setInterval, location)
+bing.com##+js(abort-current-inline-script, setTimeout, Constant)
+bing.com##+js(abort-current-inline-script, setTimeout, manageAntiBlock)
+bing.com##+js(abort-current-inline-script, setTimeout, mypop)
+bing.com##+js(abort-current-inline-script, String, decodeURIComponent)
+bing.com##+js(abort-current-inline-script, String, unshift)
+bing.com##+js(abort-current-inline-script, String.fromCharCode, 'shift')
+bing.com##+js(abort-current-inline-script, String.fromCharCode, /btoa|break/)
+bing.com##+js(abort-current-inline-script, String.fromCharCode, break)
+bing.com##+js(abort-current-inline-script, String.prototype.charCodeAt)
+bing.com##+js(abort-current-inline-script, window.open, Cookie)
+bing.com##+js(abort-current-inline-script, XMLHttpRequest, onreadystatechange)
+bing.com##+js(abort-on-property-read, __eiPb)
+bing.com##+js(abort-on-property-read, _pop)
+bing.com##+js(abort-on-property-read, _sp_._networkListenerData)
+bing.com##+js(abort-on-property-read, *)
+bing.com##+js(abort-on-property-read, AaDetector)
+bing.com##+js(abort-on-property-read, absda)
+bing.com##+js(abort-on-property-read, adBlockDetected)
+bing.com##+js(abort-on-property-read, adBlockNotDetected)
+bing.com##+js(abort-on-property-read, adcashMacros)
+bing.com##+js(abort-on-property-read, ads_block)
+bing.com##+js(abort-on-property-read, adsBlocked)
+bing.com##+js(abort-on-property-read, adsbygoogle)
+bing.com##+js(abort-on-property-read, AdservingModule)
+bing.com##+js(abort-on-property-read, adtoniq)
+bing.com##+js(abort-on-property-read, Aloader.serve)
+bing.com##+js(abort-on-property-read, anOptions)
+bing.com##+js(abort-on-property-read, app_vars.force_disable_adblock)
+bing.com##+js(abort-on-property-read, Base64.encode)
+bing.com##+js(abort-on-property-read, BetterJsPop)
+bing.com##+js(abort-on-property-read, blockAdBlock)
+bing.com##+js(abort-on-property-read, blog)
+bing.com##+js(abort-on-property-read, console.clear)
+bing.com##+js(abort-on-property-read, Date.prototype.toUTCString)
+bing.com##+js(abort-on-property-read, decodeURI)
+bing.com##+js(abort-on-property-read, detector_launch)
+bing.com##+js(abort-on-property-read, devtoolsDetector)
+bing.com##+js(abort-on-property-read, DHAntiAdBlocker)
+bing.com##+js(abort-on-property-read, disableButtonTimer)
+bing.com##+js(abort-on-property-read, document.cookie)
+bing.com##+js(abort-on-property-read, document.dispatchEvent)
+bing.com##+js(abort-on-property-read, document.write)
+bing.com##+js(abort-on-property-read, downloadJSAtOnload)
+bing.com##+js(abort-on-property-read, Drupal.behaviors.agBlockAdBlock)
+bing.com##+js(abort-on-property-read, eddOptions)
+bing.com##+js(abort-on-property-read, exoJsPop101)
+bing.com##+js(abort-on-property-read, ExoLoader.addZone)
+bing.com##+js(abort-on-property-read, ExoLoader.serve)
+bing.com##+js(abort-on-property-read, ExoLoader)
+bing.com##+js(abort-on-property-read, exoNoExternalUI38djdkjDDJsio96)
+bing.com##+js(abort-on-property-read, glxopen)
+bing.com##+js(abort-on-property-read, googletag)
+bing.com##+js(abort-on-property-read, HTMLIFrameElement)
+bing.com##+js(abort-on-property-read, indexedDB.open)
+bing.com##+js(abort-on-property-read, InstallTrigger)
+bing.com##+js(abort-on-property-read, jQuery.adblock)
+bing.com##+js(abort-on-property-read, jwplayer.utils.Timer)
+bing.com##+js(abort-on-property-read, LieDetector)
+bing.com##+js(abort-on-property-read, loadRunative)
+bing.com##+js(abort-on-property-read, loadTool)
+bing.com##+js(abort-on-property-read, mdpDeBlocker)
+bing.com##+js(abort-on-property-read, MG2Loader)
+bing.com##+js(abort-on-property-read, mql)
+bing.com##+js(abort-on-property-read, myFunction_ads)
+bing.com##+js(abort-on-property-read, popad)
+bing.com##+js(abort-on-property-read, PopAds)
+bing.com##+js(abort-on-property-read, popit)
+bing.com##+js(abort-on-property-read, popjs.init)
+bing.com##+js(abort-on-property-read, popunderSetup)
+bing.com##+js(abort-on-property-read, prevLink)
+bing.com##+js(abort-on-property-read, rid)
+bing.com##+js(abort-on-property-read, rmVideoPlay)
+bing.com##+js(abort-on-property-read, runAdblock)
+bing.com##+js(abort-on-property-read, scriptwz_url)
+bing.com##+js(abort-on-property-read, smrtAdSySBanner)
+bing.com##+js(abort-on-property-read, thumbad)
+bing.com##+js(abort-on-property-read, wpsafelink)
+bing.com##+js(abort-on-property-read, wpsite_clickable_data)
+bing.com##+js(abort-on-property-read, xmlhttp)
+bing.com##+js(abort-on-property-write, __htapop)
+bing.com##+js(abort-on-property-write, _pop)
+bing.com##+js(abort-on-property-write, *)
+bing.com##+js(abort-on-property-write, AaDetector)
+bing.com##+js(abort-on-property-write, adBlockDetected)
+bing.com##+js(abort-on-property-write, adcashMacros)
+bing.com##+js(abort-on-property-write, AdDelivery)
+bing.com##+js(abort-on-property-write, ads_priv)
+bing.com##+js(abort-on-property-write, ai_adb_overlay)
+bing.com##+js(abort-on-property-write, ai_adb)
+bing.com##+js(abort-on-property-write, ai_check_block)
+bing.com##+js(abort-on-property-write, ai_front)
+bing.com##+js(abort-on-property-write, atOptions)
+bing.com##+js(abort-on-property-write, blckad)
+bing.com##+js(abort-on-property-write, Fingerprint2)
+bing.com##+js(abort-on-property-write, hidekeep)
+bing.com##+js(abort-on-property-write, KillAdBlock)
+bing.com##+js(abort-on-property-write, popns)
+bing.com##+js(abort-on-property-write, popup_ads)
+bing.com##+js(abort-on-property-write, SCrypt)
+bing.com##+js(abort-on-property-write, showAdsBlock)
+bing.com##+js(abort-on-property-write, smrtSB)
+bing.com##+js(abort-on-property-write, smrtSP)
+bing.com##+js(abort-on-property-write, SubmitDownload1)
+bing.com##+js(abort-on-property-write, td_ad_background_click_link)
+bing.com##+js(abort-on-stack-trace, Math.random, /\st\.[a-zA-Z]*\sinlineScript/)
+bing.com##+js(addEventListener-defuser, , 0x)
+bing.com##+js(addEventListener-defuser, , _0x)
+bing.com##+js(addEventListener-defuser, , bi())
+bing.com##+js(addEventListener-defuser, , launch)
+bing.com##+js(addEventListener-defuser, , popMagic)
+bing.com##+js(addEventListener-defuser, *)
+bing.com##+js(addEventListener-defuser, /*/i)
+bing.com##+js(addEventListener-defuser, /^(?:click|mousedown)$/, _0x)
+bing.com##+js(addEventListener-defuser, /^(?:click|mousedown)$/, B6S)
+bing.com##+js(addEventListener-defuser, /^(?:click|mousedown)$/, bypassEventsInProxies)
+bing.com##+js(addEventListener-defuser, /^(?:click|mousedown|mousemove|touchstart|touchend|touchmove)$/, system.popunder)
+bing.com##+js(addEventListener-defuser, /^(?:mousedown|mouseup)$/, 0x)
+bing.com##+js(addEventListener-defuser, click, popMagic)
+bing.com##+js(addEventListener-defuser, click, popunder)
+bing.com##+js(addEventListener-defuser, click, saveLastEvent)
+bing.com##+js(addEventListener-defuser, click, trigger)
+bing.com##+js(addEventListener-defuser, contextmenu)
+bing.com##+js(addEventListener-defuser, DOMContentLoaded, adlinkfly)
+bing.com##+js(addEventListener-defuser, error)
+bing.com##+js(addEventListener-defuser, getexoloader)
+bing.com##+js(addEventListener-defuser, keydown, keyCode)
+bing.com##+js(addEventListener-defuser, load, 2000)
+bing.com##+js(addEventListener-defuser, load, ads)
+bing.com##+js(addEventListener-defuser, load, adtest)
+bing.com##+js(addEventListener-defuser, load, adverts-top-container)
+bing.com##+js(addEventListener-defuser, load, nextFunction)
+bing.com##+js(addEventListener-defuser, load, onload)
+bing.com##+js(addEventListener-defuser, mousedown, trigger)
+bing.com##+js(addEventListener-defuser, popstate, noPop)
+bing.com##+js(addEventListener-defuser, popstate)
+bing.com##+js(adfly-defuser)
+bing.com##+js(cookie-remover, *)
+bing.com##+js(cookie-remover, /^/)
+bing.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+bing.com##+js(nano-setInterval-booster, , 1100)
+bing.com##+js(nano-setInterval-booster, , , 0)
+bing.com##+js(nano-setInterval-booster, btn-working, 1000, 0.02)
+bing.com##+js(nano-setInterval-booster, timer, 1500)
+bing.com##+js(nano-setInterval-booster)
+bing.com##+js(nano-setTimeout-booster, , 1400)
+bing.com##+js(nano-setTimeout-booster, , , 0)
+bing.com##+js(nano-setTimeout-booster)
+bing.com##+js(no-fetch-if, /^/)
+bing.com##+js(no-fetch-if, damoh.ani-stream.com)
+bing.com##+js(no-floc)
+bing.com##+js(no-setInterval-if, _0x)
+bing.com##+js(no-setInterval-if, (), 500)
+bing.com##+js(no-setInterval-if, *)
+bing.com##+js(no-setInterval-if, /console|debugger/)
+bing.com##+js(no-setInterval-if, break)
+bing.com##+js(no-setInterval-if, text/css, 10)
+bing.com##+js(no-setInterval-if, visibility, 1000)
+bing.com##+js(no-setTimeout-if, 1e3*Math.random())
+bing.com##+js(no-setTimeout-if, _0x)
+bing.com##+js(no-setTimeout-if, .call(null), 10)
+bing.com##+js(no-setTimeout-if, {r(), 0)
+bing.com##+js(no-setTimeout-if, *)
+bing.com##+js(no-setTimeout-if, /[a-z]{0}/, 200)
+bing.com##+js(no-setTimeout-if, adblock_detect, 10000)
+bing.com##+js(no-setTimeout-if, adblock, 1000)
+bing.com##+js(no-setTimeout-if, adv)
+bing.com##+js(no-setTimeout-if, ag_adBlockerDetected)
+bing.com##+js(no-setTimeout-if, ai_adb)
+bing.com##+js(no-setTimeout-if, bADBlock)
+bing.com##+js(no-setTimeout-if, bait, 1)
+bing.com##+js(no-setTimeout-if, css_class.show)
+bing.com##+js(no-setTimeout-if, Detected, 500)
+bing.com##+js(no-setTimeout-if, e(), 1000)
+bing.com##+js(no-setTimeout-if, google_jobrunner)
+bing.com##+js(no-setTimeout-if, innerText, 2000)
+bing.com##+js(no-setTimeout-if, insertBefore)
+bing.com##+js(no-setTimeout-if, isDesktopApp, 1000)
+bing.com##+js(no-setTimeout-if, mdp)
+bing.com##+js(no-setTimeout-if, mdpDeBlocker)
+bing.com##+js(no-setTimeout-if, myaabpfun, 3000)
+bing.com##+js(no-setTimeout-if, nextFunction, 250)
+bing.com##+js(no-setTimeout-if, nextFunction, 2000)
+bing.com##+js(no-setTimeout-if, offsetHeight)
+bing.com##+js(no-setTimeout-if, ShowAdbblock, 500)
+bing.com##+js(no-setTimeout-if, window.location.href, 50)
+bing.com##+js(nobab)
+bing.com##+js(noeval-if, debugger)
+bing.com##+js(noeval-if, ExoLoader)
+bing.com##+js(noeval-if, fab_alert)
+bing.com##+js(noeval)
+bing.com##+js(nofab)
+bing.com##+js(nowebrtc)
+bing.com##+js(popads-dummy)
+bing.com##+js(popads)
+bing.com##+js(remove-attr, *)
+bing.com##+js(remove-attr, data-ppcnt_ads|onclick, #main)
+bing.com##+js(remove-attr, href, [href*="/hd"])
+bing.com##+js(remove-attr, href|target, #continuetoimage > [href][onclick])
+bing.com##+js(remove-attr, href|target, #overlayera > #ajax_load_indicator > #page_effect > [href][onclick])
+bing.com##+js(remove-attr, onclick)
+bing.com##+js(remove-attr, oncontextmenu)
+bing.com##+js(remove-attr, onmousedown|ping, a[href][onmousedown]\, a[href][ping])
+bing.com##+js(remove-attr, target, #continuetoimage > [href])
+bing.com##+js(set-constant, __uspapi, noopFunc)
+bing.com##+js(set-constant, *)
+bing.com##+js(set-constant, $tieE3, true)
+bing.com##+js(set-constant, aBlock, null)
+bing.com##+js(set-constant, absda, noopFunc)
+bing.com##+js(set-constant, adblock_use, false)
+bing.com##+js(set-constant, adblock, false)
+bing.com##+js(set-constant, adBlockDetected, noopFunc)
+bing.com##+js(set-constant, adblockDetector, trueFunc)
+bing.com##+js(set-constant, adblocked, false)
+bing.com##+js(set-constant, adBlockerDetected, false)
+bing.com##+js(set-constant, AdBlockerTracking.AdBlockMonitor, noopFunc)
+bing.com##+js(set-constant, AdBTrack.AdbMon.isBlocked, noopFunc)
+bing.com##+js(set-constant, adsapp, true)
+bing.com##+js(set-constant, all520dddaaa222, undefined)
+bing.com##+js(set-constant, App.views.adsView.adblock, false)
+bing.com##+js(set-constant, Blob, noopFunc)
+bing.com##+js(set-constant, blockAdBlock, trueFunc)
+bing.com##+js(set-constant, blockAdBlock._options.baitClass, null)
+bing.com##+js(set-constant, blurred, false)
+bing.com##+js(set-constant, check_adblock, true)
+bing.com##+js(set-constant, ckaduMobilePop, noopFunc)
+bing.com##+js(set-constant, clicked, true)
+bing.com##+js(set-constant, clientSide.adbDetect, noopFunc)
+bing.com##+js(set-constant, CloudflareApps.installs.Ik7rmQ4t95Qk.options.measureDomain, undefined)
+bing.com##+js(set-constant, cRAds, true)
+bing.com##+js(set-constant, CustomEvent, noopFunc)
+bing.com##+js(set-constant, daganKwarta, true)
+bing.com##+js(set-constant, DHAntiAdBlocker, true)
+bing.com##+js(set-constant, doads, true)
+bing.com##+js(set-constant, Document.prototype.interestCohort, undefined)
+bing.com##+js(set-constant, eClicked, true)
+bing.com##+js(set-constant, exit, 0)
+bing.com##+js(set-constant, flashvars.adv_pause_html, '')
+bing.com##+js(set-constant, getComputedStyle, falseFunc)
+bing.com##+js(set-constant, globalThis, null)
+bing.com##+js(set-constant, h1mm.w3, noopFunc)
+bing.com##+js(set-constant, importFAB, null)
+bing.com##+js(set-constant, isAdBlocked, false)
+bing.com##+js(set-constant, isal, true)
+bing.com##+js(set-constant, jQuery.adblock, false)
+bing.com##+js(set-constant, jswin, true)
+bing.com##+js(set-constant, koddostu_com_adblock_yok, false)
+bing.com##+js(set-constant, lck, true)
+bing.com##+js(set-constant, letShowAds, true)
+bing.com##+js(set-constant, number, 0)
+bing.com##+js(set-constant, Ok, true)
+bing.com##+js(set-constant, playerResponse.adPlacements, undefined)
+bing.com##+js(set-constant, safelink.adblock, false)
+bing.com##+js(set-constant, showAds, true)
+bing.com##+js(set-constant, showBlockIf, noopFunc)
+bing.com##+js(set-constant, SVGForeignObjectElement, undefined)
+bing.com##+js(set-constant, sync, true)
+bing.com##+js(set-constant, v, true)
+bing.com##+js(set-constant, xRds, false)
+bing.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
+bing.com##+js(window.open-defuser, !?safelink_redirect=)
+bing.com##+js(window.open-defuser)
 clipwatching.*##+js(abort-current-inline-script, String.fromCharCode, /emZnbG9hZGVk|break;case \$\.|break;case \d{1}/)
 clipwatching.com##+js(abort-current-inline-script, document.querySelectorAll, popMagic)
 clipwatching.com##+js(abort-current-inline-script, String.fromCharCode, /btoa|break/)
@@ -442,6 +762,8 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 www.google.*##+js(set-constant, rwt, noopFunc)
 
 
+
+
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect-rule=googletagservices_gpt.js
 ||tags.tiqcdn.com/utag/*/prod/utag.js$script,redirect-rule=noopjs
 
@@ -452,6 +774,7 @@ www.google.*##+js(set-constant, rwt, noopFunc)
 
 @@||cdnjs.cloudflare.com^$script,domain=www.easylounge.com
 @@||cdn.cookielaw.org^$script,domain=www.crunchyroll.com
+@@||cdn.cookielaw.org^$xhr,domain=www.crunchyroll.com
 @@||wakanim.tv/fr/v2/*$domain=wakanim.tv
 @@||www.google.*/search?$generichide
 
