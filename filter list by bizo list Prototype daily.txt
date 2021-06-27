@@ -9,6 +9,7 @@ _pagespeed_beacon?
 /^https?:\/\/(www\.)?([a-z0-9]{3,10}\.)?[a-z0-9]{5,25}\.(click|co|club|com|bid|date|download|men|net|network|online|party|pw|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/([a-z0-9]{2,3}\/){3}[a-f0-9]{32}\.js$/$script
 /^https?:\/\/(www\.)?[0-9a-z\-]{5,17}\.(cam|casa|club|com|cz|icu|info|live|me|pro|review|site|top|work|xyz)\/asset\/(bann|barr)\.js\?a\=\d\&_\=\d{12,16}/$xmlhttprequest
 /adblock_detector.
+/adsense/*
 /adservice.$domain=~adservice.io
 /cdn-cgi/bm/cv/*
 /cdn-cgi/bm/cv/*$script
@@ -16,16 +17,20 @@ _pagespeed_beacon?
 /client_204?$image
 /cookiecontrol.js
 /cookiejs/*
+/fontawesome-*$font
+/fonts/*.ttf$font,3p
 /gen_204?$ping
 /html/body/div[2]/div[1]
 /img/social-
 /js/script-*.*.js$script,domain=domonosok.tk|haes.tech|hqq.to|porn-watch.ru
 /mod_pagespeed_beacon?
+/newsletter/structure/*
 /optimizely-
 /perf-vitals_
 /rollbar.js
 /rss.gif
 /rss.png
+/social-api.
 /social-likes_
 /social-likes.
 /social-media-icons/*
@@ -34,6 +39,8 @@ _pagespeed_beacon?
 /tc_analytics.
 /video.counters.js
 /wp-content/plugins/eazy-ad-unblocker/*
+/xiti.js
+/xtcore.js
 i.ibb.co/kg3hHbm
 
 
@@ -185,6 +192,7 @@ www.tns-counter.ru
 ||hqq.*/cdn-cgi/trace$xmlhttprequest,1p,important
 
 
+||adleadevent.com^$3p
 ||adskeeper.com^$3p
 ||adtrue.com^$3p
 ||advarkads.com^$3p
@@ -234,6 +242,7 @@ www.tns-counter.ru
 ||analyticacdn.com^
 ||bebi.com^
 ||betteradsystem.com^
+||bypathaivr.com^
 ||cdn.adtrue.com^
 ||cdnjs.cloudflare.com^
 ||ced.sascdn.com^
@@ -241,6 +250,7 @@ www.tns-counter.ru
 ||consent.cmp.oath.com^
 ||cpmstar.com^
 ||eec.crunchyroll.com^
+||estat.com^
 ||exdynsrv.com^
 ||faglollstwo.com^
 ||google-analytics.com^
@@ -249,7 +259,9 @@ www.tns-counter.ru
 ||in-page-push.com^
 ||intelligenceadx.com^
 ||jac.yahoosandbox.com^
+||js.stripe.com^
 ||jwpltx.com^
+||m.stripe.com^
 ||metrics.brightcove.com^
 ||noisysortcasualty.com^
 ||o333o.com^
@@ -258,6 +270,7 @@ www.tns-counter.ru
 ||rvedfxeljxo.com^
 ||s10.histats.com^
 ||scorecardresearch.com^
+||securite.01net.com^
 ||server.cpmstar.com^
 ||speedcurve.com^
 ||speedcurve.com^
@@ -266,15 +279,17 @@ www.tns-counter.ru
 ||tnzjsphdird.com^
 ||velocitycdn.com^
 ||vlitag.com^
+||widgets.outbrain.com^
 ||wkcuhilbg.com^
 ||www.hugedomains.com^
 ||ytimm.com^
-||js.stripe.com^
-||m.stripe.com^
 
 
 ||d-bi.fr^
 ||weborama.fr^
+
+
+||teads.tv^
 
 
 ||amung.us^
@@ -316,10 +331,13 @@ www.tns-counter.ru
 ||m.stripe.network^
 
 
+||a.mailmunch.co/app/$script,3p
 ||aol.com/beacons/
 ||aolcdn.com/ads/
 ||bing.com/fd/ls/
+||cdn.ampproject.org/*/amp-analytics-
 ||clipwatching.com/clipjs.js
+||connect.facebook.net^
 ||crunchyroll.com/tracker
 ||crunchyroll.com/versioned_assets/js/tracking^
 ||ianimes.org/img/tracker.gif
@@ -328,6 +346,7 @@ www.tns-counter.ru
 ||img1.ak.crunchyroll.com/i/spire3/7b6a2f23ff22d2f7ed1b603a105db55c1623107784_main.jpg$image
 ||img1.ak.crunchyroll.com/i/spire3/68b7afadc32d87c6d7396d3b8635c3b91623614424_main.jpg$image
 ||jwpcdn.com/player/plugins/googima/$script
+||linkedin.com/countserv/$3p
 ||ninjastream.to/js/lib.js
 ||sa.crunchyroll.com/analytics.js
 ||www.wakanim.tv/manifest.json$other,domain=www.wakanim.tv
@@ -341,6 +360,7 @@ anime-planet.com##.pure-g > .pure-1 > .halo
 anime-planet.com###siteContainer > .halo.aligncenter
 bing.com##.adsMvC
 bing.com##a[href*="/aclick?ld="]:not(.vsp_ads)
+bing.com##.bnp_cookie_banner
 clipwatching.com##.cover
 clipwatching.com##.video_ad2_fadein
 clipwatching.com###coverAds
@@ -406,7 +426,7 @@ foxsports.com.au,americanphotomag.com,baggersmag.com,boatingmag.com,cbssports.co
 *##+js(remove-attr, *)
 *##+js(set-constant, *)
 *##+js(set-constant, Document.prototype.interestCohort, undefined)
-*##+js(window.open-defuser)
+
 
 
 bing.com##+js(abort-on-property-read, *)
@@ -434,7 +454,6 @@ bing.com##+js(nowebrtc)
 bing.com##+js(popads-dummy)
 bing.com##+js(popads)
 bing.com##+js(remove-attr, *)
-bing.com##+js(window.open-defuser, !?safelink_redirect=)
 clipwatching.*##+js(abort-current-inline-script, String.fromCharCode, /emZnbG9hZGVk|break;case \$\.|break;case \d{1}/)
 clipwatching.com##+js(abort-current-inline-script, document.querySelectorAll, popMagic)
 clipwatching.com##+js(abort-current-inline-script, String.fromCharCode, /btoa|break/)
