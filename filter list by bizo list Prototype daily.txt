@@ -6,17 +6,20 @@ _pagespeed_beacon?
 ://counter.
 .histats.*.js
 .tns-counter.ru/v13a
+/:\/\/www\.([a-z]{6,16})\.com\/([a-z]{1,4})\.js$/$script,3p
 /^https?:\/\/(www\.)?([a-z0-9]{3,10}\.)?[a-z0-9]{5,25}\.(click|co|club|com|bid|date|download|men|net|network|online|party|pw|racing|review|site|space|stream|top|trade|webcam|website|win|xyz)\/([a-z0-9]{2,3}\/){3}[a-f0-9]{32}\.js$/$script
 /^https?:\/\/(www\.)?[0-9a-z\-]{5,17}\.(cam|casa|club|com|cz|icu|info|live|me|pro|review|site|top|work|xyz)\/asset\/(bann|barr)\.js\?a\=\d\&_\=\d{12,16}/$xmlhttprequest
 /adblock_detector.
 /adsense/*
 /adservice.$domain=~adservice.io
+/app/ads.
 /cdn-cgi/bm/cv/*
 /cdn-cgi/bm/cv/*$script
 /ckies.js
 /client_204?$image
 /cookiecontrol.js
 /cookiejs/*
+/favicon.ico$image,3p,domain=~streameast.live|~apple.com|~douban.com|~bahn.de|~winfuture.de|~bt.com|~ebay.com.au|~ebay.com|~ebay.co.uk|~go.com|~github.com|~microsoft.com|~stackexchange.com|~stackoverflow.com|~askubuntu.com|~reddit.com|~4chan.org|~twitter.com|~live.com|~espn.com|~yahoo.com
 /fontawesome-*$font
 /fonts/*.ttf$font,3p
 /gen_204?$ping
@@ -33,6 +36,7 @@ _pagespeed_beacon?
 /social-api.
 /social-likes_
 /social-likes.
+/social-likes.min.js$domain=~animego.org|~zastenchivosti.net|~gorod-812.ru|~sputnik.by|~sputnik-news.ee|~animalreader.ru|~ichip.ru|~keddr.com|~kino-max.com|~kino24x7.com|~make-3d.ru|~miuipro.ru|~omelchuck.ru|~podfm.ru|~serial-online.com|~sputniknews.com|~trinixy.ru|~kinogo-kinopoisk.net|~bobfilm-online.ru|~westernfilm.ru|~bobfilm.tv|~kinokrik.net|~kinogo720.net|~kinogo-net-co.ru|~kinoklad.net|~intex-press.by|~kino-max.org|~farming-simulator15.ru|~trikky.ru|~trv-science.ru|~unzensuriert.at|~lizaalert.beeline.ru|~megapolisonline.ru|~sputniknews.ru|~miuipro.info|~sputnik.kg|~1prime.ru|~mobnovelty.ru
 /social-media-icons/*
 /social/fb_
 /social/twitter_
@@ -42,12 +46,6 @@ _pagespeed_beacon?
 /xiti.js
 /xtcore.js
 i.ibb.co/kg3hHbm
-
-
-/social-likes.min.js$domain=~animego.org|~zastenchivosti.net|~gorod-812.ru|~sputnik.by|~sputnik-news.ee|~animalreader.ru|~ichip.ru|~keddr.com|~kino-max.com|~kino24x7.com|~make-3d.ru|~miuipro.ru|~omelchuck.ru|~podfm.ru|~serial-online.com|~sputniknews.com|~trinixy.ru|~kinogo-kinopoisk.net|~bobfilm-online.ru|~westernfilm.ru|~bobfilm.tv|~kinokrik.net|~kinogo720.net|~kinogo-net-co.ru|~kinoklad.net|~intex-press.by|~kino-max.org|~farming-simulator15.ru|~trikky.ru|~trv-science.ru|~unzensuriert.at|~lizaalert.beeline.ru|~megapolisonline.ru|~sputniknews.ru|~miuipro.info|~sputnik.kg|~1prime.ru|~mobnovelty.ru
-
-
-/favicon.ico$image,3p,domain=~streameast.live|~apple.com|~douban.com|~bahn.de|~winfuture.de|~bt.com|~ebay.com.au|~ebay.com|~ebay.co.uk|~go.com|~github.com|~microsoft.com|~stackexchange.com|~stackoverflow.com|~askubuntu.com|~reddit.com|~4chan.org|~twitter.com|~live.com|~espn.com|~yahoo.com
 
 
 *$image,3p,domain=uqload.com
@@ -259,6 +257,8 @@ www.tns-counter.ru
 ||in-page-push.com^
 ||intelligenceadx.com^
 ||jac.yahoosandbox.com^
+||jill.fc.yahoo.com^
+||js-agent.newrelic.com^
 ||js.stripe.com^
 ||jwpltx.com^
 ||m.stripe.com^
@@ -266,6 +266,8 @@ www.tns-counter.ru
 ||noisysortcasualty.com^
 ||o333o.com^
 ||pdxgfnnoan.com^
+||pi.pardot.com^
+||qualaroo.com^
 ||redfastlabs.com^
 ||rvedfxeljxo.com^
 ||s10.histats.com^
@@ -273,10 +275,10 @@ www.tns-counter.ru
 ||securite.01net.com^
 ||server.cpmstar.com^
 ||speedcurve.com^
-||speedcurve.com^
 ||tagbom.com^
 ||tags.tiqcdn.com^
 ||tnzjsphdird.com^
+||uhqpnhorurueku.com^
 ||velocitycdn.com^
 ||vlitag.com^
 ||widgets.outbrain.com^
@@ -338,6 +340,7 @@ www.tns-counter.ru
 ||cdn.ampproject.org/*/amp-analytics-
 ||clipwatching.com/clipjs.js
 ||connect.facebook.net^
+||connect.facebook.net^$3p,domain=~facebook.com|~fb.com
 ||crunchyroll.com/tracker
 ||crunchyroll.com/versioned_assets/js/tracking^
 ||ianimes.org/img/tracker.gif
@@ -359,8 +362,8 @@ www.tns-counter.ru
 anime-planet.com##.pure-g > .pure-1 > .halo
 anime-planet.com###siteContainer > .halo.aligncenter
 bing.com##.adsMvC
-bing.com##a[href*="/aclick?ld="]:not(.vsp_ads)
 bing.com##.bnp_cookie_banner
+bing.com##a[href*="/aclick?ld="]:not(.vsp_ads)
 clipwatching.com##.cover
 clipwatching.com##.video_ad2_fadein
 clipwatching.com###coverAds
@@ -368,6 +371,7 @@ clipwatching.com###showmac
 clipwatching.com##div[style] + div:has([class="withoutbg left"] > h3[class="hide"])
 crunchyroll.com##.cr-expo-banner
 crunchyroll.com##.message-container
+crunchyroll.com###onetrust-consent-sdk
 github.com##.gh-header .gh-header-shadow.box-shadow, .gh-header .gh-header-sticky.is-stuck + .gh-header-shadow, .gh-header .sticky-content, .is-placeholder, .is-stuck + .toolbar-shadow, .is-stuck .diffbar .show-if-stuck, .is-stuck.gh-header-sticky.top-0.js-sticky-offset-scroll.js-sticky, .pr-toolbar-shadow, .toolbar-shadow, .user-profile-sticky-bar
 github.com##.js-sticky.dashboard-sidebar:style(position: static !important; top: 0 !important; left: 0 !important; width: unset !important; height: 100% !important;)
 github.com##html:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
@@ -382,8 +386,10 @@ google.fr###tadsb[aria-label]
 google.fr###taw > div > [data-ved]
 nautiljon.com##.gad
 s.yimg.com##div
+sibnet.ru###vjs-overlayclip-container-box
 toonanime.tv##iframe:nth-of-type(3)
 v5.anime-ultime.net##.playBigBtn
+video.sibnet.ru,tamasha.com##.vjs-share-button
 video.sibnet.ru##.vjs-overlayclip-box-close
 video.sibnet.ru##.vjs-share-button
 video.sibnet.ru###vjs-overlayclip-box
@@ -413,6 +419,10 @@ foxsports.com.au,americanphotomag.com,baggersmag.com,boatingmag.com,cbssports.co
 
 foxsports.com.au,americanphotomag.com,baggersmag.com,boatingmag.com,cbssports.com,chowhound.com,cnet.com,cruisingworld.com,cycleworld.com,dirtrider.com,diversitybestpractices.com,edmunds.com,floridatravellife.com,frontpage.pch.com,gamespot.com,goal.com,hotbikeweb.com,ign.com,infinitiev.com,islands.com,marlinmag.com,metacritic.com,motorcyclecruiser.com,motorcyclistonline.com,msn.com,outdoorlife.com,popphoto.com,popsci.com,range365.com,saltwatersportsman.com,scubadiving.com,sportdiver.com,sportfishingmag.com,sportingnews.com,spox.com,superstreetbike.com,thoughtcatalog.com,tv.com,tvguide.com,utvdriver.com,wakeboardingmag.com,webmd.com,wetteronline.de,workingmother.com,yachtingmagazine.com##+js(set-constant, Object.prototype.iadb, undefined)
 
+*$3p,denyallow=google.com|gstatic.com|hcaptcha.com|recaptcha.net|tapecontent.net,domain=strcloud.*|streamtape.*|strtape.*
+*$script,3p,domain=streamtape.com
+*$xmlhttprequest,3p,domain=streamtape.com
+
 
 *##+js(abort-current-inline-script, *)
 *##+js(abort-on-property-read, *)
@@ -426,7 +436,6 @@ foxsports.com.au,americanphotomag.com,baggersmag.com,boatingmag.com,cbssports.co
 *##+js(remove-attr, *)
 *##+js(set-constant, *)
 *##+js(set-constant, Document.prototype.interestCohort, undefined)
-
 
 
 bing.com##+js(abort-on-property-read, *)
@@ -508,6 +517,19 @@ otakufr.co##+js(json-prune, *, rot_url)
 otakufr.co##+js(set-constant, Document.prototype.interestCohort, undefined)
 rutube.ru##+js(json-prune, cuepoints)
 rutube.ru##+js(set-constant, Object.prototype.appearance.forbid_seek, undefined)
+streamtape.*##+js(abort-current-inline-script, document.createElement, 'script')
+streamtape.*##+js(abort-on-stack-trace, Math.random, /\st\.[a-zA-Z]*\s/)
+streamtape.*##+js(addEventListener-defuser, contextmenu)
+streamtape.*##+js(no-setInterval-if, adblock)
+streamtape.*##+js(remove-attr, target, #downloadvideo)
+streamtape.*##+js(set-constant, towait, 0)
+streamtape.com##+js(abort-current-inline-script, document.createElement, adblock)
+streamtape.com##+js(abort-current-inline-script, Math, /emZnbG9hZGVk|break;case \$\./)
+streamtape.com##+js(abort-on-property-write, _pop)
+streamtape.com##+js(addEventListener-defuser, contextmenu, event.dispatch.apply)
+streamtape.com##+js(no-setInterval-if, adblock, 700)
+streamtape.com##+js(set-constant, googleAd, true)
+streamtape.com##+js(window.open-defuser)
 toonanime.*##+js(abort-current-inline-script, document.querySelectorAll, popMagic)
 toonanime.tv##+js(abort-current-inline-script, document.querySelectorAll, popMagic)
 toopl.xyz##+js(window.open-defuser)
@@ -526,11 +548,16 @@ www.google.*##+js(set-constant, rwt, noopFunc)
 172.67.137.113
 
 
-@@||cdnjs.cloudflare.com^$script,domain=www.easylounge.com
+@@||cdn.cookielaw.org^$domain=crunchyroll.com
 @@||cdn.cookielaw.org^$script,domain=www.crunchyroll.com
 @@||cdn.cookielaw.org^$xhr,domain=www.crunchyroll.com
+@@||cdnjs.cloudflare.com^$script,domain=www.easylounge.com
+@@||google.com/recaptcha/$script
+@@||google.com/recaptcha/$subdocument,csp
+@@||gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js$script
+@@||gstatic.com/cv/js/sender/v1/cast_sender.js$script
+@@||gstatic.com/recaptcha/$script
+@@||streamtape.com/ad.js
 @@||wakanim.tv/fr/v2/*$domain=wakanim.tv
 @@||www.google.*/search?$generichide
-
-
 
