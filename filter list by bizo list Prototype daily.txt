@@ -68,15 +68,18 @@ i.ibb.co/kg3hHbm
 ##.fa-youtube-play
 ##.facebook
 ##.fb-like
+##.Fgvgjc
 ##.footer__links__social
 ##.footer-social
 ##.g-plusone
+##.HTjtHe
 ##.icon-facebook
 ##.icon-gplus
 ##.icon-rss
 ##.icon-twitter
 ##.jw-settings-sharing
 ##.jw-submenu-sharing
+##.jw8mI
 ##.privacy-container:not(body):not(html):not(.content-container)
 ##.privacy-popup
 ##.scrolltop:not(body):not(html)
@@ -352,6 +355,9 @@ www.tns-counter.ru
 ||linkedin.com/countserv/$3p
 ||ninjastream.to/js/lib.js
 ||sa.crunchyroll.com/analytics.js
+||wakanim.tv/*/advertisement?idepisode=$xmlhttprequest,important
+||www.ki-oon.com/medias/fond/image-1624372343.jpg$image
+||www.nautiljon.com/pub/bg.php$image
 ||www.wakanim.tv/manifest.json$other,domain=www.wakanim.tv
 ||www.youtube.com/youtubei/*/log_event$xmlhttprequest
 ||yahoo.com/p?
@@ -359,49 +365,47 @@ www.tns-counter.ru
 ||youtube.com/api/stats/qoe?
 
 
+||google-analytics.com/analytics.js$script,redirect-rule=google-analytics.com/analytics.js
+||googletagmanager.com/gtm.js$script,redirect-rule=googletagmanager.com/gtm.js
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js
+||wakanim.tv/*/advertisement?idepisode=$xmlhttprequest,important,redirect-rule=noop-vmap1.0.xml
+
+
 anime-planet.com##.pure-g > .pure-1 > .halo
-anime-planet.com###siteContainer > .halo.aligncenter
 bing.com##.adsMvC
 bing.com##.bnp_cookie_banner
 bing.com##a[href*="/aclick?ld="]:not(.vsp_ads)
 clipwatching.com##.cover
 clipwatching.com##.video_ad2_fadein
-clipwatching.com###coverAds
-clipwatching.com###showmac
 clipwatching.com##div[style] + div:has([class="withoutbg left"] > h3[class="hide"])
 crunchyroll.com##.cr-expo-banner
 crunchyroll.com##.message-container
-crunchyroll.com###onetrust-consent-sdk
 github.com##.gh-header .gh-header-shadow.box-shadow, .gh-header .gh-header-sticky.is-stuck + .gh-header-shadow, .gh-header .sticky-content, .is-placeholder, .is-stuck + .toolbar-shadow, .is-stuck .diffbar .show-if-stuck, .is-stuck.gh-header-sticky.top-0.js-sticky-offset-scroll.js-sticky, .pr-toolbar-shadow, .toolbar-shadow, .user-profile-sticky-bar
 github.com##.js-sticky.dashboard-sidebar:style(position: static !important; top: 0 !important; left: 0 !important; width: unset !important; height: 100% !important;)
 github.com##html:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
 google.*##.uEierd
-google.*###bottomads > div[id^="tads"]
 google.*##a[href*="/aclk?"][data-al]:upward(2)
 google.fr##[data-text-ad]
-google.fr###tads
-google.fr###tads[aria-label]
-google.fr###tadsb
-google.fr###tadsb[aria-label]
-google.fr###taw > div > [data-ved]
 nautiljon.com##.gad
 s.yimg.com##div
-sibnet.ru###vjs-overlayclip-container-box
 toonanime.tv##iframe:nth-of-type(3)
 v5.anime-ultime.net##.playBigBtn
 video.sibnet.ru,tamasha.com##.vjs-share-button
 video.sibnet.ru##.vjs-overlayclip-box-close
 video.sibnet.ru##.vjs-share-button
-video.sibnet.ru###vjs-overlayclip-box
-video.sibnet.ru###vjs-overlayclip-container-box
-vostfree.com###ads
+www.crunchyroll.com##.cf.message-container
+www.crunchyroll.com##.game-banner-container
+www.crunchyroll.com##.game-banner-wrapper
+www.crunchyroll.com##.game-banner-wrapper
+www.crunchyroll.com##.small-margin-bottom.container-shadow.cf.white-wrapper.showmedia-submenu
 www.google.fr##.HTjtHe
 www.jeuxvideo.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
 www.lcd-compare.com##.in.fade.modal-backdrop
-www.lcd-compare.com###myModal
 www.nvidia.fr##[src="/content/DriverDownload-March2009/includes/fr/images/220x76_facebook.jpg"]
+www.rueducommerce.fr##.is-open.micromodal-slide.modal
 www.rueducommerce.fr##.mfp-ready.mfp-auto-cursor.mfp-wrap
 www.rueducommerce.fr##.mfp-ready.mfp-bg
+www.rueducommerce.fr##.modal__overlay
 www.silicon.fr##.pop-in-workplace.pop-in.event-popin
 www.wakanim.tv##.css-1bch5xm.qc-cmp-cleanslate
 www.wakanim.tv##.nav-main_social
@@ -417,7 +421,29 @@ youtube.com##.ytp-title-channel
 foxsports.com.au,americanphotomag.com,baggersmag.com,boatingmag.com,cbssports.com,chowhound.com,cnet.com,cruisingworld.com,cycleworld.com,dirtrider.com,diversitybestpractices.com,edmunds.com,floridatravellife.com,frontpage.pch.com,gamespot.com,goal.com,hotbikeweb.com,ign.com,infinitiev.com,islands.com,marlinmag.com,metacritic.com,motorcyclecruiser.com,motorcyclistonline.com,msn.com,outdoorlife.com,popphoto.com,popsci.com,range365.com,saltwatersportsman.com,scubadiving.com,sportdiver.com,sportfishingmag.com,sportingnews.com,spox.com,superstreetbike.com,thoughtcatalog.com,tv.com,tvguide.com,utvdriver.com,wakeboardingmag.com,webmd.com,wetteronline.de,workingmother.com,yachtingmagazine.com##+js(set-constant, Object.prototype.iadb, undefined)
 
 
-foxsports.com.au,americanphotomag.com,baggersmag.com,boatingmag.com,cbssports.com,chowhound.com,cnet.com,cruisingworld.com,cycleworld.com,dirtrider.com,diversitybestpractices.com,edmunds.com,floridatravellife.com,frontpage.pch.com,gamespot.com,goal.com,hotbikeweb.com,ign.com,infinitiev.com,islands.com,marlinmag.com,metacritic.com,motorcyclecruiser.com,motorcyclistonline.com,msn.com,outdoorlife.com,popphoto.com,popsci.com,range365.com,saltwatersportsman.com,scubadiving.com,sportdiver.com,sportfishingmag.com,sportingnews.com,spox.com,superstreetbike.com,thoughtcatalog.com,tv.com,tvguide.com,utvdriver.com,wakeboardingmag.com,webmd.com,wetteronline.de,workingmother.com,yachtingmagazine.com##+js(set-constant, Object.prototype.iadb, undefined)
+anime-planet.com###siteContainer > .halo.aligncenter
+clipwatching.com###coverAds
+clipwatching.com###showmac
+crunchyroll.com###onetrust-consent-sdk
+google.*###bottomads > div[id^="tads"]
+google.fr###tads
+google.fr###tads[aria-label]
+google.fr###tadsb
+google.fr###tadsb[aria-label]
+google.fr###taw > div > [data-ved]
+sibnet.ru###vjs-overlayclip-container-box
+video.sibnet.ru###vjs-overlayclip-box
+video.sibnet.ru###vjs-overlayclip-container-box
+vostfree.com###ads
+www.crunchyroll.com###marketing_banner
+www.crunchyroll.com###message_box
+www.crunchyroll.com###onetrust-consent-sdk
+www.crunchyroll.com###series_promo_banner
+www.grosbill.com###_ctl0_pop_up_cnil
+www.grosbill.com###_ctl0_pop_up_cnil > div
+www.lcd-compare.com###myModal
+www.nautiljon.com###cgVideoPlayer
+
 
 *$3p,denyallow=google.com|gstatic.com|hcaptcha.com|recaptcha.net|tapecontent.net,domain=strcloud.*|streamtape.*|strtape.*
 *$script,3p,domain=streamtape.com
