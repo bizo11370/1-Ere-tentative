@@ -396,9 +396,10 @@ video.sibnet.ru##.vjs-share-button
 www.crunchyroll.com##.cf.message-container
 www.crunchyroll.com##.game-banner-container
 www.crunchyroll.com##.game-banner-wrapper
-www.crunchyroll.com##.game-banner-wrapper
+www.crunchyroll.com##.ot-fade-in.onetrust-pc-dark-filter
 www.crunchyroll.com##.small-margin-bottom.container-shadow.cf.white-wrapper.showmedia-submenu
 www.google.fr##.HTjtHe
+www.google.fr##.jw8mI
 www.jeuxvideo.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
 www.lcd-compare.com##.in.fade.modal-backdrop
 www.nvidia.fr##[src="/content/DriverDownload-March2009/includes/fr/images/220x76_facebook.jpg"]
@@ -425,6 +426,8 @@ anime-planet.com###siteContainer > .halo.aligncenter
 clipwatching.com###coverAds
 clipwatching.com###showmac
 crunchyroll.com###onetrust-consent-sdk
+e-monsite.com###ems-try-close
+e-monsite.com###ems-try-content
 google.*###bottomads > div[id^="tads"]
 google.fr###tads
 google.fr###tads[aria-label]
