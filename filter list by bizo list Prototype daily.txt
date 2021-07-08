@@ -394,10 +394,16 @@ video.sibnet.ru,tamasha.com##.vjs-share-button
 video.sibnet.ru##.vjs-overlayclip-box-close
 video.sibnet.ru##.vjs-share-button
 www.crunchyroll.com##.cf.message-container
+www.crunchyroll.com##.cr-expo-banner
 www.crunchyroll.com##.game-banner-container
 www.crunchyroll.com##.game-banner-wrapper
+www.crunchyroll.com##.message-container
 www.crunchyroll.com##.ot-fade-in.onetrust-pc-dark-filter
+www.crunchyroll.com##.ot-sdk-columns.ot-sdk-eight
+www.crunchyroll.com##.ot-sdk-container
+www.crunchyroll.com##.ot-sdk-row
 www.crunchyroll.com##.small-margin-bottom.container-shadow.cf.white-wrapper.showmedia-submenu
+www.crunchyroll.com##.twitter-share-button
 www.google.fr##.HTjtHe
 www.google.fr##.jw8mI
 www.jeuxvideo.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
@@ -425,7 +431,6 @@ foxsports.com.au,americanphotomag.com,baggersmag.com,boatingmag.com,cbssports.co
 anime-planet.com###siteContainer > .halo.aligncenter
 clipwatching.com###coverAds
 clipwatching.com###showmac
-crunchyroll.com###onetrust-consent-sdk
 e-monsite.com###ems-try-close
 e-monsite.com###ems-try-content
 google.*###bottomads > div[id^="tads"]
@@ -440,7 +445,9 @@ video.sibnet.ru###vjs-overlayclip-container-box
 vostfree.com###ads
 www.crunchyroll.com###marketing_banner
 www.crunchyroll.com###message_box
+www.crunchyroll.com###onetrust-banner-sdk
 www.crunchyroll.com###onetrust-consent-sdk
+www.crunchyroll.com###onetrust-policy
 www.crunchyroll.com###series_promo_banner
 www.grosbill.com###_ctl0_pop_up_cnil
 www.grosbill.com###_ctl0_pop_up_cnil > div
