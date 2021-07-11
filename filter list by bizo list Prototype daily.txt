@@ -56,6 +56,9 @@ i.ibb.co/kg3hHbm
 *$xmlhttprequest,domain=uqload.com
 
 
+1688.com,alamogordonews.com,androidcentral.com,app.com,argusleader.com,articlebio.com,atlauncher.com,autozone.com,axios.com,azcentral.com,barrons.com,battlecreekenquirer.com,baxterbulletin.com,bedbathandbeyond.com,behance.net,bing.com,bitchute.com,bucyrustelegraphforum.com,burlingtonfreepress.com,caller.com,chillicothegazette.com,cincinnati.com,citizen-times.com,clarionledger.com,cnbc.com,coastalliving.com,coloradoan.com,commercialappeal.com,cookinglight.com,coshoctontribune.com,courier-journal.com,courierpostonline.com,courierpress.com,currentargus.com,daily-times.com,dailyrecord.com,dailyworld.com,dallasnews.com,datastreamer.io,delawareonline.com,delmarvanow.com,demingheadlight.com,democratandchronicle.com,desertsun.com,desmoinesregister.com,detroitnews.com,digicert.com,dna.land,dnj.com,doist.com,elpasotimes.com,endpts.com,eveningsun.com,ew.com,excelcampus.com,fdlreporter.com,floridatoday.com,foodandwine.com,forbes.com,forhims.com,fortune.com,forums.digitalspy.com,freep.com,gamerevolution.com,gettyimages.com,github.com,gosanangelo.com,greatfallstribune.com,greenbaypressgazette.com,greenvilleonline.com,guampdn.com,hattiesburgamerican.com,health.com,hellogiggles.com,hotdeals.com,howtogeek.com,htrnews.com,imore.com,indeed.com,independentmail.com,indystar.com,instyle.com,ipvm.com,ithacajournal.com,jacksonsun.com,jconline.com,jsonline.com,kitsapsun.com,knoxnews.com,lancastereaglegazette.com,lansingstatejournal.com,lcsun-news.com,ldnews.com,livingstondaily.com,lohud.com,mansfieldnewsjournal.com,marionstar.com,marshfieldnewsherald.com,mcall.com,metafilter.com,miamiherald.com,microsoft.com,montgomeryadvertiser.com,mycentraljersey.com,myrecipes.com,naplesnews.com,nbc-2.com,nbcbayarea.com,nbcchicago.com,nbcdfw.com,nbclosangeles.com,nbcmiami.com,nbcnewyork.com,nbcphiladelphia.com,nbcsandiego.com,nbcwashington.com,necn.com,newarkadvocate.com,news-leader.com,news-press.com,newsleader.com,nkleadershipwatch.org,northjersey.com,nydailynews.com,ont.io,orlandosentinel.com,packersnews.com,pal-item.com,pcgamesn.com,people.com,peopleenespanol.com,placesjournal.org,pnj.com,pokemongohub.net,portclintonnewsherald.com,postcrescent.com,poughkeepsiejournal.com,press-citizen.com,pressconnects.com,publicopiniononline.com,radio.com,realsimple.com,redding.com,reporternews.com,rgj.com,rollingstone.com,scsun-news.com,sctimes.com,shadersmod.net,sheboyganpress.com,shreveporttimes.com,si.com,southernliving.com,spectator.co.uk,spectator.us,sprint.com,stargazette.com,statefarm.com,statesmanjournal.com,stevenspointjournal.com,stratfor.com,surlatable.com,tallahassee.com,tanaza.com,tcpalm.com,technologyreview.com,tennessean.com,theadvertiser.com,theatlantic.com,thecalifornian.com,thedailyjournal.com,thegleaner.com,theleafchronicle.com,thenews-messenger.com,thenewsstar.com,thenorthwestern.com,thespectrum.com,thestarpress.com,the-sun.com,thescottishsun.co.uk,thesun.co.uk,thesun.ie,thetimesherald.com,thetowntalk.com,thewrap.com,time.com,timesrecordnews.com,topclassactions.com,torrentfreak.com,trains.com,travelandleisure.com,usatoday.com,vcstar.com,verywell.com,verywellfamily.com,verywellfit.com,verywellhealth.com,verywellmind.com,vev.io,vidup.io,visaliatimesdelta.com,wausaudailyherald.com,wegmans.com,who.int,wisconsinrapidstribune.com,wpri.com,ydr.com,zanesvilletimesrecorder.com,zappar.com,zara.com#$#html { overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important; }
+
+
 ~yogajournal.ru,~kinogo-2016.net##.social-likes
 
 
@@ -388,7 +391,9 @@ www.tns-counter.ru
 anime-planet.com##.pure-g > .pure-1 > .halo
 bestvaluevpn.com##.footer-popup.popup
 bing.com##.adsMvC
+bing.com##.b_adLastChild
 bing.com##.bnp_cookie_banner
+bing.com##.pa_carousel_mlo
 bing.com##a[href*="/aclick?ld="]:not(.vsp_ads)
 clipwatching.com##.cover
 clipwatching.com##.video_ad2_fadein
@@ -408,6 +413,7 @@ v5.anime-ultime.net##.playBigBtn
 video.sibnet.ru,tamasha.com##.vjs-share-button
 video.sibnet.ru##.vjs-overlayclip-box-close
 video.sibnet.ru##.vjs-share-button
+www.bing.com##.bnp_container
 www.bing.com##.bnp_cookie_banner
 www.bing.com##.bnp_overlay_wrapper
 www.bricoman.fr##.fixed-full.q-dialog__backdrop
@@ -448,6 +454,8 @@ foxsports.com.au,americanphotomag.com,baggersmag.com,boatingmag.com,cbssports.co
 
 anime-planet.com###siteContainer > .halo.aligncenter
 bestvaluevpn.com###j-popup-9899596_wrapper
+bing.com###b_opalpers, #miniheader
+bing.com###b_pole
 clipwatching.com###coverAds
 clipwatching.com###showmac
 e-monsite.com###ems-try-close
@@ -462,11 +470,11 @@ sibnet.ru###vjs-overlayclip-container-box
 video.sibnet.ru###vjs-overlayclip-box
 video.sibnet.ru###vjs-overlayclip-container-box
 vostfree.com###ads
+www.bing.com###bnp\.nid\.63245
 www.bing.com###bnp\.nid\.63246
 www.crunchyroll.com###marketing_banner
 www.crunchyroll.com###message_box
 www.crunchyroll.com###onetrust-banner-sdk
-www.crunchyroll.com###onetrust-consent-sdk
 www.crunchyroll.com###onetrust-consent-sdk
 www.crunchyroll.com###onetrust-policy
 www.crunchyroll.com###series_promo_banner
@@ -481,7 +489,18 @@ www.nautiljon.com###cgVideoPlayer
 *$xmlhttprequest,3p,domain=streamtape.com
 
 
-
+*##+js(abort-current-inline-script, *)
+*##+js(abort-on-property-read, *)
+*##+js(abort-on-property-write, *)
+*##+js(addEventListener-defuser, *)
+*##+js(addEventListener-defuser, /*/i)
+*##+js(cookie-remover, *)
+*##+js(no-floc)
+*##+js(no-setInterval-if, *)
+*##+js(no-setTimeout-if, *)
+*##+js(remove-attr, *)
+*##+js(set-constant, *)
+*##+js(set-constant, Document.prototype.interestCohort, undefined)
 
 
 bing.com##+js(abort-on-property-read, *)
@@ -509,6 +528,11 @@ bing.com##+js(nowebrtc)
 bing.com##+js(popads-dummy)
 bing.com##+js(popads)
 bing.com##+js(remove-attr, *)
+bing.com##+js(set-constant, AdBlockerTracking.AdBlockMonitor, noopFunc)
+bing.com##+js(set-constant, AdBTrack.AdbMon.isBlocked, noopFunc)
+bing.com##+js(set-constant, Blob, noopFunc)
+bing.com##+js(set-constant, Document.prototype.interestCohort, undefined)
+bing.com##+js(set-constant, SVGForeignObjectElement, undefined)
 clipwatching.*##+js(abort-current-inline-script, String.fromCharCode, /emZnbG9hZGVk|break;case \$\.|break;case \d{1}/)
 clipwatching.com##+js(abort-current-inline-script, document.querySelectorAll, popMagic)
 clipwatching.com##+js(abort-current-inline-script, String.fromCharCode, /btoa|break/)
@@ -584,14 +608,15 @@ uqload.com##+js(abort-current-inline-script, String.fromCharCode, /emZnbG9hZGVk|
 uqload.com##+js(abort-current-inline-script, String.fromCharCode, zfgloaded)
 www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 www.google.*##+js(set-constant, rwt, noopFunc)
-youtube.com##+js(json-prune, playerResponse.adPlacements)
-youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
 youtube.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
-youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, null)
-youtube.com##+js(json-prune, playerResponse.playerAds)
-youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
-youtube.com##+js(set-constant, playerResponse.adPlacements, undefined)
 youtube.com##+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
+youtube.com##+js(json-prune, playerResponse.adPlacements)
+youtube.com##+js(json-prune, playerResponse.playerAds)
+youtube.com##+js(set-constant, playerResponse.adPlacements, undefined)
+youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, null)
+youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
+
 
 
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect-rule=googletagservices_gpt.js
@@ -617,4 +642,4 @@ youtube.com##+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlac
 @@||streamtape.com/ad.js
 @@||wakanim.tv/fr/v2/*$domain=wakanim.tv
 @@||www.google.*/search?$generichide
-
+@@||www.wakanim.tv/*/advertisement$xhr
