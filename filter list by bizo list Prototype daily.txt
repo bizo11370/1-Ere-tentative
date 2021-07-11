@@ -369,7 +369,7 @@ www.tns-counter.ru
 ||public.cobrowse.oraclecloud.com/rely/storage/
 ||sa.crunchyroll.com/analytics.js
 ||video.sibnet.ru/my/settings/*
-||wakanim.tv/*/advertisement?idepisode=$xmlhttprequest,important
+
 ||www.ki-oon.com/medias/fond/image-1624372343.jpg$image
 ||www.nautiljon.com/pub/bg.php$image
 ||www.wakanim.tv/manifest.json$other,domain=www.wakanim.tv
