@@ -40,6 +40,7 @@ _pagespeed_beacon?
 /social-media-icons/*
 /social/fb_
 /social/twitter_
+/socialicons/*
 /tc_analytics.
 /video.counters.js
 /wp-content/plugins/eazy-ad-unblocker/*
@@ -58,97 +59,100 @@ i.ibb.co/kg3hHbm
 ~yogajournal.ru,~kinogo-2016.net##.social-likes
 
 
-##.adsbygoogle
-##.adsbyvli
-##.afs_ads
-##.cc-individual-cookie-settings
-##.fa-facebook-f
-##.fa-instagram
-##.fa-twitter
-##.fa-youtube-play
-##.facebook
-##.fb-like
-##.Fgvgjc
-##.footer__links__social
-##.footer-social
-##.g-plusone
-##.HTjtHe
-##.icon-facebook
-##.icon-gplus
-##.icon-rss
-##.icon-twitter
-##.jw-settings-sharing
-##.jw-submenu-sharing
-##.jw8mI
-##.privacy-container:not(body):not(html):not(.content-container)
-##.privacy-popup
-##.scrolltop:not(body):not(html)
-##.share-facebook
-##.share-gplus
-##.share-rss
-##.share-twitter
-##.shares
-##.sharethis-inline-share-buttons
-##.social-icon
-##.social-icon-facebook
-##.social-icon-twitter
-##.social-link
-##.social-share
-##.socialbuttons
-##.text_ads_2
-##.twitter
-##.twitter-follow-button
-##.twitter-share-button
-##.video_ad
-##.vkontakte
-##.widget_adswidget2-quick-adsense
-##.widget_adswidget3-quick-adsense
-##.widget_adswidget4-quick-adsense
-##.ytp-share-button
-##[href*="/afu.php"]
-##[id*="ScriptRoot"]
-##[id^="adswidget2-quick-adsense"]
-##[id^="adswidget3-quick-adsense"]
-##[id^="adswidget4-quick-adsense"]
-##[id^="div-gpt-ad"]
-##a[href*=".pub2srv.com/"]
-##a[href*="/afu.php?"]
-##a[href*="facebook.com/sharer/sharer.php?"]
-##a[href^="http://twitter.com/share?"]
-##a[href^="http://twitter.com/share"]
-##a[href^="http://vk.com/share.php?"]
-##a[href^="http://vk.com/share.php"]
-##a[href^="http://www.facebook.com/sharer.php?"]
-##a[href^="http://www.facebook.com/sharer.php"]
-##a[href^="http://www.odnoklassniki.ru/dk?st.cmd=addShare"]
-##a[href^="https://plus.google.com/share?"]
-##a[href^="https://plus.google.com/share"]
-##a[href^="https://twitter.com/intent/tweet?"]
-##a[href^="https://twitter.com/share?"]
-##a[href^="https://twitter.com/share"]
-##a[href="https://twitter.com/share"]
-##a[title="RSS"]
-##body .twitter-share-button
-##body #cookie-policy
-##div[button="share"]
-##div[class^="cc-sharebuttons-"]
-##div[id^="adtrue_tag"]
-##div[id^="rc-widget-"]
-##iframe[width="728"][height="90"]
-##img[src*="//counter.yadro.ru/"]
-##img[src*="counter.yadro.ru"]
+*##.adsbygoogle
+*##.adsbyvli
+*##.afs_ads
+*##.cc-individual-cookie-settings
+*##.fa-facebook-f
+*##.fa-instagram
+*##.fa-twitter
+*##.fa-youtube-play
+*##.facebook
+*##.fb-like
+*##.Fgvgjc
+*##.footer__links__social
+*##.footer-social
+*##.g-plusone
+*##.HTjtHe
+*##.icon-facebook
+*##.icon-gplus
+*##.icon-rss
+*##.icon-twitter
+*##.jw-settings-sharing
+*##.jw-submenu-sharing
+*##.jw8mI
+*##.privacy-container:not(body):not(html):not(.content-container)
+*##.privacy-popup
+*##.rn_SocialBookmarkLink
+*##.scrolltop:not(body):not(html)
+*##.share-facebook
+*##.share-gplus
+*##.share-rss
+*##.share-twitter
+*##.shares
+*##.sharethis-inline-share-buttons
+*##.social-col
+*##.social-icon
+*##.social-icon-facebook
+*##.social-icon-twitter
+*##.social-icons
+*##.social-link
+*##.social-share
+*##.socialbuttons
+*##.text_ads_2
+*##.twitter
+*##.twitter-follow-button
+*##.twitter-share-button
+*##.video_ad
+*##.vkontakte
+*##.widget_adswidget2-quick-adsense
+*##.widget_adswidget3-quick-adsense
+*##.widget_adswidget4-quick-adsense
+*##.ytp-share-button
+*##[href*="/afu.php"]
+*##[id*="ScriptRoot"]
+*##[id^="adswidget2-quick-adsense"]
+*##[id^="adswidget3-quick-adsense"]
+*##[id^="adswidget4-quick-adsense"]
+*##[id^="div-gpt-ad"]
+*##a[href*=".pub2srv.com/"]
+*##a[href*="/afu.php?"]
+*##a[href*="facebook.com/sharer/sharer.php?"]
+*##a[href^="http://twitter.com/share?"]
+*##a[href^="http://twitter.com/share"]
+*##a[href^="http://vk.com/share.php?"]
+*##a[href^="http://vk.com/share.php"]
+*##a[href^="http://www.facebook.com/sharer.php?"]
+*##a[href^="http://www.facebook.com/sharer.php"]
+*##a[href^="http://www.odnoklassniki.ru/dk?st.cmd=addShare"]
+*##a[href^="https://plus.google.com/share?"]
+*##a[href^="https://plus.google.com/share"]
+*##a[href^="https://twitter.com/intent/tweet?"]
+*##a[href^="https://twitter.com/share?"]
+*##a[href^="https://twitter.com/share"]
+*##a[href="https://twitter.com/share"]
+*##a[title="RSS"]
+*##body .twitter-share-button
+*##body #cookie-policy
+*##div[button="share"]
+*##div[class^="cc-sharebuttons-"]
+*##div[id^="adtrue_tag"]
+*##div[id^="rc-widget-"]
+*##iframe[width="728"][height="90"]
+*##img[src*="//counter.yadro.ru/"]
+*##img[src*="counter.yadro.ru"]
 
 
-###ads2
-###ads3
-###ads4
-###cookie-policy
-###fb-root:not(body):not(html)
-###gotop
-###privacy-alert
-###share-button
-###social_media
-###to-top:not(body)
+*###ads2
+*###ads3
+*###ads4
+*###cookie-policy
+*###fb-root:not(body):not(html)
+*###gotop
+*###privacy-alert
+*###share-button
+*###social_media
+*###to-top:not(body)
 
 
 ||fonts.googleapis.com/css
@@ -189,6 +193,9 @@ www.tns-counter.ru
 ||an.yandex.ru^$important
 
 
+||thrawdmn55.xyz^important
+
+
 ||greedseed.world^$important
 ||hqq.*/cdn-cgi/trace$xmlhttprequest,1p,important
 
@@ -206,6 +213,7 @@ www.tns-counter.ru
 ||platform.twitter.com/js/button.$3p
 ||popnc.com^$3p
 ||rating-widget.com^$3p
+||rnengage.com^$3p
 ||services.vlitag.com^$3p
 ||smartlook.com^$3p
 ||static.hotjar.com^$3p
@@ -229,6 +237,7 @@ www.tns-counter.ru
 ||cloudfront.net^$font,3p
 ||fwmrm.net^$3p
 ||static.criteo.net^3p
+||typekit.net^$3p
 
 
 ||consensu.org^$3p
@@ -306,6 +315,7 @@ www.tns-counter.ru
 
 ||am15.net^
 ||az416426.vo.msecnd.net^
+||monetate.net^
 ||tag.aticdn.net^
 ||whowhipi.net^
 
@@ -346,6 +356,8 @@ www.tns-counter.ru
 ||connect.facebook.net^$3p,domain=~facebook.com|~fb.com
 ||crunchyroll.com/tracker
 ||crunchyroll.com/versioned_assets/js/tracking^
+||cvn*.sibnet.ru/*.mp4*$media,domain=video.sibnet.ru
+||dn-staticdown.qbox.me^$script,domain=geo.captcha-delivery.com
 ||ianimes.org/img/tracker.gif
 ||img1.ak.crunchyroll.com/i/spire1/77e97950c1920711c6a3e0e69a3c38221624307959_main.png$image
 ||img1.ak.crunchyroll.com/i/spire2/05ed6158ab0bf2442c692c2325f954571555017990_main.png$image
@@ -354,7 +366,9 @@ www.tns-counter.ru
 ||jwpcdn.com/player/plugins/googima/$script
 ||linkedin.com/countserv/$3p
 ||ninjastream.to/js/lib.js
+||public.cobrowse.oraclecloud.com/rely/storage/
 ||sa.crunchyroll.com/analytics.js
+||video.sibnet.ru/my/settings/*
 ||wakanim.tv/*/advertisement?idepisode=$xmlhttprequest,important
 ||www.ki-oon.com/medias/fond/image-1624372343.jpg$image
 ||www.nautiljon.com/pub/bg.php$image
@@ -372,6 +386,7 @@ www.tns-counter.ru
 
 
 anime-planet.com##.pure-g > .pure-1 > .halo
+bestvaluevpn.com##.footer-popup.popup
 bing.com##.adsMvC
 bing.com##.bnp_cookie_banner
 bing.com##a[href*="/aclick?ld="]:not(.vsp_ads)
@@ -393,6 +408,9 @@ v5.anime-ultime.net##.playBigBtn
 video.sibnet.ru,tamasha.com##.vjs-share-button
 video.sibnet.ru##.vjs-overlayclip-box-close
 video.sibnet.ru##.vjs-share-button
+www.bing.com##.bnp_cookie_banner
+www.bing.com##.bnp_overlay_wrapper
+www.bricoman.fr##.fixed-full.q-dialog__backdrop
 www.crunchyroll.com##.cf.message-container
 www.crunchyroll.com##.cr-expo-banner
 www.crunchyroll.com##.game-banner-container
@@ -429,6 +447,7 @@ foxsports.com.au,americanphotomag.com,baggersmag.com,boatingmag.com,cbssports.co
 
 
 anime-planet.com###siteContainer > .halo.aligncenter
+bestvaluevpn.com###j-popup-9899596_wrapper
 clipwatching.com###coverAds
 clipwatching.com###showmac
 e-monsite.com###ems-try-close
@@ -443,9 +462,11 @@ sibnet.ru###vjs-overlayclip-container-box
 video.sibnet.ru###vjs-overlayclip-box
 video.sibnet.ru###vjs-overlayclip-container-box
 vostfree.com###ads
+www.bing.com###bnp\.nid\.63246
 www.crunchyroll.com###marketing_banner
 www.crunchyroll.com###message_box
 www.crunchyroll.com###onetrust-banner-sdk
+www.crunchyroll.com###onetrust-consent-sdk
 www.crunchyroll.com###onetrust-consent-sdk
 www.crunchyroll.com###onetrust-policy
 www.crunchyroll.com###series_promo_banner
@@ -574,10 +595,21 @@ uqload.com##+js(abort-current-inline-script, String.fromCharCode, /emZnbG9hZGVk|
 uqload.com##+js(abort-current-inline-script, String.fromCharCode, zfgloaded)
 www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 www.google.*##+js(set-constant, rwt, noopFunc)
+youtube.com##+js(json-prune, playerResponse.adPlacements)
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
+youtube.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, null)
+youtube.com##+js(json-prune, playerResponse.playerAds)
+youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
+youtube.com##+js(set-constant, playerResponse.adPlacements, undefined)
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
 
 
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect-rule=googletagservices_gpt.js
 ||tags.tiqcdn.com/utag/*/prod/utag.js$script,redirect-rule=noopjs
+
+
+||www.youtube.com^$subdocument,csp=worker-src 'none'
 
 
 104.21.78.202
