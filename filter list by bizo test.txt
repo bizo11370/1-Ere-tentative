@@ -1,5 +1,16 @@
 !title:filter list by bizo test
 
-
+*##+js(abort-current-inline-script, *)
+*##+js(abort-on-property-read, *)
+*##+js(abort-on-property-write, *)
+*##+js(addEventListener-defuser, *)
+*##+js(addEventListener-defuser, /*/i)
+*##+js(cookie-remover, *)
+*##+js(no-floc)
+*##+js(no-setInterval-if, *)
+*##+js(no-setTimeout-if, *)
+*##+js(remove-attr, *)
+*##+js(set-constant, *)
+*##+js(set-constant, Document.prototype.interestCohort, undefined)
 
 !end
