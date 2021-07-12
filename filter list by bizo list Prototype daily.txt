@@ -359,7 +359,6 @@ www.tns-counter.ru
 ||connect.facebook.net^$3p,domain=~facebook.com|~fb.com
 ||crunchyroll.com/tracker
 ||crunchyroll.com/versioned_assets/js/tracking^
-||cvn*.sibnet.ru/*.mp4*$media,domain=video.sibnet.ru
 ||dn-staticdown.qbox.me^$script,domain=geo.captcha-delivery.com
 ||ianimes.org/img/tracker.gif
 ||img1.ak.crunchyroll.com/i/spire1/77e97950c1920711c6a3e0e69a3c38221624307959_main.png$image
