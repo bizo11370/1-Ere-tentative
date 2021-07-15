@@ -1,7 +1,6 @@
 !title:filter list by bizo list Prototype daily
 
 
-_ad_choices_
 _pagespeed_beacon?
 ://counter.
 .histats.*.js
@@ -24,7 +23,11 @@ _pagespeed_beacon?
 /fonts/*.ttf$font,3p
 /gen_204?$ping
 /html/body/div[2]/div[1]
+/i?stm=
+/img/banner/*$domain=~almicro.ru|~belby.by|~chitai-gorod.ru|~frosbyte.org|~fvds.ru|~gostas-klimat.ru|~imhonet.ru|~megabitschool.ru|~miralin.ru|~mts.ru|~mtsbank.ru|~stavsalut.hostcrm.ru|~themelooks.org|~vavlab.ru|~webnames.ru|~xn-----6kcvbohzccf5ajf4a7e.xn--p1ai
+/img/fb.
 /img/social-
+/img/tw.
 /js/script-*.*.js$script,domain=domonosok.tk|haes.tech|hqq.to|porn-watch.ru
 /mod_pagespeed_beacon?
 /newsletter/structure/*
@@ -46,6 +49,7 @@ _pagespeed_beacon?
 /wp-content/plugins/eazy-ad-unblocker/*
 /xiti.js
 /xtcore.js
+gfvbbbbbbbbFRTD_ad_choices_
 i.ibb.co/kg3hHbm
 
 
@@ -59,13 +63,11 @@ i.ibb.co/kg3hHbm
 1688.com,alamogordonews.com,androidcentral.com,app.com,argusleader.com,articlebio.com,atlauncher.com,autozone.com,axios.com,azcentral.com,barrons.com,battlecreekenquirer.com,baxterbulletin.com,bedbathandbeyond.com,behance.net,bing.com,bitchute.com,bucyrustelegraphforum.com,burlingtonfreepress.com,caller.com,chillicothegazette.com,cincinnati.com,citizen-times.com,clarionledger.com,cnbc.com,coastalliving.com,coloradoan.com,commercialappeal.com,cookinglight.com,coshoctontribune.com,courier-journal.com,courierpostonline.com,courierpress.com,currentargus.com,daily-times.com,dailyrecord.com,dailyworld.com,dallasnews.com,datastreamer.io,delawareonline.com,delmarvanow.com,demingheadlight.com,democratandchronicle.com,desertsun.com,desmoinesregister.com,detroitnews.com,digicert.com,dna.land,dnj.com,doist.com,elpasotimes.com,endpts.com,eveningsun.com,ew.com,excelcampus.com,fdlreporter.com,floridatoday.com,foodandwine.com,forbes.com,forhims.com,fortune.com,forums.digitalspy.com,freep.com,gamerevolution.com,gettyimages.com,github.com,gosanangelo.com,greatfallstribune.com,greenbaypressgazette.com,greenvilleonline.com,guampdn.com,hattiesburgamerican.com,health.com,hellogiggles.com,hotdeals.com,howtogeek.com,htrnews.com,imore.com,indeed.com,independentmail.com,indystar.com,instyle.com,ipvm.com,ithacajournal.com,jacksonsun.com,jconline.com,jsonline.com,kitsapsun.com,knoxnews.com,lancastereaglegazette.com,lansingstatejournal.com,lcsun-news.com,ldnews.com,livingstondaily.com,lohud.com,mansfieldnewsjournal.com,marionstar.com,marshfieldnewsherald.com,mcall.com,metafilter.com,miamiherald.com,microsoft.com,montgomeryadvertiser.com,mycentraljersey.com,myrecipes.com,naplesnews.com,nbc-2.com,nbcbayarea.com,nbcchicago.com,nbcdfw.com,nbclosangeles.com,nbcmiami.com,nbcnewyork.com,nbcphiladelphia.com,nbcsandiego.com,nbcwashington.com,necn.com,newarkadvocate.com,news-leader.com,news-press.com,newsleader.com,nkleadershipwatch.org,northjersey.com,nydailynews.com,ont.io,orlandosentinel.com,packersnews.com,pal-item.com,pcgamesn.com,people.com,peopleenespanol.com,placesjournal.org,pnj.com,pokemongohub.net,portclintonnewsherald.com,postcrescent.com,poughkeepsiejournal.com,press-citizen.com,pressconnects.com,publicopiniononline.com,radio.com,realsimple.com,redding.com,reporternews.com,rgj.com,rollingstone.com,scsun-news.com,sctimes.com,shadersmod.net,sheboyganpress.com,shreveporttimes.com,si.com,southernliving.com,spectator.co.uk,spectator.us,sprint.com,stargazette.com,statefarm.com,statesmanjournal.com,stevenspointjournal.com,stratfor.com,surlatable.com,tallahassee.com,tanaza.com,tcpalm.com,technologyreview.com,tennessean.com,theadvertiser.com,theatlantic.com,thecalifornian.com,thedailyjournal.com,thegleaner.com,theleafchronicle.com,thenews-messenger.com,thenewsstar.com,thenorthwestern.com,thespectrum.com,thestarpress.com,the-sun.com,thescottishsun.co.uk,thesun.co.uk,thesun.ie,thetimesherald.com,thetowntalk.com,thewrap.com,time.com,timesrecordnews.com,topclassactions.com,torrentfreak.com,trains.com,travelandleisure.com,usatoday.com,vcstar.com,verywell.com,verywellfamily.com,verywellfit.com,verywellhealth.com,verywellmind.com,vev.io,vidup.io,visaliatimesdelta.com,wausaudailyherald.com,wegmans.com,who.int,wisconsinrapidstribune.com,wpri.com,ydr.com,zanesvilletimesrecorder.com,zappar.com,zara.com#$#html { overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important; }
 
 
-~yogajournal.ru,~kinogo-2016.net##.social-likes
-
-
 ##.adsbygoogle
 ##.adsbyvli
 ##.afs_ads
 ##.cc-individual-cookie-settings
+##.cookiesInfo:not(body):not(html)
 ##.fa-facebook-f
 ##.fa-instagram
 ##.fa-twitter
@@ -94,11 +96,13 @@ i.ibb.co/kg3hHbm
 ##.share-twitter
 ##.shares
 ##.sharethis-inline-share-buttons
+##.social
 ##.social-col
 ##.social-icon
 ##.social-icon-facebook
 ##.social-icon-twitter
 ##.social-icons
+##.social-likes
 ##.social-link
 ##.social-share
 ##.socialbuttons
@@ -112,6 +116,7 @@ i.ibb.co/kg3hHbm
 ##.widget_adswidget3-quick-adsense
 ##.widget_adswidget4-quick-adsense
 ##.ytp-share-button
+##[aria-label="cookieconsent"]
 ##[href*="/afu.php"]
 ##[id*="ScriptRoot"]
 ##[id^="adswidget2-quick-adsense"]
@@ -135,6 +140,8 @@ i.ibb.co/kg3hHbm
 ##a[href^="https://twitter.com/share"]
 ##a[href="https://twitter.com/share"]
 ##a[title="RSS"]
+##a[title="Suivez-nous sur Facebook"]
+##a[title="Suivez-nous sur Twitter"]
 ##body .twitter-share-button
 ##body #cookie-policy
 ##div[button="share"]
@@ -256,6 +263,7 @@ www.tns-counter.ru
 ||bebi.com^
 ||betteradsystem.com^
 ||bypathaivr.com^
+||bypathaivr.com^
 ||cdn.adtrue.com^
 ||cdnjs.cloudflare.com^
 ||ced.sascdn.com^
@@ -284,12 +292,14 @@ www.tns-counter.ru
 ||pi.pardot.com^
 ||qualaroo.com^
 ||redfastlabs.com^
+||reyden-x.com^
 ||rvedfxeljxo.com^
 ||s10.histats.com^
 ||scorecardresearch.com^
 ||securite.01net.com^
 ||server.cpmstar.com^
 ||speedcurve.com^
+||sstatic1.histats.com^
 ||tagbom.com^
 ||tags.tiqcdn.com^
 ||tnzjsphdird.com^
@@ -318,6 +328,7 @@ www.tns-counter.ru
 
 ||am15.net^
 ||az416426.vo.msecnd.net^
+||ds-aksb-a.akamaihd.net
 ||monetate.net^
 ||tag.aticdn.net^
 ||whowhipi.net^
@@ -340,13 +351,19 @@ www.tns-counter.ru
 ||matomo.cloud^
 
 
+||betgorebysson.club^
+
+
+||easyads28.mobi^
+
+
+||m.stripe.network^
+
+
 ||d2klx87bgzngce.cloudfront.net^
 ||d2kk0o3fr7ed01.cloudfront.net^
 ||d18t35yyry2k49.cloudfront.net^
 ||dmmzkfd82wayn.cloudfront.net^
-
-
-||m.stripe.network^
 
 
 ||a.mailmunch.co/app/$script,3p
@@ -370,8 +387,8 @@ www.tns-counter.ru
 ||ninjastream.to/js/lib.js
 ||public.cobrowse.oraclecloud.com/rely/storage/
 ||sa.crunchyroll.com/analytics.js
+||static.cloudflareinsights.com/beacon.min.js
 ||video.sibnet.ru/my/settings/*
-
 ||www.ki-oon.com/medias/fond/image-1624372343.jpg$image
 ||www.nautiljon.com/pub/bg.php$image
 ||www.wakanim.tv/manifest.json$other,domain=www.wakanim.tv
@@ -417,16 +434,26 @@ www.bing.com##.bnp_cookie_banner
 www.bing.com##.bnp_overlay_wrapper
 www.bricoman.fr##.fixed-full.q-dialog__backdrop
 www.crunchyroll.com##.cf.message-container
+www.crunchyroll.com##.cookie-setting-link
 www.crunchyroll.com##.cr-expo-banner
 www.crunchyroll.com##.game-banner-container
 www.crunchyroll.com##.game-banner-wrapper
 www.crunchyroll.com##.message-container
 www.crunchyroll.com##.ot-fade-in.onetrust-pc-dark-filter
 www.crunchyroll.com##.ot-sdk-columns.ot-sdk-eight
+www.crunchyroll.com##.ot-sdk-columns.ot-sdk-three
 www.crunchyroll.com##.ot-sdk-container
 www.crunchyroll.com##.ot-sdk-row
 www.crunchyroll.com##.small-margin-bottom.container-shadow.cf.white-wrapper.showmedia-submenu
 www.crunchyroll.com##.twitter-share-button
+www.crunchyroll.com###onetrust-accept-btn-handler
+www.crunchyroll.com###onetrust-banner-sdk > .ot-sdk-container
+www.crunchyroll.com###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
+www.crunchyroll.com###onetrust-button-group-parent
+www.crunchyroll.com###onetrust-consent-sdk
+www.crunchyroll.com###onetrust-group-container
+www.crunchyroll.com###onetrust-policy
+www.crunchyroll.com###onetrust-policy-text
 www.google.fr##.HTjtHe
 www.google.fr##.jw8mI
 www.jeuxvideo.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
@@ -617,7 +644,6 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, null)
 youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 
 
-
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect-rule=googletagservices_gpt.js
 ||tags.tiqcdn.com/utag/*/prod/utag.js$script,redirect-rule=noopjs
 
@@ -629,16 +655,20 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 172.67.137.113
 
 
+@@||127.0.0.1:*/intel/*$xhr,domain=intel.fr
 @@||cdn.cookielaw.org^$domain=crunchyroll.com
 @@||cdn.cookielaw.org^$script,domain=www.crunchyroll.com
 @@||cdn.cookielaw.org^$xhr,domain=www.crunchyroll.com
 @@||cdnjs.cloudflare.com^$script,domain=www.easylounge.com
+@@||cdnjs.cloudflare.com^$script,domain=www.wakanim.tv
 @@||google.com/recaptcha/$script
 @@||google.com/recaptcha/$subdocument,csp
 @@||gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js$script
 @@||gstatic.com/cv/js/sender/v1/cast_sender.js$script
 @@||gstatic.com/recaptcha/$script
 @@||streamtape.com/ad.js
+@@||video.sibnet.ru/fonts/*$font
+@@||vostfree.tv/templates/Animix/fonts/*$font
 @@||wakanim.tv/fr/v2/*$domain=wakanim.tv
 @@||www.google.*/search?$generichide
 @@||www.wakanim.tv/*/advertisement$xhr
