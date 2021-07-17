@@ -1,6 +1,7 @@
 !title:filter list by bizo list Prototype daily
 
 
+_ad_choices_
 _pagespeed_beacon?
 ://counter.
 .histats.*.js
@@ -36,6 +37,7 @@ _pagespeed_beacon?
 /rollbar.js
 /rss.gif
 /rss.png
+/rss15.
 /social-api.
 /social-likes_
 /social-likes.
@@ -74,6 +76,8 @@ i.ibb.co/kg3hHbm
 ##.fa-youtube-play
 ##.facebook
 ##.fb-like
+##.fb-like-button
+##.fb-share-button
 ##.Fgvgjc
 ##.footer__links__social
 ##.footer-social
@@ -159,6 +163,7 @@ i.ibb.co/kg3hHbm
 ###cookie-policy
 ###fb-root:not(body):not(html)
 ###gotop
+###ot-sdk-btn
 ###privacy-alert
 ###share-button
 ###social_media
@@ -254,6 +259,9 @@ www.tns-counter.ru
 ||cookielaw.org^$3p
 ||cookielaw.org^$3p
 ||privacy-center.org^$3p
+
+
+||onetrust.com^$ping
 
 
 ||abtasty.com^
@@ -402,9 +410,9 @@ www.tns-counter.ru
 ||youtube.com/api/stats/qoe?
 
 
-
 ||d2klx87bgzngce.cloudfront.net^$script,redirect-rule=noopjs
 ||google-analytics.com/analytics.js$script,redirect-rule=google-analytics.com/analytics.js
+||google-analytics.com/ga.js$script,redirect-rule=google-analytics.com/ga.js
 ||googletagmanager.com/gtm.js$script,redirect-rule=googletagmanager.com/gtm.js
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect-rule=googletagservices_gpt.js
@@ -494,6 +502,7 @@ bing.com###b_opalpers, #miniheader
 bing.com###b_pole
 clipwatching.com###coverAds
 clipwatching.com###showmac
+crunchyroll.com###template_skin_leaderboard
 e-monsite.com###ems-try-close
 e-monsite.com###ems-try-content
 google.*###bottomads > div[id^="tads"]
