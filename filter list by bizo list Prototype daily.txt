@@ -279,6 +279,7 @@ www.tns-counter.ru
 ||imasdk.googleapis.com^
 ||in-page-push.com^
 ||intelligenceadx.com^
+||ipmbnqqaon.com^
 ||jac.yahoosandbox.com^
 ||jill.fc.yahoo.com^
 ||js-agent.newrelic.com^
@@ -309,6 +310,7 @@ www.tns-counter.ru
 ||widgets.outbrain.com^
 ||wkcuhilbg.com^
 ||www.hugedomains.com^
+||xpbbyiqbcawamy.com^
 ||ytimm.com^
 
 
@@ -385,10 +387,12 @@ www.tns-counter.ru
 ||jwpcdn.com/player/plugins/googima/$script
 ||linkedin.com/countserv/$3p
 ||ninjastream.to/js/lib.js
+||platform.twitter.com/widgets.js$script,domain=www.crunchyroll.com
 ||public.cobrowse.oraclecloud.com/rely/storage/
 ||sa.crunchyroll.com/analytics.js
 ||static.cloudflareinsights.com/beacon.min.js
 ||video.sibnet.ru/my/settings/*
+||www.crunchyroll.com/favicons/site.webmanifest$other,domain=www.crunchyroll.com
 ||www.ki-oon.com/medias/fond/image-1624372343.jpg$image
 ||www.nautiljon.com/pub/bg.php$image
 ||www.wakanim.tv/manifest.json$other,domain=www.wakanim.tv
@@ -398,11 +402,17 @@ www.tns-counter.ru
 ||youtube.com/api/stats/qoe?
 
 
+
+||d2klx87bgzngce.cloudfront.net^$script,redirect-rule=noopjs
 ||google-analytics.com/analytics.js$script,redirect-rule=google-analytics.com/analytics.js
 ||googletagmanager.com/gtm.js$script,redirect-rule=googletagmanager.com/gtm.js
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js
+||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect-rule=googletagservices_gpt.js
+||tags.tiqcdn.com/utag/*/prod/utag.js$script,redirect-rule=noopjs
 ||wakanim.tv/*/advertisement?idepisode=$xmlhttprequest,important,redirect-rule=noop-vmap1.0.xml
 
+
+||www.youtube.com^$subdocument,csp=worker-src 'none'
 
 anime-planet.com##.pure-g > .pure-1 > .halo
 bestvaluevpn.com##.footer-popup.popup
@@ -642,13 +652,6 @@ youtube.com##+js(json-prune, playerResponse.playerAds)
 youtube.com##+js(set-constant, playerResponse.adPlacements, undefined)
 youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, null)
 youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
-
-
-||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect-rule=googletagservices_gpt.js
-||tags.tiqcdn.com/utag/*/prod/utag.js$script,redirect-rule=noopjs
-
-
-||www.youtube.com^$subdocument,csp=worker-src 'none'
 
 
 104.21.78.202
