@@ -203,7 +203,7 @@ www.tns-counter.ru
 ||doubleclick.net^$important
 
 
-||mc.yandex.ru^$important
+
 ||amung.us^$important
 ||an.yandex.ru^$important
 
@@ -537,14 +537,12 @@ www.nautiljon.com###cgVideoPlayer
 *##+js(abort-current-inline-script, *)
 *##+js(abort-on-property-read, *)
 *##+js(abort-on-property-write, *)
-*##+js(addEventListener-defuser, *)
 *##+js(addEventListener-defuser, /*/i)
 *##+js(cookie-remover, *)
 *##+js(no-floc)
 *##+js(no-setInterval-if, *)
 *##+js(no-setTimeout-if, *)
 *##+js(remove-attr, *)
-*##+js(set-constant, *)
 *##+js(set-constant, Document.prototype.interestCohort, undefined)
 
 
