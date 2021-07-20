@@ -53,6 +53,7 @@ _pagespeed_beacon?
 /xiti.js
 /xtcore.js
 /xvideo.js
+/xvideo.js|
 gfvbbbbbbbbFRTD_ad_choices_
 i.ibb.co/kg3hHbm
 
@@ -74,7 +75,9 @@ i.ibb.co/kg3hHbm
 ##.cc-individual-cookie-settings
 ##.cookiesInfo:not(body):not(html)
 ##.fa-facebook-f
+##.fa-facebook-square
 ##.fa-instagram
+##.fa-twitter-square
 ##.fa-twitter
 ##.fa-youtube-play
 ##.facebook
@@ -304,6 +307,7 @@ www.tns-counter.ru
 ||pdxgfnnoan.com^
 ||pi.pardot.com^
 ||platform.bidgear.com^
+||practisecolander.com^
 ||qualaroo.com^
 ||redfastlabs.com^
 ||reyden-x.com^
@@ -696,15 +700,16 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 @@||cdnjs.cloudflare.com^$script,domain=parisanime.com
 @@||cdnjs.cloudflare.com^$script,domain=www.easylounge.com
 @@||cdnjs.cloudflare.com^$script,domain=www.wakanim.tv
+@@||cdnjs.cloudflare.com^$stylesheet,domain=parisanime.com
 @@||google.com/recaptcha/$script
 @@||google.com/recaptcha/$subdocument,csp
 @@||gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js$script
 @@||gstatic.com/cv/js/sender/v1/cast_sender.js$script
 @@||gstatic.com/recaptcha/$script
+@@||otakufr.co/wp-content/*$font,1p
 @@||streamtape.com/ad.js
 @@||video.sibnet.ru/fonts/*$font
 @@||vostfree.tv/templates/Animix/fonts/*$font
 @@||wakanim.tv/fr/v2/*$domain=wakanim.tv
 @@||www.google.*/search?$generichide
 @@||www.wakanim.tv/*/advertisement$xhr
-
