@@ -19,6 +19,7 @@ _pagespeed_beacon?
 /app/ads.
 /cdn-cgi/bm/cv/*
 /cdn-cgi/bm/cv/*$script
+/cdn-cgi/rum?
 /ckies.js
 /client_204?$image
 /cookiecontrol.js
@@ -311,6 +312,7 @@ www.tns-counter.ru
 ||intelligenceadx.com^
 ||ipmbnqqaon.com^
 ||jac.yahoosandbox.com^
+||jighucme.com^
 ||jill.fc.yahoo.com^
 ||js-agent.newrelic.com^
 ||js.stripe.com^
@@ -341,6 +343,7 @@ www.tns-counter.ru
 ||tags.tiqcdn.com^
 ||tnzjsphdird.com^
 ||uhqpnhorurueku.com^
+||usounoul.com^
 ||velocitycdn.com^
 ||viamariller.com^
 ||vlitag.com^
@@ -366,6 +369,7 @@ www.tns-counter.ru
 
 ||ddmax20.xyz^
 ||v3.fstats.xyz^
+||eu.rollmeout.xyz^
 ||yomeno.xyz^
 
 
@@ -399,6 +403,12 @@ www.tns-counter.ru
 
 
 ||betgorebysson.club^
+
+
+||modlogypr.biz^
+
+
+||freychang.fun^
 
 
 ||easyads28.mobi^
@@ -712,8 +722,9 @@ streamtape.com##+js(set-constant, googleAd, true)
 streamtape.com##+js(window.open-defuser)
 toonanime.*##+js(abort-current-inline-script, document.querySelectorAll, popMagic)
 toonanime.*##+js(abort-current-inline-script, Math, break;case $.)
+toonanime.*##+js(abort-on-property-write, _pop)
 toonanime.tv##+js(abort-current-inline-script, document.querySelectorAll, popMagic)
-toonanime.tv##+js(abort-current-inline-script, document.querySelectorAll, popMagic)
+toonanime.tv##+js(abort-current-inline-script, Math, /emZnbG9hZGVk|break;case \$\./)
 toopl.xyz##+js(window.open-defuser)
 upstream.to##+js(nofab)
 upstream.to##+js(nowebrtc)
