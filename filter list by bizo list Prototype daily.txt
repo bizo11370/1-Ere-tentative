@@ -16,6 +16,7 @@ _pagespeed_beacon?
 /adblock_detector.
 /adsense/*
 /adservice.$domain=~adservice.io
+/amp-ad-
 /app/ads.
 /cdn-cgi/bm/cv/*
 /cdn-cgi/bm/cv/*$script
@@ -28,32 +29,40 @@ _pagespeed_beacon?
 /fontawesome-*$font
 /fonts/*.ttf$font,3p
 /gen_204?$ping
+/generate_204$image
 /html/body/div[2]/div[1]
 /i?stm=
 /img/banner/*$domain=~almicro.ru|~belby.by|~chitai-gorod.ru|~frosbyte.org|~fvds.ru|~gostas-klimat.ru|~imhonet.ru|~megabitschool.ru|~miralin.ru|~mts.ru|~mtsbank.ru|~stavsalut.hostcrm.ru|~themelooks.org|~vavlab.ru|~webnames.ru|~xn-----6kcvbohzccf5ajf4a7e.xn--p1ai
 /img/fb.
 /img/social-
+/img/social/*$image
 /img/tw.
+/js/analytics.
 /js/script-*.*.js$script,domain=domonosok.tk|haes.tech|hqq.to|porn-watch.ru
 /mod_pagespeed_beacon?
 /newsletter/structure/*
 /optimizely-
 /perf-vitals_
+/piwik.js
 /redirect?tid=$popup
 /rollbar.js
 /rss.gif
 /rss.png
 /rss15.
+/scroll-to-top/*
+/share-buttons/*
 /social-api.
 /social-likes_
 /social-likes.
 /social-likes.min.js$domain=~animego.org|~zastenchivosti.net|~gorod-812.ru|~sputnik.by|~sputnik-news.ee|~animalreader.ru|~ichip.ru|~keddr.com|~kino-max.com|~kino24x7.com|~make-3d.ru|~miuipro.ru|~omelchuck.ru|~podfm.ru|~serial-online.com|~sputniknews.com|~trinixy.ru|~kinogo-kinopoisk.net|~bobfilm-online.ru|~westernfilm.ru|~bobfilm.tv|~kinokrik.net|~kinogo720.net|~kinogo-net-co.ru|~kinoklad.net|~intex-press.by|~kino-max.org|~farming-simulator15.ru|~trikky.ru|~trv-science.ru|~unzensuriert.at|~lizaalert.beeline.ru|~megapolisonline.ru|~sputniknews.ru|~miuipro.info|~sputnik.kg|~1prime.ru|~mobnovelty.ru
 /social-media-icons/*
 /social/fb_
+/social/instagram.
 /social/twitter_
 /socialicons/*
 /tc_analytics.
 /video.counters.js
+/wp-content/plugins/cookie-law-info/*$domain=~wmagazine.com|~moneytoplist.com
 /wp-content/plugins/eazy-ad-unblocker/*
 /xiti.js
 /xtcore.js
@@ -73,18 +82,23 @@ i.ibb.co/kg3hHbm
 1688.com,alamogordonews.com,androidcentral.com,app.com,argusleader.com,articlebio.com,atlauncher.com,autozone.com,axios.com,azcentral.com,barrons.com,battlecreekenquirer.com,baxterbulletin.com,bedbathandbeyond.com,behance.net,bing.com,bitchute.com,bucyrustelegraphforum.com,burlingtonfreepress.com,caller.com,chillicothegazette.com,cincinnati.com,citizen-times.com,clarionledger.com,cnbc.com,coastalliving.com,coloradoan.com,commercialappeal.com,cookinglight.com,coshoctontribune.com,courier-journal.com,courierpostonline.com,courierpress.com,currentargus.com,daily-times.com,dailyrecord.com,dailyworld.com,dallasnews.com,datastreamer.io,delawareonline.com,delmarvanow.com,demingheadlight.com,democratandchronicle.com,desertsun.com,desmoinesregister.com,detroitnews.com,digicert.com,dna.land,dnj.com,doist.com,elpasotimes.com,endpts.com,eveningsun.com,ew.com,excelcampus.com,fdlreporter.com,floridatoday.com,foodandwine.com,forbes.com,forhims.com,fortune.com,forums.digitalspy.com,freep.com,gamerevolution.com,gettyimages.com,github.com,gosanangelo.com,greatfallstribune.com,greenbaypressgazette.com,greenvilleonline.com,guampdn.com,hattiesburgamerican.com,health.com,hellogiggles.com,hotdeals.com,howtogeek.com,htrnews.com,imore.com,indeed.com,independentmail.com,indystar.com,instyle.com,ipvm.com,ithacajournal.com,jacksonsun.com,jconline.com,jsonline.com,kitsapsun.com,knoxnews.com,lancastereaglegazette.com,lansingstatejournal.com,lcsun-news.com,ldnews.com,livingstondaily.com,lohud.com,mansfieldnewsjournal.com,marionstar.com,marshfieldnewsherald.com,mcall.com,metafilter.com,miamiherald.com,microsoft.com,montgomeryadvertiser.com,mycentraljersey.com,myrecipes.com,naplesnews.com,nbc-2.com,nbcbayarea.com,nbcchicago.com,nbcdfw.com,nbclosangeles.com,nbcmiami.com,nbcnewyork.com,nbcphiladelphia.com,nbcsandiego.com,nbcwashington.com,necn.com,newarkadvocate.com,news-leader.com,news-press.com,newsleader.com,nkleadershipwatch.org,northjersey.com,nydailynews.com,ont.io,orlandosentinel.com,packersnews.com,pal-item.com,pcgamesn.com,people.com,peopleenespanol.com,placesjournal.org,pnj.com,pokemongohub.net,portclintonnewsherald.com,postcrescent.com,poughkeepsiejournal.com,press-citizen.com,pressconnects.com,publicopiniononline.com,radio.com,realsimple.com,redding.com,reporternews.com,rgj.com,rollingstone.com,scsun-news.com,sctimes.com,shadersmod.net,sheboyganpress.com,shreveporttimes.com,si.com,southernliving.com,spectator.co.uk,spectator.us,sprint.com,stargazette.com,statefarm.com,statesmanjournal.com,stevenspointjournal.com,stratfor.com,surlatable.com,tallahassee.com,tanaza.com,tcpalm.com,technologyreview.com,tennessean.com,theadvertiser.com,theatlantic.com,thecalifornian.com,thedailyjournal.com,thegleaner.com,theleafchronicle.com,thenews-messenger.com,thenewsstar.com,thenorthwestern.com,thespectrum.com,thestarpress.com,the-sun.com,thescottishsun.co.uk,thesun.co.uk,thesun.ie,thetimesherald.com,thetowntalk.com,thewrap.com,time.com,timesrecordnews.com,topclassactions.com,torrentfreak.com,trains.com,travelandleisure.com,usatoday.com,vcstar.com,verywell.com,verywellfamily.com,verywellfit.com,verywellhealth.com,verywellmind.com,vev.io,vidup.io,visaliatimesdelta.com,wausaudailyherald.com,wegmans.com,who.int,wisconsinrapidstribune.com,wpri.com,ydr.com,zanesvilletimesrecorder.com,zappar.com,zara.com#$#html { overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important; }
 
 
+##.addthis_inline_share_toolbox
 ##.adsbygoogle
 ##.adsbyvli
 ##.afs_ads
+##.back-to-top
+##.cc-floating
 ##.cc-individual-cookie-settings
+##.cc-window[aria-describedby*="consent"]
+##.cc-window[aria-label*="consent"]
+##.cc-window[aria-label="cookieconsent"]
 ##.cookiesInfo:not(body):not(html)
+##.cs-entry__after-share-buttons
+##.elementor-popup-modal.dialog-widget
 ##.fa-facebook-f
 ##.fa-facebook-square
-##.fa-facebook-square
-##.fa-instagram
 ##.fa-instagram
 ##.fa-twitter
-##.fa-twitter-square
 ##.fa-twitter-square
 ##.fa-youtube-play
 ##.facebook
@@ -103,10 +117,18 @@ i.ibb.co/kg3hHbm
 ##.jw-settings-sharing
 ##.jw-submenu-sharing
 ##.jw8mI
+##.menu-social-container
+##.mobile-facebook
+##.pk-share-buttons-item
+##.pk-share-buttons-link
+##.pk-share-buttons-wrap
+##.pk-social-links-items
+##.pk-social-links-wrap
 ##.privacy-container:not(body):not(html):not(.content-container)
 ##.privacy-popup
 ##.rn_SocialBookmarkLink
 ##.scrolltop:not(body):not(html)
+##.share-block
 ##.share-facebook
 ##.share-gplus
 ##.share-rss
@@ -122,6 +144,7 @@ i.ibb.co/kg3hHbm
 ##.social-likes
 ##.social-link
 ##.social-share
+##.social-share-link
 ##.socialbuttons
 ##.text_ads_2
 ##.twitter
@@ -139,6 +162,7 @@ i.ibb.co/kg3hHbm
 ##[id^="adswidget2-quick-adsense"]
 ##[id^="adswidget3-quick-adsense"]
 ##[id^="div-gpt-ad"]
+##a[aria-label="RSS"]
 ##a[href*=".pub2srv.com/"]
 ##a[href*="/afu.php?"]
 ##a[href*="facebook.com/sharer/sharer.php?"]
@@ -154,10 +178,16 @@ i.ibb.co/kg3hHbm
 ##a[href^="https://twitter.com/intent/tweet?"]
 ##a[href^="https://twitter.com/share?"]
 ##a[href^="https://twitter.com/share"]
+##a[href^="https://www.facebook.com/sharer.php?"]
+##a[href^="https://www.facebook.com/sharer.php"]
+##a[href^="https://www.facebook.com/sharer/sharer.php"]
+##a[href^="https://www.linkedin.com/shareArticle?"]
+##a[href^="https://www.linkedin.com/shareArticle"]
 ##a[href="https://twitter.com/share"]
 ##a[title="RSS"]
 ##a[title="Suivez-nous sur Facebook"]
 ##a[title="Suivez-nous sur Twitter"]
+##AMP-AD
 ##body .twitter-share-button
 ##body #cookie-policy
 ##div[button="share"]
@@ -173,9 +203,15 @@ i.ibb.co/kg3hHbm
 ###ads2
 ###ads3
 ###ads4
+###cliSettingsPopup
+###cookie_hdr_showagain
+###cookie-law-info-again
+###cookie-law-info-bar
+###cookie-law-info-bar ~ .cli-modal-backdrop
 ###cookie-policy
 ###fb-root:not(body):not(html)
 ###gotop
+###menu-social
 ###ot-sdk-btn
 ###privacy-alert
 ###share-button
@@ -195,6 +231,7 @@ sb.scorecardresearch.com
 www.tns-counter.ru
 
 
+||addthis.com^$3p,important,domain=~amd.com|~missingkids.com|~missingkids.org|~sainsburys.jobs|~schonmagazine.com|~sitecore.com
 ||api.github.com/_private/browser/stats$important
 ||cdn.segment.com^$important
 ||consent.trustarc.com^$important
@@ -234,6 +271,7 @@ www.tns-counter.ru
 ||advarkads.com^$3p
 ||affilae.com^$3p
 ||apis.google.com/js/platform.js$3p
+||consentframework.com^$3p
 ||chatango.com^$3p
 ||cloudflareinsights.com^$3p
 ||etp-prod.com^$3p
@@ -250,6 +288,9 @@ www.tns-counter.ru
 
 
 ||vdo.ai^$3p
+
+
+||clarity.ms^$3p
 
 
 ||datadome.co^$3p
@@ -295,6 +336,7 @@ www.tns-counter.ru
 ||cdn.adtrue.com^
 ||cdnjs.cloudflare.com^
 ||ced.sascdn.com^
+||choices.consentframework.com^
 ||collector.githubapp.com^
 ||consent.cmp.oath.com^
 ||cowardlymissinggranulated.com^
@@ -302,6 +344,7 @@ www.tns-counter.ru
 ||dogconcurrencesauce.com^
 ||eec.crunchyroll.com^
 ||estat.com^
+||eultech.fnac.com^
 ||exdynsrv.com^
 ||faglollstwo.com^
 ||gamesathletes.com^
@@ -350,6 +393,7 @@ www.tns-counter.ru
 ||widgets.outbrain.com^
 ||wkcuhilbg.com^
 ||www.hugedomains.com^
+||www.smartadserver.com^
 ||xpbbyiqbcawamy.com^
 ||ytimm.com^
 
@@ -462,6 +506,7 @@ www.tns-counter.ru
 
 
 ||*$script,redirect-rule=empty,domain=streamzz.*|streamz.vg
+||addthis.com/*/addthis_widget.js$script,redirect-rule=addthis.com/addthis_widget.js
 ||d2klx87bgzngce.cloudfront.net^$script,redirect-rule=noopjs
 ||google-analytics.com/analytics.js$script,redirect-rule=google-analytics.com/analytics.js
 ||google-analytics.com/ga.js$script,redirect-rule=google-analytics.com/ga.js
@@ -557,6 +602,7 @@ www.silicon.fr##.pop-in-workplace.pop-in.event-popin
 www.wakanim.tv##.css-1bch5xm.qc-cmp-cleanslate
 www.wakanim.tv##.nav-main_social
 www.wakanim.tv##div.footer-main_item:nth-of-type(6)
+youtube-nocookie.com,youtube.com##.ytp-pause-overlay, .show-video-thumbnail-button, #rvid
 youtube.com##.share-panel-services, .ytp-button.ytp-share-button
 youtube.com##.ytp-ad-progress-list
 youtube.com##.ytp-cards-teaser
@@ -585,6 +631,9 @@ sibnet.ru###vjs-overlayclip-container-box
 video.sibnet.ru###vjs-overlayclip-box
 video.sibnet.ru###vjs-overlayclip-container-box
 vostfree.com###ads
+wizcase.com###bio_ep
+wizcase.com###bio_ep_bg
+wondershare.*###gdprAgree
 www.bing.com###bnp\.nid\.63245
 www.bing.com###bnp\.nid\.63246
 www.crunchyroll.com###marketing_banner
