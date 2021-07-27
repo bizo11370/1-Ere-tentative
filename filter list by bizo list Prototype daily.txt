@@ -23,6 +23,7 @@ _pagespeed_beacon?
 /cdn-cgi/rum?
 /ckies.js
 /client_204?$image
+/cookie-consent-
 /cookiecontrol.js
 /cookiejs/*
 /favicon.ico$image,3p,domain=~streameast.live|~apple.com|~douban.com|~bahn.de|~winfuture.de|~bt.com|~ebay.com.au|~ebay.com|~ebay.co.uk|~go.com|~github.com|~microsoft.com|~stackexchange.com|~stackoverflow.com|~askubuntu.com|~reddit.com|~4chan.org|~twitter.com|~live.com|~espn.com|~yahoo.com
@@ -77,6 +78,7 @@ i.ibb.co/kg3hHbm
 *$script,3p,domain=digitaltendances.com
 *$script,3p,domain=uqload.com
 *$xmlhttprequest,domain=uqload.com
+*$script,3p,denyallow=cloudflare.com|cloudfront.net|sharethis.com|sharethis.net,domain=toonanime.*
 
 
 1688.com,alamogordonews.com,androidcentral.com,app.com,argusleader.com,articlebio.com,atlauncher.com,autozone.com,axios.com,azcentral.com,barrons.com,battlecreekenquirer.com,baxterbulletin.com,bedbathandbeyond.com,behance.net,bing.com,bitchute.com,bucyrustelegraphforum.com,burlingtonfreepress.com,caller.com,chillicothegazette.com,cincinnati.com,citizen-times.com,clarionledger.com,cnbc.com,coastalliving.com,coloradoan.com,commercialappeal.com,cookinglight.com,coshoctontribune.com,courier-journal.com,courierpostonline.com,courierpress.com,currentargus.com,daily-times.com,dailyrecord.com,dailyworld.com,dallasnews.com,datastreamer.io,delawareonline.com,delmarvanow.com,demingheadlight.com,democratandchronicle.com,desertsun.com,desmoinesregister.com,detroitnews.com,digicert.com,dna.land,dnj.com,doist.com,elpasotimes.com,endpts.com,eveningsun.com,ew.com,excelcampus.com,fdlreporter.com,floridatoday.com,foodandwine.com,forbes.com,forhims.com,fortune.com,forums.digitalspy.com,freep.com,gamerevolution.com,gettyimages.com,github.com,gosanangelo.com,greatfallstribune.com,greenbaypressgazette.com,greenvilleonline.com,guampdn.com,hattiesburgamerican.com,health.com,hellogiggles.com,hotdeals.com,howtogeek.com,htrnews.com,imore.com,indeed.com,independentmail.com,indystar.com,instyle.com,ipvm.com,ithacajournal.com,jacksonsun.com,jconline.com,jsonline.com,kitsapsun.com,knoxnews.com,lancastereaglegazette.com,lansingstatejournal.com,lcsun-news.com,ldnews.com,livingstondaily.com,lohud.com,mansfieldnewsjournal.com,marionstar.com,marshfieldnewsherald.com,mcall.com,metafilter.com,miamiherald.com,microsoft.com,montgomeryadvertiser.com,mycentraljersey.com,myrecipes.com,naplesnews.com,nbc-2.com,nbcbayarea.com,nbcchicago.com,nbcdfw.com,nbclosangeles.com,nbcmiami.com,nbcnewyork.com,nbcphiladelphia.com,nbcsandiego.com,nbcwashington.com,necn.com,newarkadvocate.com,news-leader.com,news-press.com,newsleader.com,nkleadershipwatch.org,northjersey.com,nydailynews.com,ont.io,orlandosentinel.com,packersnews.com,pal-item.com,pcgamesn.com,people.com,peopleenespanol.com,placesjournal.org,pnj.com,pokemongohub.net,portclintonnewsherald.com,postcrescent.com,poughkeepsiejournal.com,press-citizen.com,pressconnects.com,publicopiniononline.com,radio.com,realsimple.com,redding.com,reporternews.com,rgj.com,rollingstone.com,scsun-news.com,sctimes.com,shadersmod.net,sheboyganpress.com,shreveporttimes.com,si.com,southernliving.com,spectator.co.uk,spectator.us,sprint.com,stargazette.com,statefarm.com,statesmanjournal.com,stevenspointjournal.com,stratfor.com,surlatable.com,tallahassee.com,tanaza.com,tcpalm.com,technologyreview.com,tennessean.com,theadvertiser.com,theatlantic.com,thecalifornian.com,thedailyjournal.com,thegleaner.com,theleafchronicle.com,thenews-messenger.com,thenewsstar.com,thenorthwestern.com,thespectrum.com,thestarpress.com,the-sun.com,thescottishsun.co.uk,thesun.co.uk,thesun.ie,thetimesherald.com,thetowntalk.com,thewrap.com,time.com,timesrecordnews.com,topclassactions.com,torrentfreak.com,trains.com,travelandleisure.com,usatoday.com,vcstar.com,verywell.com,verywellfamily.com,verywellfit.com,verywellhealth.com,verywellmind.com,vev.io,vidup.io,visaliatimesdelta.com,wausaudailyherald.com,wegmans.com,who.int,wisconsinrapidstribune.com,wpri.com,ydr.com,zanesvilletimesrecorder.com,zappar.com,zara.com#$#html { overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important; }
@@ -127,12 +129,16 @@ i.ibb.co/kg3hHbm
 ##.privacy-container:not(body):not(html):not(.content-container)
 ##.privacy-popup
 ##.rn_SocialBookmarkLink
+##.scrolltop
 ##.scrolltop:not(body):not(html)
 ##.share-block
 ##.share-facebook
 ##.share-gplus
+##.share-links
 ##.share-rss
+##.share-title
 ##.share-twitter
+##.share-wrapper
 ##.shares
 ##.sharethis-inline-share-buttons
 ##.social
@@ -143,6 +149,9 @@ i.ibb.co/kg3hHbm
 ##.social-icons
 ##.social-likes
 ##.social-link
+##.social-media
+##.social-media-container
+##.social-media:not(html):not(body)
 ##.social-share
 ##.social-share-link
 ##.socialbuttons
@@ -158,6 +167,10 @@ i.ibb.co/kg3hHbm
 ##.ytp-share-button
 ##[aria-label="cookieconsent"]
 ##[href*="/afu.php"]
+##[href*="facebook.com/sharer.php?"]
+##[href*="reddit.com/submit?url="]
+##[href*="twitter.com/intent/tweet"]
+##[href*="twitter.com/share"]
 ##[id*="ScriptRoot"]
 ##[id^="adswidget2-quick-adsense"]
 ##[id^="adswidget3-quick-adsense"]
@@ -173,6 +186,7 @@ i.ibb.co/kg3hHbm
 ##a[href^="http://www.facebook.com/sharer.php?"]
 ##a[href^="http://www.facebook.com/sharer.php"]
 ##a[href^="http://www.odnoklassniki.ru/dk?st.cmd=addShare"]
+##a[href^="http://www.reddit.com/submit"]
 ##a[href^="https://plus.google.com/share?"]
 ##a[href^="https://plus.google.com/share"]
 ##a[href^="https://twitter.com/intent/tweet?"]
@@ -209,6 +223,7 @@ i.ibb.co/kg3hHbm
 ###cookie-law-info-bar
 ###cookie-law-info-bar ~ .cli-modal-backdrop
 ###cookie-policy
+###facebook-like
 ###fb-root:not(body):not(html)
 ###gotop
 ###menu-social
@@ -283,6 +298,7 @@ www.tns-counter.ru
 ||services.vlitag.com^$3p
 ||smartlook.com^$3p
 ||static.hotjar.com^$3p
+||tracker.idocdn.com^$3p
 ||vdo.ai^$3p
 ||widget.trustpilot.com^$3p
 
@@ -306,6 +322,7 @@ www.tns-counter.ru
 ||cloudfront.net^$font,3p
 ||fwmrm.net^$3p
 ||static.criteo.net^3p
+||thorsado.net^$3p
 ||typekit.net^$3p
 
 
@@ -482,6 +499,7 @@ www.tns-counter.ru
 ||dn-staticdown.qbox.me^$script,domain=geo.captcha-delivery.com
 ||i.ibb.co/kg3hHbm/otakufr-discord.jpg
 ||ianimes.org/img/tracker.gif
+||iamcdn.net/players/playhydraxs.min.js
 ||img1.ak.crunchyroll.com/i/spire1/77e97950c1920711c6a3e0e69a3c38221624307959_main.png$image
 ||img1.ak.crunchyroll.com/i/spire2/05ed6158ab0bf2442c692c2325f954571555017990_main.png$image
 ||img1.ak.crunchyroll.com/i/spire3/7b6a2f23ff22d2f7ed1b603a105db55c1623107784_main.jpg$image
@@ -559,6 +577,10 @@ otakufr.co##div.block > .text-center
 otakufr.co##div.block:nth-of-type(2)
 otakufr.co##div.block:nth-of-type(2) > .text-center
 s.yimg.com##div
+toonanime.tv##center > p
+toonanime.tv##div.content__sidebar-section > center
+toonanime.tv##div.content__sidebar-section p
+toonanime.tv##div.content__sidebar-section:nth-of-type(1) > center
 toonanime.tv##iframe:nth-of-type(3)
 v5.anime-ultime.net##.playBigBtn
 video.sibnet.ru,tamasha.com##.vjs-share-button
@@ -627,6 +649,7 @@ google.fr###tadsb
 google.fr###tadsb[aria-label]
 google.fr###taw > div > [data-ved]
 gounlimited.to###adbd
+redirect-ads.com###playback-fake
 sibnet.ru###vjs-overlayclip-container-box
 video.sibnet.ru###vjs-overlayclip-box
 video.sibnet.ru###vjs-overlayclip-container-box
@@ -804,6 +827,7 @@ foxsports.com.au,americanphotomag.com,baggersmag.com,boatingmag.com,cbssports.co
 @@||cdn.cookielaw.org^$domain=crunchyroll.com
 @@||cdn.cookielaw.org^$script,domain=www.crunchyroll.com
 @@||cdn.cookielaw.org^$xhr,domain=www.crunchyroll.com
+@@||cdn*.tooncdn.xyz^$xhr,domain=toonanime.xyz
 @@||cdnjs.cloudflare.com^$script,domain=parisanime.com
 @@||cdnjs.cloudflare.com^$script,domain=www.easylounge.com
 @@||cdnjs.cloudflare.com^$script,domain=www.wakanim.tv
@@ -815,8 +839,10 @@ foxsports.com.au,americanphotomag.com,baggersmag.com,boatingmag.com,cbssports.co
 @@||gstatic.com/recaptcha/$script
 @@||otakufr.co/wp-content/*$font,1p
 @@||streamtape.com/ad.js
+@@||toonanime.tv/engine/editor/jscripts/froala/fonts/fontawesome-webfont.woff2?v=4.5.0$domain=toonanime.tv
 @@||video.sibnet.ru/fonts/*$font
 @@||vostfree.tv/templates/Animix/fonts/*$font
 @@||wakanim.tv/fr/v2/*$domain=wakanim.tv
 @@||www.google.*/search?$generichide
 @@||www.wakanim.tv/*/advertisement$xhr
+
