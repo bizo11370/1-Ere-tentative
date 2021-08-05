@@ -830,12 +830,16 @@ foxsports.com.au,americanphotomag.com,baggersmag.com,boatingmag.com,cbssports.co
 @@||cdnjs.cloudflare.com^$script,domain=www.wakanim.tv
 @@||cdnjs.cloudflare.com^$stylesheet,domain=parisanime.com
 @@||cdnjs.cloudflare.com^$stylesheet,domain=www.msi.com
+@@||crunchyroll.com/versioned_assets/*$domain=crunchyroll.com
+@@||eum-eu-west-1.instana.io^$domain=accounts.conrad.com
+@@||eum.instana.io^$domain=accounts.conrad.com
 @@||google.com/recaptcha/$script
 @@||google.com/recaptcha/$subdocument,csp
 @@||gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js$script
 @@||gstatic.com/cv/js/sender/v1/cast_sender.js$script
 @@||gstatic.com/recaptcha/$script
 @@||otakufr.co/wp-content/*$font,1p
+@@||stackpath.bootstrapcdn.com^$domain=accounts.conrad.com
 @@||streamtape.com/ad.js
 @@||toonanime.tv/engine/editor/jscripts/froala/fonts/fontawesome-webfont.woff2?v=4.5.0$domain=toonanime.tv
 @@||video.sibnet.ru/fonts/*$font
@@ -844,3 +848,7 @@ foxsports.com.au,americanphotomag.com,baggersmag.com,boatingmag.com,cbssports.co
 @@||www.google.*/search?$generichide
 @@||www.wakanim.tv/*/advertisement$xhr
 
+
+pluto.tv#@#+js(set-constant, Document.prototype.interestCohort, 'undefined)
+accounts.conrad.com#@#+js(set-constant, Document.prototype.interestCohort, 'undefined)
+accounts.conrad.com#@#.grecaptcha-badge
