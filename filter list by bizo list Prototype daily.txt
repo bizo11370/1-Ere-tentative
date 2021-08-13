@@ -345,6 +345,8 @@ www.tns-counter.ru
 ||ausoafab.net^$popup
 
 
+||9a67bd5b1f091.com^
+||27ceb2d5631623.com^
 ||abtasty.com^
 ||ads.stickyadstv.com^
 ||advarkads.com^
@@ -354,8 +356,10 @@ www.tns-counter.ru
 ||bebi.com^
 ||betteradsystem.com^
 ||bypathaivr.com^
+||c2280b9a3b4c.com^
 ||cdn.adtrue.com^
 ||cdn.cquotient.com^
+||cdn.taboola.com^
 ||cdnjs.cloudflare.com^
 ||ced.sascdn.com^
 ||choices.consentframework.com^
@@ -369,6 +373,7 @@ www.tns-counter.ru
 ||eultech.fnac.com^
 ||exdynsrv.com^
 ||faglollstwo.com^
+||fd555b2faf5a40c.com^
 ||gamesathletes.com^
 ||google-analytics.com^
 ||greatdexchange.com^
@@ -564,8 +569,6 @@ google.*##.uEierd
 google.*##a[href*="/aclk?"][data-al]:upward(2)
 google.fr##[data-text-ad]
 nautiljon.com##.gad
-otakufr.co##.text-center > [href]
-otakufr.co##.text-center > [href] > .wp-dark-mode-ignore.img-fluid
 otakufr.co##[href="https://discord.gg/nqdVUr7"]
 otakufr.co##[href="https://discord.gg/nqdVUr7"] > .wp-dark-mode-ignore.img-fluid
 otakufr.co##div.block > .text-center
