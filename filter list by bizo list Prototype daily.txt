@@ -5,6 +5,7 @@ _ad_choices_
 _pagespeed_beacon?
 -share-buttons3/
 ://counter.
+.com/1clkn/
 .histats.*.js
 .tns-counter.ru/v13a
 /:\/\/www\.([a-z]{6,16})\.com\/([a-z]{1,4})\.js$/$script,3p
@@ -21,6 +22,7 @@ _pagespeed_beacon?
 /amp-ad-
 /app/ads.
 /back-to-top.
+/banner2.gif
 /cdn-cgi/bm/cv/*
 /cdn-cgi/bm/cv/*$script
 /cdn-cgi/rum?
@@ -35,6 +37,7 @@ _pagespeed_beacon?
 /fontawesome-*$font
 /fonts/*.ttf$font,3p
 /gdpr-cookie-
+/gen_204?$image
 /gen_204?$ping
 /generate_204$image
 /html/body/div[2]/div[1]
@@ -49,6 +52,7 @@ _pagespeed_beacon?
 /img/tw.
 /js/analytics.
 /js/script-*.*.js$script,domain=domonosok.tk|haes.tech|hqq.to|porn-watch.ru
+/matomo.js$domain=~github.com
 /mod_pagespeed_beacon?
 /newsletter/structure/*
 /optimizely-
@@ -62,6 +66,7 @@ _pagespeed_beacon?
 /rss15.
 /scroll-to-top/*
 /share-buttons/*
+/smarttag.js
 /social-api.
 /social-likes_
 /social-likes.
@@ -112,6 +117,9 @@ i.ibb.co/kg3hHbm
 ##.cc-window[aria-describedby*="consent"]
 ##.cc-window[aria-label*="consent"]
 ##.cc-window[aria-label="cookieconsent"]
+##.cookie-bar
+##.cookie-bar:not(body)
+##.cookie-bar:not(body):not(html)
 ##.cookie-slider
 ##.cookie-warning
 ##.cookie-warning:not(body):not(html):not(#Web):not(#Container)
@@ -128,17 +136,24 @@ i.ibb.co/kg3hHbm
 ##.fa-facebook-f
 ##.fa-facebook-square
 ##.fa-instagram
+##.fa-linkedin
+##.fa-pinterest
+##.fa-reddit
+##.fa-tumblr
 ##.fa-twitter
 ##.fa-twitter-square
 ##.fa-youtube-play
 ##.facebook
+##.facebook-share-btn
 ##.fb-like
 ##.fb-like-button
 ##.fb-page
 ##.fb-share-button
 ##.fb-xfbml-parse-ignore
 ##.Fgvgjc
+##.footer__back-to-top-button
 ##.footer__links__social
+##.footer__subscribe
 ##.footer-social
 ##.footer-socials-section
 ##.g-plusone
@@ -148,61 +163,46 @@ i.ibb.co/kg3hHbm
 ##.g1-socials-item-facebook
 ##.g1-socials-item-twitter
 ##.g1-teaser
+##.go-to-top-button
 ##.header-social
-##.inner-header-social
-##.main-nav-social
-##.moove-gdpr-dark-scheme
-##.penci-go-to-top-floating
-##.pinterest
-##.privacy-container
-##.pum[data-popmake*="cookies"]
-##.share-icons
-##.share-text
-##.wc_social_plugin_wrapper
-##.wpd-sbs-title
-##.wpdiscuz-subscribe-bar
-##[href*="facebook.com/sharer/sharer.php?"]
-##[href*="linkedin.com/shareArticle"]
-##[href*="pinterest.com/pin/create/button/"]
-##[title^="Share on Facebook"]
-##[title^="Share on LinkedIn"]
-##[title^="Share on Twitter"]
-##a[href^="https://connect.ok.ru/offer?url="]
-##a[href^="https://pinterest.com/pin/create/"]
-##a[href^="https://vk.com/share.php?"]
-##a[href^="https://vk.com/share.php"]
-##a[onclick*="//www.facebook.com/"][onclick*="sharer.php"]
-##a[title^="Share on Pinterest"]
-##a[title="Back to top"]
-##a[title="Share on Facebook"]
-##a[title="Share on LinkedIn"]
-##a[title="Share on Pinterest"]
-##a[title="Share on Twitter"]
 ##.HTjtHe
 ##.icon-facebook
 ##.icon-gplus
 ##.icon-rss
 ##.icon-twitter
+##.inner-header-social
 ##.jw-settings-sharing
 ##.jw-submenu-sharing
 ##.jw8mI
+##.large-share-button
+##.main-nav-social
 ##.menu-social-container
 ##.mobile-facebook
+##.mobile-share-buttons-spacer
+##.moove-gdpr-dark-scheme
+##.penci-go-to-top-floating
+##.pinterest
+##.pinterest-share-btn
 ##.pk-share-buttons-item
 ##.pk-share-buttons-link
 ##.pk-share-buttons-wrap
 ##.pk-social-links-items
 ##.pk-social-links-wrap
+##.privacy-container
 ##.privacy-container:not(body):not(html):not(.content-container)
 ##.privacy-popup
+##.pum[data-popmake*="cookies"]
+##.reddit-share-btn
 ##.rn_SocialBookmarkLink
 ##.scrolltop
 ##.scrolltop:not(body):not(html)
 ##.share-block
 ##.share-facebook
 ##.share-gplus
+##.share-icons
 ##.share-links
 ##.share-rss
+##.share-text
 ##.share-title
 ##.share-twitter
 ##.share-wrapper
@@ -214,6 +214,7 @@ i.ibb.co/kg3hHbm
 ##.social-icon-facebook
 ##.social-icon-twitter
 ##.social-icons
+##.social-icons-widget
 ##.social-likes
 ##.social-link
 ##.social-media
@@ -222,19 +223,28 @@ i.ibb.co/kg3hHbm
 ##.social-share
 ##.social-share-link
 ##.socialbuttons
+##.solid-social-icons
 ##.text_ads_2
 ##.twitter
 ##.twitter-follow-button
+##.twitter-share-btn
 ##.twitter-share-button
 ##.video_ad
 ##.vkontakte
+##.wc_social_plugin_wrapper
+##.whatsapp-share-btn
 ##.widget_adswidget2-quick-adsense
 ##.widget_adswidget3-quick-adsense
 ##.widget_adswidget4-quick-adsense
+##.wpd-sbs-title
+##.wpdiscuz-subscribe-bar
 ##.ytp-share-button
 ##[aria-label="cookieconsent"]
 ##[href*="/afu.php"]
 ##[href*="facebook.com/sharer.php?"]
+##[href*="facebook.com/sharer/sharer.php?"]
+##[href*="linkedin.com/shareArticle"]
+##[href*="pinterest.com/pin/create/button/"]
 ##[href*="reddit.com/submit?url="]
 ##[href*="twitter.com/intent/tweet"]
 ##[href*="twitter.com/share"]
@@ -242,6 +252,9 @@ i.ibb.co/kg3hHbm
 ##[id^="adswidget2-quick-adsense"]
 ##[id^="adswidget3-quick-adsense"]
 ##[id^="div-gpt-ad"]
+##[title^="Share on Facebook"]
+##[title^="Share on LinkedIn"]
+##[title^="Share on Twitter"]
 ##a[aria-label="RSS"]
 ##a[href*=".pub2srv.com/"]
 ##a[href*="/afu.php?"]
@@ -254,18 +267,33 @@ i.ibb.co/kg3hHbm
 ##a[href^="http://www.facebook.com/sharer.php"]
 ##a[href^="http://www.odnoklassniki.ru/dk?st.cmd=addShare"]
 ##a[href^="http://www.reddit.com/submit"]
+##a[href^="https://connect.ok.ru/offer?url="]
+##a[href^="https://pinterest.com/pin/create/"]
 ##a[href^="https://plus.google.com/share?"]
 ##a[href^="https://plus.google.com/share"]
+##a[href^="https://reddit.com/submit?"]
+##a[href^="https://telegram.me/share/url?"]
 ##a[href^="https://twitter.com/intent/tweet?"]
 ##a[href^="https://twitter.com/share?"]
 ##a[href^="https://twitter.com/share"]
+##a[href^="https://vk.com/share.php?"]
+##a[href^="https://vk.com/share.php"]
 ##a[href^="https://www.facebook.com/sharer.php?"]
 ##a[href^="https://www.facebook.com/sharer.php"]
 ##a[href^="https://www.facebook.com/sharer/sharer.php"]
 ##a[href^="https://www.linkedin.com/shareArticle?"]
 ##a[href^="https://www.linkedin.com/shareArticle"]
+##a[href^="https://www.tumblr.com/share"]
+##a[href^="https://www.tumblr.com/share/"]
 ##a[href="https://twitter.com/share"]
+##a[onclick*="//www.facebook.com/"][onclick*="sharer.php"]
+##a[title^="Share on Pinterest"]
+##a[title="Back to top"]
 ##a[title="RSS"]
+##a[title="Share on Facebook"]
+##a[title="Share on LinkedIn"]
+##a[title="Share on Pinterest"]
+##a[title="Share on Twitter"]
 ##a[title="Suivez-nous sur Facebook"]
 ##a[title="Suivez-nous sur Twitter"]
 ##AMP-AD
@@ -285,6 +313,7 @@ i.ibb.co/kg3hHbm
 ###ads3
 ###ads4
 ###back-top
+###check-also-box
 ###cliSettingsPopup
 ###cookie_hdr_showagain
 ###cookie-law-info-again
@@ -293,10 +322,12 @@ i.ibb.co/kg3hHbm
 ###cookie-policy
 ###facebook-like
 ###fb-root:not(body):not(html)
+###go-to-top
 ###gotop
 ###menu-social
 ###moove_gdpr_cookie_info_bar
 ###moove_gdpr_cookie_modal
+###newsletter-subscription:not(html):not(body)
 ###ot-sdk-btn
 ###privacy-alert
 ###share-button
@@ -357,6 +388,7 @@ www.tns-counter.ru
 ||advarkads.com^$3p
 ||affilae.com^$3p
 ||apis.google.com/js/platform.js$3p
+||batch.com^$3p
 ||chatango.com^$3p
 ||cloudflareinsights.com^$3p
 ||consentframework.com^$3p
@@ -371,8 +403,10 @@ www.tns-counter.ru
 ||smartlook.com^$3p
 ||static.hotjar.com^$3p
 ||tracker.idocdn.com^$3p
-||vdo.ai^$3p
 ||widget.trustpilot.com^$3p
+
+
+||ownpage.fr^$3p
 
 
 ||vdo.ai^$3p
@@ -424,6 +458,7 @@ www.tns-counter.ru
 ||abtasty.com^
 ||ads.stickyadstv.com^
 ||advarkads.com^
+||amazon-adsystem.com^
 ||analyticacdn.com^
 ||answeredfluency.com^
 ||asccdn.com^
@@ -439,6 +474,7 @@ www.tns-counter.ru
 ||choices.consentframework.com^
 ||cloudflareinsights.com^
 ||collector.githubapp.com^
+||colonistnobilityheroic.com^
 ||consent.cmp.oath.com^
 ||cowardlymissinggranulated.com^
 ||cpmstar.com^
@@ -453,6 +489,7 @@ www.tns-counter.ru
 ||google-analytics.com^
 ||greatdexchange.com^
 ||imasdk.googleapis.com^
+||img.en25.com^
 ||in-page-push.com^
 ||intelligenceadx.com^
 ||ipmbnqqaon.com^
@@ -531,6 +568,7 @@ www.tns-counter.ru
 ||go-mpulse.net^
 ||monetate.net^
 ||tag.aticdn.net^
+||thorsado.net^
 ||whowhipi.net^
 
 
@@ -546,9 +584,11 @@ www.tns-counter.ru
 
 
 ||d1ev866ubw90c6.cloudfront.net^
+||d1f05vr3sjsuy7.cloudfront.net^
 ||d2kk0o3fr7ed01.cloudfront.net^
 ||d2klx87bgzngce.cloudfront.net^
 ||d3ithbwcmjcxl7.cloudfront.net^
+||d3ou4areduq72f.cloudfront.net^
 ||d18t35yyry2k49.cloudfront.net^
 ||dmmzkfd82wayn.cloudfront.net^
 
@@ -589,6 +629,7 @@ www.tns-counter.ru
 ||upstream.to/js/kaltura.js
 ||video.sibnet.ru/my/settings/*
 ||www.crunchyroll.com/favicons/site.webmanifest$other,domain=www.crunchyroll.com
+||www.google.*/velog/
 ||www.ki-oon.com/medias/fond/image-1624372343.jpg$image
 ||www.nautiljon.com/pub/bg.php$image
 ||www.wakanim.tv/manifest.json$other,domain=www.wakanim.tv
@@ -597,19 +638,6 @@ www.tns-counter.ru
 ||yimg.com/cx/vzm/cs.js
 ||youtube.com/*_204
 ||youtube.com/api/stats/qoe?
-
-
-||*$script,redirect-rule=empty,domain=streamzz.*|streamz.vg
-||addthis.com/*/addthis_widget.js$script,redirect-rule=addthis.com/addthis_widget.js
-||d2klx87bgzngce.cloudfront.net^$script,redirect-rule=noopjs
-||google-analytics.com/analytics.js$script,redirect-rule=google-analytics.com/analytics.js
-||google-analytics.com/ga.js$script,redirect-rule=google-analytics.com/ga.js
-||googleads.g.doubleclick.net/$xmlhttprequest,redirect-rule=nooptext
-||googletagmanager.com/gtm.js$script,redirect-rule=googletagmanager.com/gtm.js
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js
-||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect-rule=googletagservices_gpt.js
-||tags.tiqcdn.com/utag/*/prod/utag.js$script,redirect-rule=noopjs
-||wakanim.tv/*/advertisement?idepisode=$xmlhttprequest,important,redirect-rule=noop-vmap1.0.xml
 
 
 ||www.youtube.com^$subdocument,csp=worker-src 'none'
@@ -729,7 +757,13 @@ www.grosbill.com###_ctl0_pop_up_cnil > div
 www.jeuxvideo.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
 www.lcd-compare.com##.in.fade.modal-backdrop
 www.lcd-compare.com###myModal
+www.nautiljon.com##.follow
+www.nautiljon.com##.font-fb
+www.nautiljon.com##.font-tw
+www.nautiljon.com##.nj
+www.nautiljon.com##[href="https://www.nautiljon.com/actualite/rss.php"] > .font-rss
 www.nautiljon.com###cgVideoPlayer
+www.nautiljon.com###community
 www.nautiljon.com###community
 www.nvidia.fr##[src="/content/DriverDownload-March2009/includes/fr/images/220x76_facebook.jpg"]
 www.rueducommerce.fr##.is-open.micromodal-slide.modal
@@ -914,6 +948,7 @@ foxsports.com.au,americanphotomag.com,baggersmag.com,boatingmag.com,cbssports.co
 @@||cdnjs.cloudflare.com^$script,domain=www.wakanim.tv
 @@||cdnjs.cloudflare.com^$stylesheet,domain=parisanime.com
 @@||cdnjs.cloudflare.com^$stylesheet,domain=www.msi.com
+@@||cdnjs.cloudflare.com/ajax/*$script,domain=www.canon.fr
 @@||crunchyroll.com/versioned_assets/*$domain=crunchyroll.com
 @@||eum-eu-west-1.instana.io^$domain=accounts.conrad.com
 @@||eum.instana.io^$domain=accounts.conrad.com
