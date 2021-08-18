@@ -640,6 +640,19 @@ www.tns-counter.ru
 ||youtube.com/api/stats/qoe?
 
 
+||*$script,redirect-rule=empty,domain=streamzz.*|streamz.vg
+||addthis.com/*/addthis_widget.js$script,redirect-rule=addthis.com/addthis_widget.js
+||d2klx87bgzngce.cloudfront.net^$script,redirect-rule=noopjs
+||google-analytics.com/analytics.js$script,redirect-rule=google-analytics.com/analytics.js
+||google-analytics.com/ga.js$script,redirect-rule=google-analytics.com/ga.js
+||googleads.g.doubleclick.net/$xmlhttprequest,redirect-rule=nooptext
+||googletagmanager.com/gtm.js$script,redirect-rule=googletagmanager.com/gtm.js
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js
+||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect-rule=googletagservices_gpt.js
+||tags.tiqcdn.com/utag/*/prod/utag.js$script,redirect-rule=noopjs
+||wakanim.tv/*/advertisement?idepisode=$xmlhttprequest,important,redirect-rule=noop-vmap1.0.xml
+
+
 ||www.youtube.com^$subdocument,csp=worker-src 'none'
 
 
