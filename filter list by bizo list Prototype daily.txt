@@ -33,6 +33,7 @@ _pagespeed_beacon?
 /cookiejs/*
 /dwanalytics-
 /easy-social-share-$script
+/ezcl.webp?
 /favicon.ico$image,3p,domain=~streameast.live|~apple.com|~douban.com|~bahn.de|~winfuture.de|~bt.com|~ebay.com.au|~ebay.com|~ebay.co.uk|~go.com|~github.com|~microsoft.com|~stackexchange.com|~stackoverflow.com|~askubuntu.com|~reddit.com|~4chan.org|~twitter.com|~live.com|~espn.com|~yahoo.com
 /fontawesome-*$font
 /fonts/*.ttf$font,3p
@@ -40,6 +41,7 @@ _pagespeed_beacon?
 /gen_204?$image
 /gen_204?$ping
 /generate_204$image
+/greenoaks.gif?
 /html/body/div[2]/div[1]
 /i?stm=
 /icon-facebook-
@@ -54,6 +56,8 @@ _pagespeed_beacon?
 /js/script-*.*.js$script,domain=domonosok.tk|haes.tech|hqq.to|porn-watch.ru
 /matomo.js$domain=~github.com
 /mod_pagespeed_beacon?
+/newsletter-icon-
+/newsletter-icon.
 /newsletter/structure/*
 /optimizely-
 /perf-vitals_
@@ -68,6 +72,7 @@ _pagespeed_beacon?
 /share-buttons/*
 /smarttag.js
 /social-api.
+/social-buttons.
 /social-likes_
 /social-likes.
 /social-likes.min.js$domain=~animego.org|~zastenchivosti.net|~gorod-812.ru|~sputnik.by|~sputnik-news.ee|~animalreader.ru|~ichip.ru|~keddr.com|~kino-max.com|~kino24x7.com|~make-3d.ru|~miuipro.ru|~omelchuck.ru|~podfm.ru|~serial-online.com|~sputniknews.com|~trinixy.ru|~kinogo-kinopoisk.net|~bobfilm-online.ru|~westernfilm.ru|~bobfilm.tv|~kinokrik.net|~kinogo720.net|~kinogo-net-co.ru|~kinoklad.net|~intex-press.by|~kino-max.org|~farming-simulator15.ru|~trikky.ru|~trv-science.ru|~unzensuriert.at|~lizaalert.beeline.ru|~megapolisonline.ru|~sputniknews.ru|~miuipro.info|~sputnik.kg|~1prime.ru|~mobnovelty.ru
@@ -137,11 +142,13 @@ i.ibb.co/kg3hHbm
 ##.fa-facebook-square
 ##.fa-instagram
 ##.fa-linkedin
+##.fa-pencil-square-o
 ##.fa-pinterest
 ##.fa-reddit
 ##.fa-tumblr
 ##.fa-twitter
 ##.fa-twitter-square
+##.fa-youtube
 ##.fa-youtube-play
 ##.facebook
 ##.facebook-share-btn
@@ -199,8 +206,10 @@ i.ibb.co/kg3hHbm
 ##.share-block
 ##.share-facebook
 ##.share-gplus
+##.share-icon
 ##.share-icons
 ##.share-links
+##.share-pinterest
 ##.share-rss
 ##.share-text
 ##.share-title
@@ -222,6 +231,7 @@ i.ibb.co/kg3hHbm
 ##.social-media:not(html):not(body)
 ##.social-share
 ##.social-share-link
+##.social-sharing
 ##.socialbuttons
 ##.solid-social-icons
 ##.text_ads_2
@@ -274,6 +284,8 @@ i.ibb.co/kg3hHbm
 ##a[href^="https://reddit.com/submit?"]
 ##a[href^="https://telegram.me/share/url?"]
 ##a[href^="https://twitter.com/intent/tweet?"]
+##a[href^="https://twitter.com/intent/tweet/?"]
+##a[href^="https://twitter.com/intent/tweet/"]
 ##a[href^="https://twitter.com/share?"]
 ##a[href^="https://twitter.com/share"]
 ##a[href^="https://vk.com/share.php?"]
@@ -283,6 +295,7 @@ i.ibb.co/kg3hHbm
 ##a[href^="https://www.facebook.com/sharer/sharer.php"]
 ##a[href^="https://www.linkedin.com/shareArticle?"]
 ##a[href^="https://www.linkedin.com/shareArticle"]
+##a[href^="https://www.pinterest.com/pin/create/button/"]
 ##a[href^="https://www.tumblr.com/share"]
 ##a[href^="https://www.tumblr.com/share/"]
 ##a[href="https://twitter.com/share"]
@@ -302,6 +315,7 @@ i.ibb.co/kg3hHbm
 ##div[button="share"]
 ##div[class^="cc-sharebuttons-"]
 ##div[id^="adtrue_tag"]
+##div[id^="ezoic-pub-ad-"]
 ##div[id^="M"][id*="ScriptRootC"]
 ##div[id^="rc-widget-"]
 ##iframe[width="728"][height="90"]
@@ -331,6 +345,7 @@ i.ibb.co/kg3hHbm
 ###ot-sdk-btn
 ###privacy-alert
 ###share-button
+###socialButtonOnPage
 ###social_media
 ###to-top:not(body)
 
@@ -369,7 +384,6 @@ www.tns-counter.ru
 ||doubleclick.net^$important
 
 
-
 ||amung.us^$important
 ||an.yandex.ru^$important
 
@@ -393,6 +407,7 @@ www.tns-counter.ru
 ||cloudflareinsights.com^$3p
 ||consentframework.com^$3p
 ||etp-prod.com^$3p
+||ezodn.com^$3p
 ||moneymakercdn.com^$3p
 ||platform.twitter.com/js/button.$3p
 ||popnc.com^$3p
@@ -449,6 +464,7 @@ www.tns-counter.ru
 
 
 ||ausoafab.net^$popup
+||glixaing.com^$popup
 
 
 ||3p-geo.yahoo.com^
@@ -460,9 +476,11 @@ www.tns-counter.ru
 ||advarkads.com^
 ||amazon-adsystem.com^
 ||analyticacdn.com^
+||analytics-static.ugc.bazaarvoice.com^
 ||answeredfluency.com^
 ||asccdn.com^
 ||bebi.com^
+||betotodilea.com^
 ||betteradsystem.com^
 ||bypathaivr.com^
 ||c2280b9a3b4c.com^
@@ -499,6 +517,7 @@ www.tns-counter.ru
 ||js-agent.newrelic.com^
 ||js.stripe.com^
 ||jwpltx.com^
+||kronosspell.com^
 ||m.stripe.com^
 ||metrics.brightcove.com^
 ||noisysortcasualty.com^
@@ -522,6 +541,7 @@ www.tns-counter.ru
 ||speedcurve.com^
 ||sstatic1.histats.com^
 ||stats.wp.com^
+||steadfastsystem.com^
 ||tagbom.com^
 ||tags.tiqcdn.com^
 ||tnzjsphdird.com^
@@ -559,6 +579,7 @@ www.tns-counter.ru
 
 
 ||xyz^$script,3p,domain=~anidub.com|~animedia.pro|~animeheaven.ru|~animevibe.wtf|~app.element.io|~assistir-filme.biz|~auth.magic.link|~avtomaty-i-bonusy.com|~coomeet.com|~crackstreams.com|~crackstreams.ga|~csgoreports.com|~cvid.kiev.ua|~emblix.cc|~estream.to|~europixhd.io|~films.hds-stream.com|~flowcdn.nl|~funtik.tv|~getvi.tv|~github.io|~hanime.tv|~hentaiz.org|~herokuapp.com|~infoua.biz|~jokehd.com|~jokerswidget.com|~jokerswidget.org|~kinoguru.be|~kinoguru.me|~kristinita.ru|~live-golf.stream|~live-nhl.stream|~lookbase.xyz|~magicfilm.net|~mail.google.com|~map-a-date.cc|~matchat.online|~mikeamigorein.xyz|~miranimbus.ru|~my.mail.ru|~nccg.ru|~newdmn.icu|~onmovies.se|~playjoke.xyz|~roadhub.ru|~roblox.com|~sextop.net|~soccer365.ru|~soonwalk.net|~sportsbay.org|~streetbee.io|~streetbee.ru|~telerium.club|~telerium.live|~uacycling.info|~uploadedpremiumlink.net|~vk.com|~vmeste.tv|~web.app
+||xyz^$xmlhttprequest,3p,domain=~anidub.com|~animedia.pro|~animeheaven.ru|~animevibe.wtf|~app.element.io|~assistir-filme.biz|~auth.magic.link|~avtomaty-i-bonusy.com|~coomeet.com|~crackstreams.com|~crackstreams.ga|~csgoreports.com|~cvid.kiev.ua|~emblix.cc|~estream.to|~europixhd.io|~films.hds-stream.com|~flowcdn.nl|~funtik.tv|~getvi.tv|~github.io|~hanime.tv|~hentaiz.org|~herokuapp.com|~infoua.biz|~jokehd.com|~jokerswidget.com|~jokerswidget.org|~kinoguru.be|~kinoguru.me|~kristinita.ru|~live-golf.stream|~live-nhl.stream|~lookbase.xyz|~magicfilm.net|~mail.google.com|~map-a-date.cc|~matchat.online|~mikeamigorein.xyz|~miranimbus.ru|~my.mail.ru|~nccg.ru|~newdmn.icu|~odysee.com|~onmovies.se|~playjoke.xyz|~roadhub.ru|~roblox.com|~sextop.net|~soccer365.ru|~soonwalk.net|~sportsbay.org|~streetbee.io|~streetbee.ru|~telerium.club|~telerium.live|~uacycling.info|~uploadedpremiumlink.net|~vk-apps.com|~vk.com|~vmeste.tv|~web.app
 
 
 ||am15.net^
@@ -600,6 +621,7 @@ www.tns-counter.ru
 ||bing.com/fd/ls/
 ||cdn.ampproject.org/*/amp-analytics-
 ||cdn.trustcommander.net/privacy^
+||cdn.trustcommander.net/privacy^
 ||clipwatching.com/clipjs.js
 ||connect.facebook.net^
 ||connect.facebook.net^$3p,domain=~facebook.com|~fb.com
@@ -607,6 +629,7 @@ www.tns-counter.ru
 ||crunchyroll.com/versioned_assets/js/tracking^
 ||dn-staticdown.qbox.me^$script,domain=geo.captcha-delivery.com
 ||easyads28.mobi^
+||embed.mystream.to^
 ||freychang.fun^
 ||hubvisor.io^
 ||i.ibb.co/kg3hHbm/otakufr-discord.jpg
@@ -904,6 +927,9 @@ otakufr.co##+js(abort-current-inline-script, String.fromCharCode, /emZnbG9hZGVk|
 otakufr.co##+js(json-prune, *, rot_url)
 otakufr.co##+js(set-constant, Document.prototype.interestCohort, undefined)
 parisanime.com##+js(abort-current-inline-script, String.fromCharCode, /emZnbG9hZGVk|break;case \$\.|break;case \d{1}/)
+redirect-ads.com##+js(json-prune, *, banner_id)
+redirect-ads.com##+js(remove-attr, style, #over)
+redirect-ads.com##+js(window.open-defuser, /^/, 1)
 rutube.ru##+js(json-prune, cuepoints)
 rutube.ru##+js(set-constant, Object.prototype.appearance.forbid_seek, undefined)
 streamtape.*##+js(abort-current-inline-script, document.createElement, 'script')
@@ -924,6 +950,7 @@ toonanime.*##+js(abort-current-inline-script, Math, break;case $.)
 toonanime.*##+js(abort-on-property-write, _pop)
 toonanime.tv##+js(abort-current-inline-script, document.querySelectorAll, popMagic)
 toonanime.tv##+js(abort-current-inline-script, Math, /emZnbG9hZGVk|break;case \$\./)
+toonanime.tv##+js(abort-current-script, document.querySelectorAll, popMagic)
 toopl.xyz##+js(window.open-defuser)
 upstream.to##+js(nofab)
 upstream.to##+js(nowebrtc)
