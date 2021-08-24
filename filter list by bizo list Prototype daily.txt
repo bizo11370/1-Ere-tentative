@@ -199,8 +199,84 @@ i.ibb.co/kg3hHbm
 ##.privacy-container:not(body):not(html):not(.content-container)
 ##.privacy-popup
 ##.pum[data-popmake*="cookies"]
+##.widget_adswidget4-quick-adsense
+##.wpd-sbs-title
+##.wpdiscuz-subscribe-bar
+##.ytp-share-button
+##[aria-label="cookieconsent"]
+##[href*="/afu.php"]
+##[href*="facebook.com/sharer.php?"]
+##[href*="facebook.com/sharer/sharer.php?"]
+##[href*="linkedin.com/shareArticle"]
+##[href*="pinterest.com/pin/create/button/"]
 ##[href*="postlnk.com"]
+##[href*="reddit.com/submit?url="]
+##[href*="twitter.com/intent/tweet"]
+##[href*="twitter.com/share"]
+##[id*="ScriptRoot"]
+##[id^="adswidget2-quick-adsense"]
+##[id^="adswidget3-quick-adsense"]
+##[id^="div-gpt-ad"]
+##[title^="Share on Facebook"]
+##[title^="Share on LinkedIn"]
+##[title^="Share on Twitter"]
+##a[aria-label="RSS"]
+##a[href*=".pub2srv.com/"]
+##a[href*="/afu.php?"]
+##a[href*="facebook.com/sharer/sharer.php?"]
 ##a[href^="//postlnk.com/"]
+##a[href^="http://twitter.com/share?"]
+##a[href^="http://twitter.com/share"]
+##a[href^="http://vk.com/share.php?"]
+##a[href^="http://vk.com/share.php"]
+##a[href^="http://www.facebook.com/sharer.php?"]
+##a[href^="http://www.facebook.com/sharer.php"]
+##a[href^="http://www.odnoklassniki.ru/dk?st.cmd=addShare"]
+##a[href^="http://www.reddit.com/submit"]
+##a[href^="https://connect.ok.ru/offer?url="]
+##a[href^="https://pinterest.com/pin/create/"]
+##a[href^="https://plus.google.com/share?"]
+##a[href^="https://plus.google.com/share"]
+##a[href^="https://reddit.com/submit?"]
+##a[href^="https://telegram.me/share/url?"]
+##a[href^="https://twitter.com/intent/tweet?"]
+##a[href^="https://twitter.com/intent/tweet/?"]
+##a[href^="https://twitter.com/intent/tweet/"]
+##a[href^="https://twitter.com/share?"]
+##a[href^="https://twitter.com/share"]
+##a[href^="https://vk.com/share.php?"]
+##a[href^="https://vk.com/share.php"]
+##a[href^="https://www.facebook.com/sharer.php?"]
+##a[href^="https://www.facebook.com/sharer.php"]
+##a[href^="https://www.facebook.com/sharer/sharer.php"]
+##a[href^="https://www.linkedin.com/shareArticle?"]
+##a[href^="https://www.linkedin.com/shareArticle"]
+##a[href^="https://www.pinterest.com/pin/create/button/"]
+##a[href^="https://www.tumblr.com/share"]
+##a[href^="https://www.tumblr.com/share/"]
+##a[href="https://twitter.com/share"]
+##a[onclick*="//www.facebook.com/"][onclick*="sharer.php"]
+##a[title^="Share on Pinterest"]
+##a[title="Back to top"]
+##a[title="RSS"]
+##a[title="Share on Facebook"]
+##a[title="Share on LinkedIn"]
+##a[title="Share on Pinterest"]
+##a[title="Share on Twitter"]
+##a[title="Suivez-nous sur Facebook"]
+##a[title="Suivez-nous sur Twitter"]
+##AMP-AD
+##body .twitter-share-button
+##body #cookie-policy
+##div[button="share"]
+##div[class^="cc-sharebuttons-"]
+##div[id^="adtrue_tag"]
+##div[id^="ezoic-pub-ad-"]
+##div[id^="M"][id*="ScriptRootC"]
+##div[id^="rc-widget-"]
+##iframe[width="728"][height="90"]
+##img[src*="//counter.yadro.ru/"]
+##img[src*="counter.yadro.ru"]
 
 
 ###ads2
@@ -228,6 +304,149 @@ i.ibb.co/kg3hHbm
 ###socialButtonOnPage
 ###social_media
 ###to-top:not(body)
+
+
+~m3esolutions.com,~sloworegionu.pl,~4active.eu,~valida.pl,~foodprint.pl,~roztoczanskipn.pl##.banneritem
+anime-planet.com##.pure-g > .pure-1 > .halo
+anime-planet.com###siteContainer > .halo.aligncenter
+aol.com##.navigation:style(position: absolute !important; top: 0 !important; z-index: -1 !important;)
+aol.com##body:style(padding-top: 0 !important;)
+bestvaluevpn.com##.footer-popup.popup
+bestvaluevpn.com###j-popup-9899596_wrapper
+bing.com##.adsMvC
+bing.com##.b_adLastChild
+bing.com##.bnp_cookie_banner
+bing.com##.bottom_row
+bing.com##.moduleCont
+bing.com##.modules_wrapper
+bing.com##.pa_carousel_mlo
+bing.com##.share
+bing.com##.shareicon
+bing.com##.show_none.scroll_cont
+bing.com##.vs
+bing.com##.vs_cont
+bing.com###b_opalpers, #miniheader
+bing.com###b_pole
+bing.com###scroll_cont
+bing.com##a[href*="/aclick?ld="]:not(.vsp_ads)
+bing.com##body > div[id^="bnp.nid"]
+bing.com##div.hpl:nth-of-type(5)
+bing.com##html[style="overflow: hidden;"]:style(overflow: visible !important;)
+clipwatching.com##.cover
+clipwatching.com##.video_ad2_fadein
+clipwatching.com###coverAds
+clipwatching.com###showmac
+clipwatching.com##div[style] + div:has([class="withoutbg left"] > h3[class="hide"])
+crunchyroll.com##.cr-expo-banner
+crunchyroll.com##.message-container
+crunchyroll.com###template_skin_leaderboard
+e-monsite.com###ems-try-close
+e-monsite.com###ems-try-content
+facebook.com##div[data-testid="cookie-policy-dialog"]
+github.com##.gh-header .gh-header-shadow.box-shadow, .gh-header .gh-header-sticky.is-stuck + .gh-header-shadow, .gh-header .sticky-content, .is-placeholder, .is-stuck + .toolbar-shadow, .is-stuck .diffbar .show-if-stuck, .is-stuck.gh-header-sticky.top-0.js-sticky-offset-scroll.js-sticky, .pr-toolbar-shadow, .toolbar-shadow, .user-profile-sticky-bar
+github.com##.js-sticky.dashboard-sidebar:style(position: static !important; top: 0 !important; left: 0 !important; width: unset !important; height: 100% !important;)
+github.com##html:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
+google.*##.uEierd
+google.*###bottomads > div[id^="tads"]
+google.*##a[href*="/aclk?"][data-al]:upward(2)
+google.fr##[data-text-ad]
+google.fr###tads
+google.fr###tads[aria-label]
+google.fr###tadsb
+google.fr###tadsb[aria-label]
+google.fr###taw > div > [data-ved]
+gounlimited.to###adbd
+nautiljon.com##.gad
+otakufr.co##[href="https://discord.gg/nqdVUr7"]
+otakufr.co##[href="https://discord.gg/nqdVUr7"] > .wp-dark-mode-ignore.img-fluid
+otakufr.co##div.block > .text-center
+otakufr.co##div.block:nth-of-type(2)
+otakufr.co##div.block:nth-of-type(2) > .text-center
+redirect-ads.com###playback-fake
+s.yimg.com##div
+sendvid.com###video-js-video > a[href="javascript:void(0)"][style*="z-index: 99999"]
+sibnet.ru###vjs-overlayclip-container-box
+streamzz.*,live-eventsport.com,vidlink.org,streamz.*,nullpk.com,mitly.us,merdekaid.online,software-on.com##a[href^="http://deloplen.com/"]
+toonanime.tv##center > p
+toonanime.tv##div.content__sidebar-section > center
+toonanime.tv##div.content__sidebar-section p
+toonanime.tv##div.content__sidebar-section:nth-of-type(1) > center
+toonanime.tv##iframe:nth-of-type(3)
+v5.anime-ultime.net##.playBigBtn
+video.sibnet.ru,tamasha.com##.vjs-share-button
+video.sibnet.ru##.vjs-overlayclip-box-close
+video.sibnet.ru##.vjs-share-button
+video.sibnet.ru###vjs-overlayclip-box
+video.sibnet.ru###vjs-overlayclip-container-box
+vostfree.com###ads
+wikipedia.org###mw-head:style(top: 0!important;)
+wikipedia.org###siteNotice
+wizcase.com###bio_ep
+wizcase.com###bio_ep_bg
+wondershare.*###gdprAgree
+www.bing.com##.bnp_container
+www.bing.com##.bnp_cookie_banner
+www.bing.com##.bnp_overlay_wrapper
+www.bing.com###bnp\.nid\.63245
+www.bing.com###bnp\.nid\.63246
+www.bricoman.fr##.fixed-full.q-dialog__backdrop
+www.crunchyroll.com##.cf.message-container
+www.crunchyroll.com##.cookie-setting-link
+www.crunchyroll.com##.cr-expo-banner
+www.crunchyroll.com##.game-banner-container
+www.crunchyroll.com##.game-banner-wrapper
+www.crunchyroll.com##.message-container
+www.crunchyroll.com##.ot-fade-in.onetrust-pc-dark-filter
+www.crunchyroll.com##.ot-sdk-columns.ot-sdk-eight
+www.crunchyroll.com##.ot-sdk-columns.ot-sdk-three
+www.crunchyroll.com##.ot-sdk-container
+www.crunchyroll.com##.ot-sdk-row
+www.crunchyroll.com##.small-margin-bottom.container-shadow.cf.white-wrapper.showmedia-submenu
+www.crunchyroll.com##.twitter-share-button
+www.crunchyroll.com###marketing_banner
+www.crunchyroll.com###message_box
+www.crunchyroll.com###onetrust-accept-btn-handler
+www.crunchyroll.com###onetrust-banner-sdk
+www.crunchyroll.com###onetrust-banner-sdk > .ot-sdk-container
+www.crunchyroll.com###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
+www.crunchyroll.com###onetrust-button-group-parent
+www.crunchyroll.com###onetrust-consent-sdk
+www.crunchyroll.com###onetrust-group-container
+www.crunchyroll.com###onetrust-policy
+www.crunchyroll.com###onetrust-policy-text
+www.crunchyroll.com###series_promo_banner
+www.google.fr##.HTjtHe
+www.google.fr##.jw8mI
+www.grosbill.com###_ctl0_pop_up_cnil
+www.grosbill.com###_ctl0_pop_up_cnil > div
+www.jeuxvideo.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
+www.lcd-compare.com##.in.fade.modal-backdrop
+www.lcd-compare.com###myModal
+www.nautiljon.com##.follow
+www.nautiljon.com##.font-fb
+www.nautiljon.com##.font-tw
+www.nautiljon.com##.nj
+www.nautiljon.com##[href="https://www.nautiljon.com/actualite/rss.php"] > .font-rss
+www.nautiljon.com###cgVideoPlayer
+www.nautiljon.com###community
+www.nautiljon.com###community
+www.nvidia.fr##[src="/content/DriverDownload-March2009/includes/fr/images/220x76_facebook.jpg"]
+www.rueducommerce.fr##.is-open.micromodal-slide.modal
+www.rueducommerce.fr##.mfp-ready.mfp-auto-cursor.mfp-wrap
+www.rueducommerce.fr##.mfp-ready.mfp-bg
+www.rueducommerce.fr##.modal__overlay
+www.silicon.fr##.pop-in-workplace.pop-in.event-popin
+www.wakanim.tv##.css-1bch5xm.qc-cmp-cleanslate
+www.wakanim.tv##.nav-main_social
+www.wakanim.tv##div.footer-main_item:nth-of-type(6)
+youtube-nocookie.com,youtube.com##.ytp-pause-overlay, .show-video-thumbnail-button, #rvid
+youtube.com##.share-panel-services, .ytp-button.ytp-share-button
+youtube.com##.video-annotations
+youtube.com##.ytp-ad-progress-list
+youtube.com##.ytp-cards-teaser
+youtube.com##.ytp-paid-content-overlay
+youtube.com##.ytp-pause-overlay
+youtube.com##.ytp-title-channel
 
 
 ||fonts.googleapis.com/css
@@ -564,227 +783,6 @@ www.tns-counter.ru
 
 
 ||www.youtube.com^$subdocument,csp=worker-src 'none'
-
-
-##.widget_adswidget4-quick-adsense
-##.wpd-sbs-title
-##.wpdiscuz-subscribe-bar
-##.ytp-share-button
-##[aria-label="cookieconsent"]
-##[href*="/afu.php"]
-##[href*="facebook.com/sharer.php?"]
-##[href*="facebook.com/sharer/sharer.php?"]
-##[href*="linkedin.com/shareArticle"]
-##[href*="pinterest.com/pin/create/button/"]
-##[href*="reddit.com/submit?url="]
-##[href*="twitter.com/intent/tweet"]
-##[href*="twitter.com/share"]
-##[id*="ScriptRoot"]
-##[id^="adswidget2-quick-adsense"]
-##[id^="adswidget3-quick-adsense"]
-##[id^="div-gpt-ad"]
-##[title^="Share on Facebook"]
-##[title^="Share on LinkedIn"]
-##[title^="Share on Twitter"]
-##a[aria-label="RSS"]
-##a[href*=".pub2srv.com/"]
-##a[href*="/afu.php?"]
-##a[href*="facebook.com/sharer/sharer.php?"]
-##a[href^="http://twitter.com/share?"]
-##a[href^="http://twitter.com/share"]
-##a[href^="http://vk.com/share.php?"]
-##a[href^="http://vk.com/share.php"]
-##a[href^="http://www.facebook.com/sharer.php?"]
-##a[href^="http://www.facebook.com/sharer.php"]
-##a[href^="http://www.odnoklassniki.ru/dk?st.cmd=addShare"]
-##a[href^="http://www.reddit.com/submit"]
-##a[href^="https://connect.ok.ru/offer?url="]
-##a[href^="https://pinterest.com/pin/create/"]
-##a[href^="https://plus.google.com/share?"]
-##a[href^="https://plus.google.com/share"]
-##a[href^="https://reddit.com/submit?"]
-##a[href^="https://telegram.me/share/url?"]
-##a[href^="https://twitter.com/intent/tweet?"]
-##a[href^="https://twitter.com/intent/tweet/?"]
-##a[href^="https://twitter.com/intent/tweet/"]
-##a[href^="https://twitter.com/share?"]
-##a[href^="https://twitter.com/share"]
-##a[href^="https://vk.com/share.php?"]
-##a[href^="https://vk.com/share.php"]
-##a[href^="https://www.facebook.com/sharer.php?"]
-##a[href^="https://www.facebook.com/sharer.php"]
-##a[href^="https://www.facebook.com/sharer/sharer.php"]
-##a[href^="https://www.linkedin.com/shareArticle?"]
-##a[href^="https://www.linkedin.com/shareArticle"]
-##a[href^="https://www.pinterest.com/pin/create/button/"]
-##a[href^="https://www.tumblr.com/share"]
-##a[href^="https://www.tumblr.com/share/"]
-##a[href="https://twitter.com/share"]
-##a[onclick*="//www.facebook.com/"][onclick*="sharer.php"]
-##a[title^="Share on Pinterest"]
-##a[title="Back to top"]
-##a[title="RSS"]
-##a[title="Share on Facebook"]
-##a[title="Share on LinkedIn"]
-##a[title="Share on Pinterest"]
-##a[title="Share on Twitter"]
-##a[title="Suivez-nous sur Facebook"]
-##a[title="Suivez-nous sur Twitter"]
-##AMP-AD
-##body .twitter-share-button
-##body #cookie-policy
-##div[button="share"]
-##div[class^="cc-sharebuttons-"]
-##div[id^="adtrue_tag"]
-##div[id^="ezoic-pub-ad-"]
-##div[id^="M"][id*="ScriptRootC"]
-##div[id^="rc-widget-"]
-##iframe[width="728"][height="90"]
-##img[src*="//counter.yadro.ru/"]
-##img[src*="counter.yadro.ru"]
-
-
-~m3esolutions.com,~sloworegionu.pl,~4active.eu,~valida.pl,~foodprint.pl,~roztoczanskipn.pl##.banneritem
-anime-planet.com##.pure-g > .pure-1 > .halo
-anime-planet.com###siteContainer > .halo.aligncenter
-aol.com##.navigation:style(position: absolute !important; top: 0 !important; z-index: -1 !important;)
-aol.com##body:style(padding-top: 0 !important;)
-bestvaluevpn.com##.footer-popup.popup
-bestvaluevpn.com###j-popup-9899596_wrapper
-bing.com##.adsMvC
-bing.com##.b_adLastChild
-bing.com##.bnp_cookie_banner
-bing.com##.bottom_row
-bing.com##.moduleCont
-bing.com##.modules_wrapper
-bing.com##.pa_carousel_mlo
-bing.com##.share
-bing.com##.shareicon
-bing.com##.show_none.scroll_cont
-bing.com##.vs
-bing.com##.vs_cont
-bing.com###b_opalpers, #miniheader
-bing.com###b_pole
-bing.com###scroll_cont
-bing.com##a[href*="/aclick?ld="]:not(.vsp_ads)
-bing.com##body > div[id^="bnp.nid"]
-bing.com##div.hpl:nth-of-type(5)
-bing.com##html[style="overflow: hidden;"]:style(overflow: visible !important;)
-clipwatching.com##.cover
-clipwatching.com##.video_ad2_fadein
-clipwatching.com###coverAds
-clipwatching.com###showmac
-clipwatching.com##div[style] + div:has([class="withoutbg left"] > h3[class="hide"])
-crunchyroll.com##.cr-expo-banner
-crunchyroll.com##.message-container
-crunchyroll.com###template_skin_leaderboard
-e-monsite.com###ems-try-close
-e-monsite.com###ems-try-content
-facebook.com##div[data-testid="cookie-policy-dialog"]
-github.com##.gh-header .gh-header-shadow.box-shadow, .gh-header .gh-header-sticky.is-stuck + .gh-header-shadow, .gh-header .sticky-content, .is-placeholder, .is-stuck + .toolbar-shadow, .is-stuck .diffbar .show-if-stuck, .is-stuck.gh-header-sticky.top-0.js-sticky-offset-scroll.js-sticky, .pr-toolbar-shadow, .toolbar-shadow, .user-profile-sticky-bar
-github.com##.js-sticky.dashboard-sidebar:style(position: static !important; top: 0 !important; left: 0 !important; width: unset !important; height: 100% !important;)
-github.com##html:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
-google.*##.uEierd
-google.*###bottomads > div[id^="tads"]
-google.*##a[href*="/aclk?"][data-al]:upward(2)
-google.fr##[data-text-ad]
-google.fr###tads
-google.fr###tads[aria-label]
-google.fr###tadsb
-google.fr###tadsb[aria-label]
-google.fr###taw > div > [data-ved]
-gounlimited.to###adbd
-nautiljon.com##.gad
-otakufr.co##[href="https://discord.gg/nqdVUr7"]
-otakufr.co##[href="https://discord.gg/nqdVUr7"] > .wp-dark-mode-ignore.img-fluid
-otakufr.co##div.block > .text-center
-otakufr.co##div.block:nth-of-type(2)
-otakufr.co##div.block:nth-of-type(2) > .text-center
-redirect-ads.com###playback-fake
-s.yimg.com##div
-sendvid.com###video-js-video > a[href="javascript:void(0)"][style*="z-index: 99999"]
-sibnet.ru###vjs-overlayclip-container-box
-streamzz.*,live-eventsport.com,vidlink.org,streamz.*,nullpk.com,mitly.us,merdekaid.online,software-on.com##a[href^="http://deloplen.com/"]
-toonanime.tv##center > p
-toonanime.tv##div.content__sidebar-section > center
-toonanime.tv##div.content__sidebar-section p
-toonanime.tv##div.content__sidebar-section:nth-of-type(1) > center
-toonanime.tv##iframe:nth-of-type(3)
-v5.anime-ultime.net##.playBigBtn
-video.sibnet.ru,tamasha.com##.vjs-share-button
-video.sibnet.ru##.vjs-overlayclip-box-close
-video.sibnet.ru##.vjs-share-button
-video.sibnet.ru###vjs-overlayclip-box
-video.sibnet.ru###vjs-overlayclip-container-box
-vostfree.com###ads
-wikipedia.org###mw-head:style(top: 0!important;)
-wikipedia.org###siteNotice
-wizcase.com###bio_ep
-wizcase.com###bio_ep_bg
-wondershare.*###gdprAgree
-www.bing.com##.bnp_container
-www.bing.com##.bnp_cookie_banner
-www.bing.com##.bnp_overlay_wrapper
-www.bing.com###bnp\.nid\.63245
-www.bing.com###bnp\.nid\.63246
-www.bricoman.fr##.fixed-full.q-dialog__backdrop
-www.crunchyroll.com##.cf.message-container
-www.crunchyroll.com##.cookie-setting-link
-www.crunchyroll.com##.cr-expo-banner
-www.crunchyroll.com##.game-banner-container
-www.crunchyroll.com##.game-banner-wrapper
-www.crunchyroll.com##.message-container
-www.crunchyroll.com##.ot-fade-in.onetrust-pc-dark-filter
-www.crunchyroll.com##.ot-sdk-columns.ot-sdk-eight
-www.crunchyroll.com##.ot-sdk-columns.ot-sdk-three
-www.crunchyroll.com##.ot-sdk-container
-www.crunchyroll.com##.ot-sdk-row
-www.crunchyroll.com##.small-margin-bottom.container-shadow.cf.white-wrapper.showmedia-submenu
-www.crunchyroll.com##.twitter-share-button
-www.crunchyroll.com###marketing_banner
-www.crunchyroll.com###message_box
-www.crunchyroll.com###onetrust-accept-btn-handler
-www.crunchyroll.com###onetrust-banner-sdk
-www.crunchyroll.com###onetrust-banner-sdk > .ot-sdk-container
-www.crunchyroll.com###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
-www.crunchyroll.com###onetrust-button-group-parent
-www.crunchyroll.com###onetrust-consent-sdk
-www.crunchyroll.com###onetrust-group-container
-www.crunchyroll.com###onetrust-policy
-www.crunchyroll.com###onetrust-policy-text
-www.crunchyroll.com###series_promo_banner
-www.google.fr##.HTjtHe
-www.google.fr##.jw8mI
-www.grosbill.com###_ctl0_pop_up_cnil
-www.grosbill.com###_ctl0_pop_up_cnil > div
-www.jeuxvideo.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
-www.lcd-compare.com##.in.fade.modal-backdrop
-www.lcd-compare.com###myModal
-www.nautiljon.com##.follow
-www.nautiljon.com##.font-fb
-www.nautiljon.com##.font-tw
-www.nautiljon.com##.nj
-www.nautiljon.com##[href="https://www.nautiljon.com/actualite/rss.php"] > .font-rss
-www.nautiljon.com###cgVideoPlayer
-www.nautiljon.com###community
-www.nautiljon.com###community
-www.nvidia.fr##[src="/content/DriverDownload-March2009/includes/fr/images/220x76_facebook.jpg"]
-www.rueducommerce.fr##.is-open.micromodal-slide.modal
-www.rueducommerce.fr##.mfp-ready.mfp-auto-cursor.mfp-wrap
-www.rueducommerce.fr##.mfp-ready.mfp-bg
-www.rueducommerce.fr##.modal__overlay
-www.silicon.fr##.pop-in-workplace.pop-in.event-popin
-www.wakanim.tv##.css-1bch5xm.qc-cmp-cleanslate
-www.wakanim.tv##.nav-main_social
-www.wakanim.tv##div.footer-main_item:nth-of-type(6)
-youtube-nocookie.com,youtube.com##.ytp-pause-overlay, .show-video-thumbnail-button, #rvid
-youtube.com##.share-panel-services, .ytp-button.ytp-share-button
-youtube.com##.video-annotations
-youtube.com##.ytp-ad-progress-list
-youtube.com##.ytp-cards-teaser
-youtube.com##.ytp-paid-content-overlay
-youtube.com##.ytp-pause-overlay
-youtube.com##.ytp-title-channel
 
 
 *$3p,denyallow=google.com|gstatic.com|hcaptcha.com|recaptcha.net|tapecontent.net,domain=strcloud.*|streamtape.*|strtape.*
