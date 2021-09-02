@@ -42,6 +42,7 @@ _pagespeed_beacon?
 /dynamic-to-top/*
 /easy-social-share-$script
 /empty-iab.gif?
+/etagp/*
 /ezcl.webp?
 /favicon.ico$image,3p,domain=~streameast.live|~apple.com|~douban.com|~bahn.de|~winfuture.de|~bt.com|~ebay.com.au|~ebay.com|~ebay.co.uk|~go.com|~github.com|~microsoft.com|~stackexchange.com|~stackoverflow.com|~askubuntu.com|~reddit.com|~4chan.org|~twitter.com|~live.com|~espn.com|~yahoo.com
 /fontawesome-*$font
@@ -96,8 +97,10 @@ _pagespeed_beacon?
 /social/twitter_
 /socialicons/*
 /sociallinks.
+/stats/footer.
 /supercookie-
 /tc_analytics.
+/track/alooma-
 /um-gdpr.
 /video.counters.js
 /wp-content/plugins/add-to-any/addtoany.min.
@@ -125,10 +128,15 @@ i.ibb.co/kg3hHbm
 1688.com,alamogordonews.com,androidcentral.com,app.com,argusleader.com,articlebio.com,atlauncher.com,autozone.com,axios.com,azcentral.com,barrons.com,battlecreekenquirer.com,baxterbulletin.com,bedbathandbeyond.com,behance.net,bing.com,bitchute.com,bucyrustelegraphforum.com,burlingtonfreepress.com,caller.com,chillicothegazette.com,cincinnati.com,citizen-times.com,clarionledger.com,cnbc.com,coastalliving.com,coloradoan.com,commercialappeal.com,cookinglight.com,coshoctontribune.com,courier-journal.com,courierpostonline.com,courierpress.com,currentargus.com,daily-times.com,dailyrecord.com,dailyworld.com,dallasnews.com,datastreamer.io,delawareonline.com,delmarvanow.com,demingheadlight.com,democratandchronicle.com,desertsun.com,desmoinesregister.com,detroitnews.com,digicert.com,dna.land,dnj.com,doist.com,elpasotimes.com,endpts.com,eveningsun.com,ew.com,excelcampus.com,fdlreporter.com,floridatoday.com,foodandwine.com,forbes.com,forhims.com,fortune.com,forums.digitalspy.com,freep.com,gamerevolution.com,gettyimages.com,github.com,gosanangelo.com,greatfallstribune.com,greenbaypressgazette.com,greenvilleonline.com,guampdn.com,hattiesburgamerican.com,health.com,hellogiggles.com,hotdeals.com,howtogeek.com,htrnews.com,imore.com,indeed.com,independentmail.com,indystar.com,instyle.com,ipvm.com,ithacajournal.com,jacksonsun.com,jconline.com,jsonline.com,kitsapsun.com,knoxnews.com,lancastereaglegazette.com,lansingstatejournal.com,lcsun-news.com,ldnews.com,livingstondaily.com,lohud.com,mansfieldnewsjournal.com,marionstar.com,marshfieldnewsherald.com,mcall.com,metafilter.com,miamiherald.com,microsoft.com,montgomeryadvertiser.com,mycentraljersey.com,myrecipes.com,naplesnews.com,nbc-2.com,nbcbayarea.com,nbcchicago.com,nbcdfw.com,nbclosangeles.com,nbcmiami.com,nbcnewyork.com,nbcphiladelphia.com,nbcsandiego.com,nbcwashington.com,necn.com,newarkadvocate.com,news-leader.com,news-press.com,newsleader.com,nkleadershipwatch.org,northjersey.com,nydailynews.com,ont.io,orlandosentinel.com,packersnews.com,pal-item.com,pcgamesn.com,people.com,peopleenespanol.com,placesjournal.org,pnj.com,pokemongohub.net,portclintonnewsherald.com,postcrescent.com,poughkeepsiejournal.com,press-citizen.com,pressconnects.com,publicopiniononline.com,radio.com,realsimple.com,redding.com,reporternews.com,rgj.com,rollingstone.com,scsun-news.com,sctimes.com,shadersmod.net,sheboyganpress.com,shreveporttimes.com,si.com,southernliving.com,spectator.co.uk,spectator.us,sprint.com,stargazette.com,statefarm.com,statesmanjournal.com,stevenspointjournal.com,stratfor.com,surlatable.com,tallahassee.com,tanaza.com,tcpalm.com,technologyreview.com,tennessean.com,theadvertiser.com,theatlantic.com,thecalifornian.com,thedailyjournal.com,thegleaner.com,theleafchronicle.com,thenews-messenger.com,thenewsstar.com,thenorthwestern.com,thespectrum.com,thestarpress.com,the-sun.com,thescottishsun.co.uk,thesun.co.uk,thesun.ie,thetimesherald.com,thetowntalk.com,thewrap.com,time.com,timesrecordnews.com,topclassactions.com,torrentfreak.com,trains.com,travelandleisure.com,usatoday.com,vcstar.com,verywell.com,verywellfamily.com,verywellfit.com,verywellhealth.com,verywellmind.com,vev.io,vidup.io,visaliatimesdelta.com,wausaudailyherald.com,wegmans.com,who.int,wisconsinrapidstribune.com,wpri.com,ydr.com,zanesvilletimesrecorder.com,zappar.com,zara.com#$#html { overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important; }
 
 
+*##.div-gpt-ad:style(width:1px!important;height:1px!important;min-height:1px!important;)
+*##[class^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-height:1px!important)
+
+
 ##.a2a_button_facebook
 ##.a2a_button_twitter
 ##.a2a_kit
 ##.ad_box
+##.ad-banner
 ##.ad-mpu-plus-top
 ##.addthis_inline_share_toolbox
 ##.addthis_sharing_toolbox
@@ -157,6 +165,9 @@ i.ibb.co/kg3hHbm
 ##.cookie-bar
 ##.cookie-bar:not(body)
 ##.cookie-bar:not(body):not(html)
+##.cookie-disclaimer
+##.cookie-disclaimer:not(body)
+##.cookie-disclaimer:not(body):not(html)
 ##.cookie-slider
 ##.cookie-warning
 ##.cookie-warning:not(body):not(html):not(#Web):not(#Container)
@@ -199,6 +210,7 @@ i.ibb.co/kg3hHbm
 ##.fb-share-button
 ##.fb-xfbml-parse-ignore
 ##.Fgvgjc
+##.follow-block
 ##.footer__back-to-top-button
 ##.footer__links__social
 ##.footer__social
@@ -238,6 +250,7 @@ i.ibb.co/kg3hHbm
 ##.mobile-facebook
 ##.mobile-share-buttons-spacer
 ##.moove-gdpr-dark-scheme
+##.new-share
 ##.onf-ad
 ##.OUTBRAIN
 ##.penci-go-to-top-floating
@@ -267,33 +280,29 @@ i.ibb.co/kg3hHbm
 ##.scrolltop:not(body):not(html)
 ##.share-btn
 ##.share-button
+##.share-count
 ##.share-email
 ##.share-facebook
+##.share-it
 ##.share-linkedin
 ##.share-links
 ##.share-signature
 ##.share-twitter
-##.sharing
-##.socials
-##[title^="Follow us on "]
-##[title^="Like us on Facebook"]
-##a[href^="https://www.linkedin.com/cws/share?"]
-##a[href^="https://www.linkedin.com/cws/share?url="]
-##a[title^="Like us on Facebook"]
-##ins[data-revive-zoneid]
-
-
-
-
-*##.div-gpt-ad:style(width:1px!important;height:1px!important;min-height:1px!important;)
-*##[class^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-height:1px!important)
-
-
 ##.sharebar
+##.sharing
 ##.single__share__label
 ##.social-button
 ##.social-button-small
 ##.social-item
+##.social-likes
+##.social-likes__button
+##.social-likes__counter
+##.social-likes__icon
+##.social-likes__widget
+##.social-likes_ready
+##.social-likes_visible
+##.social-likes-icons
+##.social-likes-pane
 ##.social-link-facebook
 ##.social-list
 ##.social-list:not(html):not(body)
@@ -303,6 +312,7 @@ i.ibb.co/kg3hHbm
 ##.social-sharing
 ##.socialBar
 ##.socialbar
+##.socials
 ##.socialWrapper
 ##.widget_adswidget4-quick-adsense
 ##.wpd-sbs-title
@@ -324,6 +334,9 @@ i.ibb.co/kg3hHbm
 ##[id^="adswidget2-quick-adsense"]
 ##[id^="adswidget3-quick-adsense"]
 ##[id^="div-gpt-ad"]
+##[id^="sl_share_fb"]
+##[title^="Follow us on "]
+##[title^="Like us on Facebook"]
 ##[title^="Share on Facebook"]
 ##[title^="Share on LinkedIn"]
 ##[title^="Share on Tumblr"]
@@ -360,6 +373,8 @@ i.ibb.co/kg3hHbm
 ##a[href^="https://www.facebook.com/sharer.php?"]
 ##a[href^="https://www.facebook.com/sharer.php"]
 ##a[href^="https://www.facebook.com/sharer/sharer.php"]
+##a[href^="https://www.linkedin.com/cws/share?"]
+##a[href^="https://www.linkedin.com/cws/share?url="]
 ##a[href^="https://www.linkedin.com/shareArticle?"]
 ##a[href^="https://www.linkedin.com/shareArticle"]
 ##a[href^="https://www.pinterest.com/pin/create/button/"]
@@ -367,6 +382,7 @@ i.ibb.co/kg3hHbm
 ##a[href^="https://www.tumblr.com/share/"]
 ##a[href="https://twitter.com/share"]
 ##a[onclick*="//www.facebook.com/"][onclick*="sharer.php"]
+##a[title^="Like us on Facebook"]
 ##a[title^="Share on Pinterest"]
 ##a[title="Back to top"]
 ##a[title="RSS"]
@@ -393,6 +409,7 @@ i.ibb.co/kg3hHbm
 ##img[src*="//counter.yadro.ru/"]
 ##img[src*="counter.yadro.ru"]
 ##ins.adsbygoogle[data-ad-client]:not([data-matched-content-ui-type])
+##ins[data-revive-zoneid]
 ##span[id^="ezoic-pub-ad-placeholder-"]
 
 
@@ -403,7 +420,10 @@ i.ibb.co/kg3hHbm
 ###check-also-box
 ###cliSettingsPopup
 ###cookie_hdr_showagain
+###cookie-consent
 ###cookie-consent-holder
+###cookie-consent:not(.content):not([class*="fancybox"])
+###cookie-disclaimer
 ###cookie-law-info-again
 ###cookie-law-info-bar
 ###cookie-law-info-bar ~ .cli-modal-backdrop
@@ -479,6 +499,7 @@ e-monsite.com###ems-try-content
 facebook.com##div[data-testid="cookie-policy-dialog"]
 github.com##.gh-header .gh-header-shadow.box-shadow, .gh-header .gh-header-sticky.is-stuck + .gh-header-shadow, .gh-header .sticky-content, .is-placeholder, .is-stuck + .toolbar-shadow, .is-stuck .diffbar .show-if-stuck, .is-stuck.gh-header-sticky.top-0.js-sticky-offset-scroll.js-sticky, .pr-toolbar-shadow, .toolbar-shadow, .user-profile-sticky-bar
 github.com##.js-sticky.dashboard-sidebar:style(position: static !important; top: 0 !important; left: 0 !important; width: unset !important; height: 100% !important;)
+github.com##.previewable-comment-form textarea:not([id="issue_body"]):style(max-height: 315px !important;)
 github.com##html:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
 google.*##.uEierd
 google.*###bottomads > div[id^="tads"]
@@ -496,8 +517,19 @@ journaldugeek.com###js-single-content > .single__share > :not(.single__share__al
 macg.co##body:style(overflow: visible !important;)
 microsoft.com##body:style(overflow: visible!important; padding-right: 0!important;)
 nautiljon.com##.gad
+otakufr.co##.container-1a8c1cd833239462a6dd2d93cd04e00e__img
+otakufr.co##.container-1a8c1cd833239462a6dd2d93cd04e00e__link
+otakufr.co##.type-w.teaser-9125191.mgline > .image-with-text
+otakufr.co##.type-w.teaser-10081006.mgline > .image-with-text
+otakufr.co##.type-w.teaser-10289161.mgline > .image-with-text
+otakufr.co##[href^="https://www.adskeeper.com/ghits/5194691/i/57476417/2/pp/2/2"] > .image-container > .wp-dark-mode-ignore.mcimg
 otakufr.co##[href="https://discord.gg/nqdVUr7"]
 otakufr.co##[href="https://discord.gg/nqdVUr7"] > .wp-dark-mode-ignore.img-fluid
+otakufr.co###AdskeeperComposite1124463_087eb > div > .mgbox > .type-w.teaser-10439588.mgline > .image-with-text
+otakufr.co###AdskeeperComposite1142923_10dcf > div > .mgbox
+otakufr.co###AdskeeperComposite1142923_01421 .mgbox > .type-w.teaser-10439588.mgline > .image-with-text > .mcimg > [href]
+otakufr.co###M670496ScriptRootC1142923_01421
+otakufr.co##a.list-group-item-action.list-group-item:nth-of-type(4)
 otakufr.co##div.block > .text-center
 otakufr.co##div.block:nth-of-type(2)
 otakufr.co##div.block:nth-of-type(2) > .text-center
@@ -576,7 +608,6 @@ www.nautiljon.com##.nj
 www.nautiljon.com##[href="https://www.nautiljon.com/actualite/rss.php"] > .font-rss
 www.nautiljon.com###cgVideoPlayer
 www.nautiljon.com###community
-www.nautiljon.com###community
 www.nvidia.fr##[src="/content/DriverDownload-March2009/includes/fr/images/220x76_facebook.jpg"]
 www.rueducommerce.fr##.is-open.micromodal-slide.modal
 www.rueducommerce.fr##.mfp-ready.mfp-auto-cursor.mfp-wrap
@@ -650,6 +681,7 @@ youtube.com##.ytp-title-channel
 ||cloudflareinsights.com^$3p
 ||consentframework.com^$3p
 ||cookiepro.com^$3p
+||datadoghq-browser-agent.com^$3p
 ||etp-prod.com^$3p
 ||ezodn.com^$3p
 ||facil-iti.com^$3p
@@ -730,6 +762,7 @@ youtube.com##.ytp-title-channel
 ||bebi.com^
 ||betotodilea.com^
 ||betteradsystem.com^
+||browser.events.data.microsoft.com^
 ||bypathaivr.com^
 ||c2280b9a3b4c.com^
 ||cdn.adtrue.com^
@@ -874,6 +907,7 @@ youtube.com##.ytp-title-channel
 ||d1f05vr3sjsuy7.cloudfront.net^
 ||d2kk0o3fr7ed01.cloudfront.net^
 ||d2klx87bgzngce.cloudfront.net^
+||d3bch4rrbnbe5n.cloudfront.net^
 ||d3ithbwcmjcxl7.cloudfront.net^
 ||d3ou4areduq72f.cloudfront.net^
 ||d18t35yyry2k49.cloudfront.net^
@@ -881,12 +915,12 @@ youtube.com##.ytp-title-channel
 
 
 ||a.mailmunch.co/app/$script,3p
+||adsco.re^
 ||aol.com/beacons/
 ||aolcdn.com/ads/
 ||betgorebysson.club^
 ||bing.com/fd/ls/
 ||cdn.ampproject.org/*/amp-analytics-
-||cdn.trustcommander.net/privacy^
 ||cdn.trustcommander.net/privacy^
 ||ced-ns.sascdn.com/diff/js/smart.js
 ||clipwatching.com/clipjs.js
@@ -916,6 +950,7 @@ youtube.com##.ytp-title-channel
 ||microsoft.com/mscc/
 ||modlogypr.biz^
 ||ninjastream.to/js/lib.js
+||platform.bidgear.com/media/img/b15.png$image
 ||platform.twitter.com/widgets.js$script,domain=www.crunchyroll.com
 ||public.cobrowse.oraclecloud.com/rely/storage/
 ||sa.crunchyroll.com/analytics.js
@@ -938,7 +973,6 @@ youtube.com##.ytp-title-channel
 ||youtube.com/*_204
 ||youtube.com/api/stats/atr
 ||youtube.com/api/stats/qoe?
-
 
 
 ||*$script,redirect-rule=empty,domain=streamzz.*|streamz.vg
