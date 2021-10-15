@@ -546,6 +546,8 @@ pastebin.com##.popup-box.-pro
 pastebin.com##.popup-container > .-cookies.popup-box
 pastebin.com##.popup-container > .-pro.popup-box
 pastebin.com##.wrap > .header:style(position: absolute !important;)
+psebooks.club##.mbreader-popup
+psebooks.club##.mbreader-popup-inner
 redirect-ads.com###playback-fake
 redirect-ads.com##a[href][target="_blank"][onclick*="remove()"]
 s.yimg.com##div
@@ -553,6 +555,8 @@ saruch.co##hkejiu
 sendvid.com###video-js-video > a[href="javascript:void(0)"][style*="z-index: 99999"]
 sibnet.ru###vjs-overlayclip-container-box
 streamzz.*,live-eventsport.com,vidlink.org,streamz.*,nullpk.com,mitly.us,merdekaid.online,software-on.com##a[href^="http://deloplen.com/"]
+toonanime.cc##.toonanimeplayer_top p
+toonanime.cc##center > center
 toonanime.tv##center > p
 toonanime.tv##div.content__sidebar-section > center
 toonanime.tv##div.content__sidebar-section p
@@ -1259,6 +1263,7 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 @@||otakufr.co/wp-content/*$font,1p
 @@||stackpath.bootstrapcdn.com^$domain=accounts.conrad.com
 @@||streamtape.com/ad.js
+@@||toonanime.cc/engine/editor/jscripts/froala/fonts/*$font,1p
 @@||toonanime.tv/engine/editor/jscripts/froala/fonts/fontawesome-webfont.woff2?v=4.5.0$domain=toonanime.tv
 @@||video.sibnet.ru/fonts/*$font
 @@||vostfree.tv/templates/Animix/fonts/*$font
@@ -1268,6 +1273,8 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 @@||www.wakanim.tv/*/advertisement$xhr
 
 
-pluto.tv#@#+js(set-constant, Document.prototype.interestCohort, 'undefined)
+mail.aol.com#@#+js(no-setTimeout-if, *)
 accounts.conrad.com#@#+js(set-constant, Document.prototype.interestCohort, 'undefined)
-accounts.conrad.com#@#.grecaptcha-badge
+mail.aol.com#@#+js(no-setTimeout-if, *)
+pluto.tv#@#+js(set-constant, Document.prototype.interestCohort, 'undefined)
+
