@@ -1239,6 +1239,7 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 
 
 @@||127.0.0.1:*/intel/*$xhr,domain=intel.fr
+@@||3p-geo.yahoo.com^$ping,domain=mail.aol.com
 @@||cdn.cookielaw.org^$domain=crunchyroll.com
 @@||cdn.cookielaw.org^$script,domain=www.crunchyroll.com
 @@||cdn.cookielaw.org^$xhr,domain=www.crunchyroll.com
