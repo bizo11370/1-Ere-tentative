@@ -463,10 +463,13 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 
 
 ~m3esolutions.com,~sloworegionu.pl,~4active.eu,~valida.pl,~foodprint.pl,~roztoczanskipn.pl##.banneritem
+ameli.fr###tarteaucitronRoot
 anime-planet.com##.pure-g > .pure-1 > .halo
 anime-planet.com###siteContainer > .halo.aligncenter
 aol.com##.navigation:style(position: absolute !important; top: 0 !important; z-index: -1 !important;)
 aol.com##body:style(padding-top: 0 !important;)
+auchan.fr###onetrust-consent-sdk
+auchan.fr##div.onboarding.onboarding--visible:nth-child(24) > div.onboarding__modal.onboarding__modal--bottom
 bestvaluevpn.com##.footer-popup.popup
 bestvaluevpn.com###j-popup-9899596_wrapper
 bing.com##.adsMvC
@@ -493,6 +496,7 @@ clipwatching.com##.video_ad2_fadein
 clipwatching.com###coverAds
 clipwatching.com###showmac
 clipwatching.com##div[style] + div:has([class="withoutbg left"] > h3[class="hide"])
+combien-coute.net###sd-cmp
 crunchyroll.com##.cr-expo-banner
 crunchyroll.com##.message-container
 crunchyroll.com###template_skin_leaderboard
@@ -520,6 +524,11 @@ journaldugeek.com##.socialbar__container > .single__share > :not(.comments)
 journaldugeek.com###js-single-content > .single__share > :not(.single__share__alert)
 macg.co##body:style(overflow: visible !important;)
 microsoft.com##body:style(overflow: visible!important; padding-right: 0!important;)
+monprojet.anah.gouv.fr##.fa-linkedin.fa
+monprojet.anah.gouv.fr##.links
+monprojet.anah.gouv.fr##a.icon
+monprojet.anah.gouv.fr##div.footer_column-mobile.footer_column:nth-of-type(2)
+monprojet.anah.gouv.fr##div.footer_column-mobile.footer_column:nth-of-type(2) > h4
 nautiljon.com##.gad
 otakufr.co##.container-1a8c1cd833239462a6dd2d93cd04e00e__img
 otakufr.co##.container-1a8c1cd833239462a6dd2d93cd04e00e__link
@@ -547,6 +556,8 @@ pastebin.com##.popup-box.-pro
 pastebin.com##.popup-container > .-cookies.popup-box
 pastebin.com##.popup-container > .-pro.popup-box
 pastebin.com##.wrap > .header:style(position: absolute !important;)
+pleinchamp.com###CybotCookiebotDialogBody
+pourdebon.com###didomi-popup
 psebooks.club##.mbreader-popup
 psebooks.club##.mbreader-popup-inner
 redirect-ads.com###playback-fake
@@ -575,10 +586,28 @@ wikipedia.org###siteNotice
 wizcase.com###bio_ep
 wizcase.com###bio_ep_bg
 wondershare.*###gdprAgree
+www.anah.fr##.col-13 > .social-icons
+www.anah.fr##.col-13 > .social-icons > li
+www.anah.fr##.col-13 > .social-icons > li > [href="/rss.xml"]
+www.anah.fr##.col-13 > .social-icons > li > [href="https://twitter.com/ANAH_Officiel"]
+www.anah.fr##.col-13 > .social-icons > li > [href="https://twitter.com/ANAH_Officiel"] > [src="/typo3conf/ext/anah_site/Resources/Public/2019/assets/img/social/twitter.png"]
+www.anah.fr##.col-13 > .social-icons > li > [href="https://www.dailymotion.com/agence-nationale-habitat"]
+www.anah.fr##.col-13 > .social-icons > li > [href="https://www.dailymotion.com/agence-nationale-habitat"] > [src="/typo3conf/ext/anah_site/Resources/Public/2019/assets/img/social/dailymotion.png"]
+www.anah.fr##.col-13 > .social-icons > li > [href="https://www.instagram.com/anah_officiel/"]
+www.anah.fr##.col-13 > .social-icons > li > [href="https://www.instagram.com/anah_officiel/"] > [src="/typo3conf/ext/anah_site/Resources/Public/2019/assets/img/social/instagram.png"]
+www.anah.fr##.col-13 > .social-icons > li > [href="https://www.linkedin.com/company/anah/"]
+www.anah.fr##.col-13 > .social-icons > li > [href="https://www.linkedin.com/company/anah/"] > [src="/typo3conf/ext/anah_site/Resources/Public/2019/assets/img/social/linkedin.png"]
+www.anah.fr##div.flex:nth-of-type(1) > .col-13
 www.bing.com##.bnp_container
+www.bing.com##.bnp_container
+www.bing.com##.bnp_content
+www.bing.com##.bnp_content_desc
+www.bing.com##.bnp_cookie_banner
 www.bing.com##.bnp_cookie_banner
 www.bing.com##.bnp_overlay_wrapper
+www.bing.com##.p2
 www.bing.com###bnp\.nid\.63245
+www.bing.com###bnp\.nid\.63246
 www.bing.com###bnp\.nid\.63246
 www.bricoman.fr##.fixed-full.q-dialog__backdrop
 www.crunchyroll.com##.cf.message-container
@@ -883,6 +912,7 @@ youtube.com##.ytp-title-channel
 ||www.hugedomains.com^
 ||www.smartadserver.com^
 ||www.w3counter.com^
+||xiti.com
 ||xpbbyiqbcawamy.com^
 ||your-notice.com^
 ||ytimm.com^
@@ -1012,6 +1042,7 @@ youtube.com##.ytp-title-channel
 ||upstream.to/js/kaltura.js
 ||video.sibnet.ru/my/settings/*
 ||vortex.data.microsoft.com/collect
+||www.anah.fr/typo3conf/ext/anah_site/Resources/Public/2019/assets/img/social/rss.png
 ||www.crunchyroll.com/favicons/site.webmanifest$other,domain=www.crunchyroll.com
 ||www.google.*/velog/
 ||www.ki-oon.com/medias/fond/image-1624372343.jpg$image
