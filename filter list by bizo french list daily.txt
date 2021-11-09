@@ -614,7 +614,6 @@ www.grosbill.com###_ctl0_pop_up_cnil > div
 www.jeuxvideo.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
 www.lcd-compare.com##.in.fade.modal-backdrop
 www.lcd-compare.com###myModal
-www.leboncoin.fr##._1vGVU._3Y5Im
 www.leboncoin.fr##[href="https://www.leboncoin.fr/paiement-securise-vehicule/garantie-panne-mecanique"] > picture > ._1cnjm
 www.leboncoin.fr###home-portal
 www.nautiljon.com##.follow
