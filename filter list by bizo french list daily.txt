@@ -104,6 +104,7 @@ _pagespeed_beacon?
 /track/alooma-
 /um-gdpr.
 /video.counters.js
+/web-vitals/*
 /wp-content/plugins/add-to-any/addtoany.min.
 /wp-content/plugins/cookie-law-info/*$domain=~wmagazine.com|~moneytoplist.com
 /wp-content/plugins/eazy-ad-unblocker/*
@@ -111,11 +112,11 @@ _pagespeed_beacon?
 /xiti.js
 /xtcore.js
 /xvideo.js
-/xvideo.js|
 /z.gif?
 facebook.com/plugins/$domain=~facebook.com|~freepresets.com
 gfvbbbbbbbbFRTD_ad_choices_
 i.ibb.co/kg3hHbm
+
 
 
 *$image,3p,domain=uqload.com
@@ -918,7 +919,9 @@ youtube.com##.ytp-title-channel
 
 ||am15.net^
 ||az416426.vo.msecnd.net^
+||criteo.net^
 ||devtools.azureedge.net^
+||doubleclick.net^
 ||ds-aksb-a.akamaihd.net
 ||go-mpulse.net^
 ||monetate.net^
@@ -1266,6 +1269,7 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 @@||gstatic.com/cv/js/sender/v1/cast_sender.js$script
 @@||gstatic.com/recaptcha/$script
 @@||otakufr.co/wp-content/*$font,1p
+@@||sdk.privacy-center.org^$script,domain=www.leboncoin.fr
 @@||stackpath.bootstrapcdn.com^$domain=accounts.conrad.com
 @@||streamtape.com/ad.js
 @@||toonanime.cc/engine/editor/jscripts/froala/fonts/*$font,1p
