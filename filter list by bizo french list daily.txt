@@ -369,6 +369,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.bs-gdpr-law
 ##.bs-wrap-gdpr-law
 ##.bs-wrap-gdpr-law:not(body):not(html)
+##.btn-top[href^="#"]
 ##.butterBar-message
 ##.button__share
 ##.capa_cookies
@@ -1425,21 +1426,15 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 antimalwareserviceexecutable.co,antimalwareserviceexecutable.org,arnoldporter.com,auditmypc.com,blog.sucuri.net,braintropic.com,cernovich.com,collinmbarrett.com,copyblogger.com,coryrylan.com,digital.com,dqydj.com,ebikeschool.com,ehomerecordingstudio.com,eng.uber.com,formidable.com,gamingtoday.com,gasspouts.com,githubuniverse.com,intowindows.com,milcorp.com,mintpressnews.com,mnn.com,notlaura.com,octoverse.github.com,peerlyst.com,phickle.com,quartersnacks.com,realityblurred.com,recordedfuture.com,regroove.ca,rootreport.com,samharris.org,smartrecruiters.com,techtipsapp.com,tekrevue.com,theamericanscholar.org,theamphour.com,themefoxx.com,thetechhacker.com,thewonderweeks.com,utech-polyurethane.com,vice.com,warriortrading.com,wdc.com,wifinowevents.com,wmiproviderhost.com,wtfuh.com##.site-header:style(position: absolute !important;)
 backblaze.com,blog.github.com,boldgrid.com,cbsnews.com,chromeunboxed.com,coloradoreview.colostate.edu,examine.com,fair.org,liveonscore.tv,logolounge.com,restoreprivacy.com,thelines.com,them.us##.site-header:style(position: relative !important;)
 
-
 1fichier.com##[src="https://img.1fichier.com/facebook.png"]
 1fichier.com##[src="https://img.1fichier.com/twitter.png"]
-1fichier.com###cookie_box
 ~m3esolutions.com,~sloworegionu.pl,~4active.eu,~valida.pl,~foodprint.pl,~roztoczanskipn.pl##.banneritem
-ameli.fr###tarteaucitronRoot
 anime-planet.com##.pure-g > .pure-1 > .halo
-anime-planet.com###siteContainer > .halo.aligncenter
 aol.com##.maas-item:has-text(our Partners)
 aol.com##.navigation:style(position: absolute !important; top: 0 !important; z-index: -1 !important;)
 aol.com##body:style(padding-top: 0 !important;)
-auchan.fr###onetrust-consent-sdk
 auchan.fr##div.onboarding.onboarding--visible:nth-child(24) > div.onboarding__modal.onboarding__modal--bottom
 bestvaluevpn.com##.footer-popup.popup
-bestvaluevpn.com###j-popup-9899596_wrapper
 bing.com##.adsMvC
 bing.com##.b_adLastChild
 bing.com##.bnp_cookie_banner
@@ -1452,9 +1447,6 @@ bing.com##.shareicon
 bing.com##.show_none.scroll_cont
 bing.com##.vs
 bing.com##.vs_cont
-bing.com###b_opalpers, #miniheader
-bing.com###b_pole
-bing.com###scroll_cont
 bing.com##a[href*="/aclick?ld="]:not(.vsp_ads)
 bing.com##body > div[id^="bnp.nid"]
 bing.com##div.hpl:nth-of-type(5)
@@ -1462,23 +1454,10 @@ bing.com##html:style(overflow: auto !important)
 bing.com##html[style="overflow: hidden;"]:style(overflow: visible !important;)
 clipwatching.com##.cover
 clipwatching.com##.video_ad2_fadein
-clipwatching.com###coverAds
-clipwatching.com###showmac
 clipwatching.com##div[style] + div:has([class="withoutbg left"] > h3[class="hide"])
-combien-coute.net###sd-cmp
 crunchyroll.com##.cr-expo-banner
 crunchyroll.com##.message-container
-crunchyroll.com###template_skin_leaderboard
-digitaltendances.com###content-main [href="https://digitaltendances.com/telechargement/meilleurs-jeux-gratuits-android-ios-sans-wifi-internet/"]
-digitaltendances.com###content-main [href="https://digitaltendances.com/telechargement/meilleurs-sites-streaming-films-series-vf-vostfr-gratuit/"]
-digitaltendances.com###content-main [href="https://digitaltendances.com/tutoriels/top-meilleurs-animes-manga-japonais-plus-populaires/"]
-disqus.com###placement-top
-disqus.com###thread-share-bar
 docs.github.com##.article-grid-toc-content:style(position: static !important;)
-docs.microsoft.com###affixed-left-container, #affixed-right-container:style(position: static !important;)
-docs.microsoft.com###side-doc-outline:style(position: static !important; top: 119.5px !important;)
-e-monsite.com###ems-try-close
-e-monsite.com###ems-try-content
 facebook.com##div[data-testid="cookie-policy-dialog"]
 github.com##.diffbar .diffstat:style(display: block !important;)
 github.com##.diffbar:style(height: 20px !important; padding-bottom: 20px !important; padding-top: 20px !important;)
@@ -1490,11 +1469,9 @@ github.com##.is-stuck.js-toggler-target.js-user-profile-follow-button.js-sticky.
 github.com##.is-stuck.top-0.js-sticky.user-profile-nav.UnderlineNav:style(width: unset !important;)
 github.com##.js-notification-shelf-offset-top.box-shadow.gh-header-shadow:style(position: static !important; height: 0 !important;)
 github.com##.js-sticky.dashboard-sidebar:style(position: static !important; top: 0 !important; left: 0 !important; width: unset !important; height: 100% !important;)
-github.com##.js-sticky.dashboard-sidebar:style(position: static !important; top: 0 !important; left: 0 !important; width: unset !important; height: 100% !important;)
 github.com##.js-user-profile-sticky-fields.js-sticky.py-3.vcard-names-container:style(margin-top: 0 !important; pointer-events: none !important; width: auto !important;)
 github.com##.notifications-v2:style(position: static !important; width: unset !important;)
 github.com##.pr-review-tools:style(margin-top: -4px !important;)
-github.com##.previewable-comment-form textarea:not([id="issue_body"]):style(max-height: 315px !important;)
 github.com##.previewable-comment-form textarea:not([id="issue_body"]):style(max-height: 315px !important;)
 github.com##.user-profile-nav:style(position: relative !important;)
 github.com##.vcard-names-container:style(position: static !important; top: unset !important; left: unset !important; width: auto !important;)
@@ -1502,30 +1479,18 @@ github.com##.vcard-names-container.is-stuck .vcard-names:style(opacity: 1 !impor
 github.com##.vcard-names-container.is-stuck:style(pointer-events: none !important;)
 github.com##.vcard-names-container.py-3.js-sticky.js-user-profile-sticky-fields.is-stuck:style(position: static !important; margin-top: unset !important;)
 github.com##.vcard-names-container.py-3.js-user-profile-sticky-fields.is-placeholder:style(height: 0 !important; visibility: hidden !important; display: none !important; width: auto !important;)
-github.com###issue_body, #new_comment_field:style(max-height: 557px !important;)
-github.com###js-contribution-activity .js-profile-timeline-year-list, #js-contribution-activity .profile-timeline-year-list:style(position: static !important; top: 74px !important; width: 16.66667% !important;)
-github.com###readme > div.js-position-sticky, .is-stuck.js-position-sticky.js-sticky.pr-toolbar, .js-sticky.js-sticky-offset-scroll.top-0.gh-header-sticky.is-stuck, .pagehead, .position-sticky.mt-4, .rgh-sticky-sidebar.discussion-sidebar:style(position: static !important;)
-github.com###year-list-container .js-profile-timeline-year-list, #year-list-container .profile-timeline-year-list:style(position: static !important; top: 74px !important; width: auto !important;)
 github.com##html:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
 google.*##.uEierd
-google.*###bottomads > div[id^="tads"]
 google.*##a[href*="/aclk?"][data-al]:upward(2)
 google.fr##[data-text-ad]
-google.fr###tads
-google.fr###tads[aria-label]
-google.fr###tadsb
-google.fr###tadsb[aria-label]
-google.fr###taw > div > [data-ved]
 google.fr##a[href^="https://www.googleadservices.com/pagead/aclk?"]
-gounlimited.to###adbd
 guides.github.com##.sticky.js-toc.toc:style(position: absolute !important;)
-gum-gum-streaming.com###ggs_offer
 gum-gum-streaming.com##div.video-container > div
 help.github.com##.article-grid-toc-content:style(position: static !important;)
 journaldugeek.com##.socialbar__container > .single__share > :not(.comments)
-journaldugeek.com###js-single-content > .single__share > :not(.single__share__alert)
 macg.co##body:style(overflow: visible !important;)
 microsoft.com##body:style(overflow: visible!important; padding-right: 0!important;)
+mon-espace.saurclient.fr##.sds-m-cookiebanner.sds-container
 monprojet.anah.gouv.fr##.fa-linkedin.fa
 monprojet.anah.gouv.fr##.links
 monprojet.anah.gouv.fr##a.icon
@@ -1533,8 +1498,6 @@ monprojet.anah.gouv.fr##div.footer_column-mobile.footer_column:nth-of-type(2)
 monprojet.anah.gouv.fr##div.footer_column-mobile.footer_column:nth-of-type(2) > h4
 nautiljon.com##.gad
 nvidia.com##.global-nav, .secondary-menu-slot, .subnav:style(position: relative !important; top: 0 !important;)
-nvidia.com###cookiePolicy-layer
-nvidia.com###page-content, .m-t-60:style(margin-top: 0 !important;)
 otakufr.*##.widget_text.widget.widget_custom_html:has(script[src^="//platform.bidgear.com/ads.php"])
 otakufr.co##.container-1a8c1cd833239462a6dd2d93cd04e00e__img
 otakufr.co##.container-1a8c1cd833239462a6dd2d93cd04e00e__link
@@ -1544,10 +1507,6 @@ otakufr.co##.type-w.teaser-10289161.mgline > .image-with-text
 otakufr.co##[href^="https://www.adskeeper.com/ghits/5194691/i/57476417/2/pp/2/2"] > .image-container > .wp-dark-mode-ignore.mcimg
 otakufr.co##[href="https://discord.gg/nqdVUr7"]
 otakufr.co##[href="https://discord.gg/nqdVUr7"] > .wp-dark-mode-ignore.img-fluid
-otakufr.co###AdskeeperComposite1124463_087eb > div > .mgbox > .type-w.teaser-10439588.mgline > .image-with-text
-otakufr.co###AdskeeperComposite1142923_10dcf > div > .mgbox
-otakufr.co###AdskeeperComposite1142923_01421 .mgbox > .type-w.teaser-10439588.mgline > .image-with-text > .mcimg > [href]
-otakufr.co###M670496ScriptRootC1142923_01421
 otakufr.co##a.list-group-item-action.list-group-item:nth-of-type(4)
 otakufr.co##div.block > .text-center
 otakufr.co##div.block:nth-of-type(2)
@@ -1562,20 +1521,15 @@ pastebin.com##.popup-box.-pro
 pastebin.com##.popup-container > .-cookies.popup-box
 pastebin.com##.popup-container > .-pro.popup-box
 pastebin.com##.wrap > .header:style(position: absolute !important;)
-pleinchamp.com###CybotCookiebotDialogBody
-pourdebon.com###didomi-popup
 psebooks.club##.mbreader-popup
 psebooks.club##.mbreader-popup-inner
 pstream.net##a[href^="https://adfpoint.com/"]
 pstream.net##body > a[href="javascript:;"]
 pstream.net##body > a[target="_blank"]
 pstream.net##head:has(style[id*="videojs"]) + body > *:not(.video-js)
-redirect-ads.com###playback-fake
 redirect-ads.com##a[href][target="_blank"][onclick*="remove()"]
 s.yimg.com##div
 saruch.co##hkejiu
-sendvid.com###video-js-video > a[href="javascript:void(0)"][style*="z-index: 99999"]
-sibnet.ru###vjs-overlayclip-container-box
 speedtest.net##.eot-box-wrapper > div.pure-g
 speedtest.net##.notification-container
 speedtest.net##.privacy-update
@@ -1598,17 +1552,8 @@ v5.anime-ultime.net##.playBigBtn
 video.sibnet.ru,tamasha.com##.vjs-share-button
 video.sibnet.ru##.vjs-overlayclip-box-close
 video.sibnet.ru##.vjs-share-button
-video.sibnet.ru###vjs-overlayclip-box
-video.sibnet.ru###vjs-overlayclip-container-box
-video.sibnet.ru###vjs-overlayclip-container-box
-vostfree.com###ads
 vvww.toonanime.cc##iframe:nth-of-type(3)
 waaw.to##.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links:style(display: block !important;)
-wikipedia.org###mw-head:style(top: 0!important;)
-wikipedia.org###siteNotice
-wizcase.com###bio_ep
-wizcase.com###bio_ep_bg
-wondershare.*###gdprAgree
 www.anah.fr##.col-13 > .social-icons
 www.anah.fr##.col-13 > .social-icons > li
 www.anah.fr##.col-13 > .social-icons > li > [href="/rss.xml"]
@@ -1622,16 +1567,11 @@ www.anah.fr##.col-13 > .social-icons > li > [href="https://www.linkedin.com/comp
 www.anah.fr##.col-13 > .social-icons > li > [href="https://www.linkedin.com/company/anah/"] > [src="/typo3conf/ext/anah_site/Resources/Public/2019/assets/img/social/linkedin.png"]
 www.anah.fr##div.flex:nth-of-type(1) > .col-13
 www.bing.com##.bnp_container
-www.bing.com##.bnp_container
 www.bing.com##.bnp_content
 www.bing.com##.bnp_content_desc
 www.bing.com##.bnp_cookie_banner
-www.bing.com##.bnp_cookie_banner
 www.bing.com##.bnp_overlay_wrapper
 www.bing.com##.p2
-www.bing.com###bnp\.nid\.63245
-www.bing.com###bnp\.nid\.63246
-www.bing.com###bnp\.nid\.63246
 www.bricoman.fr##.fixed-full.q-dialog__backdrop
 www.crunchyroll.com##.cf.message-container
 www.crunchyroll.com##.cookie-setting-link
@@ -1646,35 +1586,17 @@ www.crunchyroll.com##.ot-sdk-container
 www.crunchyroll.com##.ot-sdk-row
 www.crunchyroll.com##.small-margin-bottom.container-shadow.cf.white-wrapper.showmedia-submenu
 www.crunchyroll.com##.twitter-share-button
-www.crunchyroll.com###marketing_banner
-www.crunchyroll.com###message_box
-www.crunchyroll.com###onetrust-accept-btn-handler
-www.crunchyroll.com###onetrust-banner-sdk
-www.crunchyroll.com###onetrust-banner-sdk > .ot-sdk-container
-www.crunchyroll.com###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
-www.crunchyroll.com###onetrust-button-group-parent
-www.crunchyroll.com###onetrust-consent-sdk
-www.crunchyroll.com###onetrust-group-container
-www.crunchyroll.com###onetrust-policy
-www.crunchyroll.com###onetrust-policy-text
-www.crunchyroll.com###series_promo_banner
 www.google.*##[href^="https://www.googleadservices.com/pagead/aclk?"][href$="adurl="]:upward(3)
 www.google.fr##.HTjtHe
 www.google.fr##.jw8mI
-www.grosbill.com###_ctl0_pop_up_cnil
-www.grosbill.com###_ctl0_pop_up_cnil > div
 www.jeuxvideo.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
 www.lcd-compare.com##.in.fade.modal-backdrop
-www.lcd-compare.com###myModal
 www.leboncoin.fr##[href="https://www.leboncoin.fr/paiement-securise-vehicule/garantie-panne-mecanique"] > picture > ._1cnjm
-www.leboncoin.fr###home-portal
 www.nautiljon.com##.follow
 www.nautiljon.com##.font-fb
 www.nautiljon.com##.font-tw
 www.nautiljon.com##.nj
 www.nautiljon.com##[href="https://www.nautiljon.com/actualite/rss.php"] > .font-rss
-www.nautiljon.com###cgVideoPlayer
-www.nautiljon.com###community
 www.nvidia.fr##[src="/content/DriverDownload-March2009/includes/fr/images/220x76_facebook.jpg"]
 www.rueducommerce.fr##.is-open.micromodal-slide.modal
 www.rueducommerce.fr##.mfp-ready.mfp-auto-cursor.mfp-wrap
@@ -1692,6 +1614,84 @@ youtube.com##.ytp-cards-teaser
 youtube.com##.ytp-paid-content-overlay
 youtube.com##.ytp-pause-overlay
 youtube.com##.ytp-title-channel
+
+
+saurclient.fr###cookies
+1fichier.com###cookie_box
+ameli.fr###tarteaucitronRoot
+anime-planet.com###siteContainer > .halo.aligncenter
+auchan.fr###onetrust-consent-sdk
+bestvaluevpn.com###j-popup-9899596_wrapper
+bing.com###b_opalpers, #miniheader
+bing.com###b_pole
+bing.com###scroll_cont
+clipwatching.com###coverAds
+clipwatching.com###showmac
+combien-coute.net###sd-cmp
+crunchyroll.com###template_skin_leaderboard
+digitaltendances.com###content-main [href="https://digitaltendances.com/telechargement/meilleurs-jeux-gratuits-android-ios-sans-wifi-internet/"]
+digitaltendances.com###content-main [href="https://digitaltendances.com/telechargement/meilleurs-sites-streaming-films-series-vf-vostfr-gratuit/"]
+digitaltendances.com###content-main [href="https://digitaltendances.com/tutoriels/top-meilleurs-animes-manga-japonais-plus-populaires/"]
+disqus.com###placement-top
+disqus.com###thread-share-bar
+docs.microsoft.com###affixed-left-container, #affixed-right-container:style(position: static !important;)
+docs.microsoft.com###side-doc-outline:style(position: static !important; top: 119.5px !important;)
+e-monsite.com###ems-try-close
+e-monsite.com###ems-try-content
+github.com###issue_body, #new_comment_field:style(max-height: 557px !important;)
+github.com###js-contribution-activity .js-profile-timeline-year-list, #js-contribution-activity .profile-timeline-year-list:style(position: static !important; top: 74px !important; width: 16.66667% !important;)
+github.com###readme > div.js-position-sticky, .is-stuck.js-position-sticky.js-sticky.pr-toolbar, .js-sticky.js-sticky-offset-scroll.top-0.gh-header-sticky.is-stuck, .pagehead, .position-sticky.mt-4, .rgh-sticky-sidebar.discussion-sidebar:style(position: static !important;)
+github.com###year-list-container .js-profile-timeline-year-list, #year-list-container .profile-timeline-year-list:style(position: static !important; top: 74px !important; width: auto !important;)
+google.*###bottomads > div[id^="tads"]
+google.fr###tads
+google.fr###tads[aria-label]
+google.fr###tadsb
+google.fr###tadsb[aria-label]
+google.fr###taw > div > [data-ved]
+gounlimited.to###adbd
+gum-gum-streaming.com###ggs_offer
+journaldugeek.com###js-single-content > .single__share > :not(.single__share__alert)
+nvidia.com###cookiePolicy-layer
+nvidia.com###page-content, .m-t-60:style(margin-top: 0 !important;)
+otakufr.co###AdskeeperComposite1124463_087eb > div > .mgbox > .type-w.teaser-10439588.mgline > .image-with-text
+otakufr.co###AdskeeperComposite1142923_01421 .mgbox > .type-w.teaser-10439588.mgline > .image-with-text > .mcimg > [href]
+otakufr.co###AdskeeperComposite1142923_10dcf > div > .mgbox
+otakufr.co###M670496ScriptRootC1142923_01421
+pleinchamp.com###CybotCookiebotDialogBody
+pourdebon.com###didomi-popup
+redirect-ads.com###playback-fake
+sendvid.com###video-js-video > a[href="javascript:void(0)"][style*="z-index: 99999"]
+sibnet.ru###vjs-overlayclip-container-box
+video.sibnet.ru###vjs-overlayclip-box
+video.sibnet.ru###vjs-overlayclip-container-box
+video.sibnet.ru###vjs-overlayclip-container-box
+vostfree.com###ads
+wikipedia.org###mw-head:style(top: 0!important;)
+wikipedia.org###siteNotice
+wizcase.com###bio_ep
+wizcase.com###bio_ep_bg
+wondershare.*###gdprAgree
+www.bing.com###bnp\.nid\.63245
+www.bing.com###bnp\.nid\.63246
+www.bing.com###bnp\.nid\.63246
+www.crunchyroll.com###marketing_banner
+www.crunchyroll.com###message_box
+www.crunchyroll.com###onetrust-accept-btn-handler
+www.crunchyroll.com###onetrust-banner-sdk
+www.crunchyroll.com###onetrust-banner-sdk > .ot-sdk-container
+www.crunchyroll.com###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
+www.crunchyroll.com###onetrust-button-group-parent
+www.crunchyroll.com###onetrust-consent-sdk
+www.crunchyroll.com###onetrust-group-container
+www.crunchyroll.com###onetrust-policy
+www.crunchyroll.com###onetrust-policy-text
+www.crunchyroll.com###series_promo_banner
+www.grosbill.com###_ctl0_pop_up_cnil
+www.grosbill.com###_ctl0_pop_up_cnil > div
+www.lcd-compare.com###myModal
+www.leboncoin.fr###home-portal
+www.nautiljon.com###cgVideoPlayer
+www.nautiljon.com###community
 
 
 ||facebook.com/*/plugins/$domain=~facebook.com
@@ -2415,6 +2415,7 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 172.67.137.113
 
 
+@@||1fichier.com^$generichide
 @@||127.0.0.1:*/intel/*$xhr,domain=intel.fr
 @@||c.evidon.com^$script,domain=www.crunchyroll.com
 @@||cdn.cookielaw.org^$domain=crunchyroll.com
@@ -2443,6 +2444,7 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 @@||otakufr.co/wp-content/*$font,1p
 @@||sdk.privacy-center.org^$script,domain=www.leboncoin.fr
 @@||stackpath.bootstrapcdn.com^$domain=accounts.conrad.com
+@@||static.prod-cms.saurclient.fr^$font,domain=www.saurclient.fr
 @@||streamtape.com/ad.js
 @@||toonanime.cc/engine/editor/jscripts/froala/fonts/*$font,1p
 @@||toonanime.tv/engine/editor/jscripts/froala/fonts/fontawesome-webfont.woff2?v=4.5.0$domain=toonanime.tv
@@ -2473,4 +2475,5 @@ speedtest.net#@#+js(no-setTimeout-if, *)
 
 digitaltendances.com#@#img[class*="aligncenter"][src*=".jpg"]
 github.com#@#.social-count
+particuliers.engie.fr#@##backToTop:not(html):not(body)
 speedtest.net#@#.pure-u-custom-ad-skyscraper
