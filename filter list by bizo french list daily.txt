@@ -1612,6 +1612,8 @@ youtube.com##.video-annotations
 youtube.com##.ytp-ad-progress-list
 youtube.com##.ytp-cards-teaser
 youtube.com##.ytp-paid-content-overlay
+youtube.com##.ytp-pause-overlay
+youtube.com##.ytp-title-channel
 
 
 1fichier.com###cookie_box
@@ -2354,6 +2356,7 @@ redirect-ads.com##+js(window.open-defuser, /^/, 1)
 rutube.ru##+js(json-prune, cuepoints)
 rutube.ru##+js(set-constant, Object.prototype.appearance.forbid_seek, undefined)
 sibnet.ru##+js(no-setTimeout-if, Adblock)
+speedtest.net##+js(abort-on-property-read, _sp_)
 speedtest.net##+js(set-constant, isBlocked, false)
 streamtape.*##+js(abort-current-inline-script, document.createElement, 'script')
 streamtape.*##+js(abort-on-stack-trace, Math.random, /\st\.[a-zA-Z]*\s/)
