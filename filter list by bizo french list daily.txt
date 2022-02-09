@@ -202,10 +202,12 @@ _pagespeed_beacon?
 /px.gif?
 /rbicookiepolicy.
 /redirect?tid=$popup
+/resonance.js
 /rollbar.js
 /rss.gif
 /rss.png
 /rss15.
+/ruxitagentjs_
 /scroll-to-top/*
 /share-buttons/*
 /share-link/*
@@ -232,7 +234,9 @@ _pagespeed_beacon?
 /tm.cookie.js
 /toucanCookie.
 /track/alooma-
+/trustarchelper.js
 /ttgcookieconsent-
+/twitter_24x24.
 /um-gdpr.
 /video.counters.js
 /warnCookies.
@@ -274,6 +278,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 *##[class^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-height:1px!important)
 *##[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-height:1px!important)
 *##[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
+
 
 ##.a2a_button_facebook
 ##.a2a_button_twitter
@@ -359,6 +364,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.back-to-top:not(html):not(body)
 ##.back-top
 ##.bannerInformativaEU
+##.BeOpWidget
 ##.better-social-counter
 ##.bk-cookieBar
 ##.blockingAd
@@ -615,6 +621,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.js-cookie-disclaimer
 ##.js-cookie-notice
 ##.js-cookie-policy
+##.js-smart-ad
 ##.js-toast-cookies.js-component-toast.component-toast
 ##.js-twitter-share
 ##.jw-settings-sharing
@@ -683,6 +690,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.s-twitter
 ##.scrolltop
 ##.scrolltop:not(body):not(html)
+##.scrolltop:not(html):not(body)
 ##.sd_cookiespolicy
 ##.sd-sharing
 ##.sd-sharing-enabled
@@ -693,6 +701,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.share-bar
 ##.share-btn
 ##.share-button
+##.share-buttons
 ##.share-count
 ##.share-email
 ##.share-facebook
@@ -759,6 +768,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.zergnet-widget
 ##[aria-label="cookieconsent"]
 ##[class][data-sitename][data-header-version] > div[id^="detection-block"]
+##[data-ajax-newsletter-subscription-container]
 ##[href*=".smartadserver.com"]
 ##[href*="/afu.php"]
 ##[href*="facebook.com/sharer.php?"]
@@ -788,6 +798,10 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##a[href*="facebook.com/sharer/sharer.php?"]
 ##a[href*="friendlyduck.com/"]
 ##a[href^="//postlnk.com/"]
+##a[href^="//twitter.com/intent/tweet?"]
+##a[href^="//www.facebook.com/sharer.php?"]
+##A[href^="//www.linkedin.com/shareArticle?"]
+##a[href^="//www.linkedin.com/shareArticle?"]
 ##a[href^="http://twitter.com/share?"]
 ##a[href^="http://twitter.com/share"]
 ##a[href^="http://vk.com/share.php?"]
@@ -847,6 +861,10 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##div[button="share"]
 ##div[class^="cc-sharebuttons-"]
 ##div[class^="footer-social-"]
+##div[data-ad-name]
+##div[data-ad-playerid]
+##div[data-ad-provider]
+##div[data-ad]
 ##div[data-ng-controller="AcceptCookiesController"]
 ##div[id^="adtrue_tag"]
 ##div[id^="dfp-ad-"]
@@ -874,6 +892,9 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ###accept-cookies-div
 ###acceptCookie
 ###ad_blocker
+###ad-300_atf-label
+###ad-300_btf-label
+###ad-banner_atf-label
 ###adb-actived
 ###adb-enabled
 ###adb-enabled3
@@ -1386,6 +1407,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ###socialButtonOnPage
 ###socialHeader
 ###stdCookie
+###subscribe_email
 ###subscribe_newsletter:not(html):not(body)
 ###sun-cookieMessage
 ###sxc_confirmation
@@ -1451,6 +1473,7 @@ bing.com##body > div[id^="bnp.nid"]
 bing.com##div.hpl:nth-of-type(5)
 bing.com##html:style(overflow: auto !important)
 bing.com##html[style="overflow: hidden;"]:style(overflow: visible !important;)
+castorama.fr##a[href^="https://www.needhelp.com/projet.php?"]
 clipwatching.com##.cover
 clipwatching.com##.video_ad2_fadein
 clipwatching.com##div[style] + div:has([class="withoutbg left"] > h3[class="hide"])
@@ -1486,7 +1509,14 @@ google.fr##a[href^="https://www.googleadservices.com/pagead/aclk?"]
 guides.github.com##.sticky.js-toc.toc:style(position: absolute !important;)
 gum-gum-streaming.com##div.video-container > div
 help.github.com##.article-grid-toc-content:style(position: static !important;)
+hyipstats.net##.w-125px
+hyipstats.net##+js(no-fetch-if, adsbygoogle)
+hyipstats.net##+js(no-fetch-if, pagead2.googlesyndication.com)
 journaldugeek.com##.socialbar__container > .single__share > :not(.comments)
+lesnumeriques.com##.ln__a-dc
+lesnumeriques.com##.ln__m-shr
+lesnumeriques.com##.ln__sb__second > a[href^="/publicite/"]
+lesnumeriques.com##a[href^="/publicite/"]
 macg.co##body:style(overflow: visible !important;)
 microsoft.com##body:style(overflow: visible!important; padding-right: 0!important;)
 mon-espace.saurclient.fr##.sds-m-cookiebanner.sds-container
@@ -1573,6 +1603,11 @@ www.bing.com##.bnp_cookie_banner
 www.bing.com##.bnp_overlay_wrapper
 www.bing.com##.p2
 www.bricoman.fr##.fixed-full.q-dialog__backdrop
+www.castorama.fr##.dalipq.footerSocialLinks__FooterSocialLinkWrap-sc-9pd88l-0
+www.castorama.fr##a.gXXTfL.footerSocialLinks__FooterSocialLinkItem-sc-9pd88l-1
+www.castorama.fr##a.gXXTfL.footerSocialLinks__FooterSocialLinkItem-sc-9pd88l-1 > span > i
+www.castorama.fr##a.gXXTfL.footerSocialLinks__FooterSocialLinkItem-sc-9pd88l-1 > span > i > svg
+www.castorama.fr##a.gXXTfL.footerSocialLinks__FooterSocialLinkItem-sc-9pd88l-1 > span > i > svg > path
 www.crunchyroll.com##.cf.message-container
 www.crunchyroll.com##.cookie-setting-link
 www.crunchyroll.com##.cr-expo-banner
@@ -1974,6 +2009,7 @@ www.nautiljon.com###community
 ||statsforads.com^
 ||steadfastsystem.com^
 ||stizoolr.com^
+||syteapi.com^
 ||tagbom.com^
 ||tags.h12-media.com^
 ||tags.tiqcdn.com^
@@ -2002,7 +2038,6 @@ www.nautiljon.com###community
 ||yuhvjuedhcu.com^
 ||zikroarg.com^
 ||zunsoach.com^
-
 
 
 ||6sc.co^
@@ -2186,7 +2221,10 @@ $third-party,xmlhttprequest,domain=01fmovies.com|1377x.to|1fichier.com|1me.club|
 ||google-analytics.com/ga.js$script,redirect-rule=google-analytics.com/ga.js
 ||googleads.g.doubleclick.net/$xmlhttprequest,redirect-rule=nooptext
 ||googletagmanager.com/gtm.js$script,redirect-rule=googletagmanager.com/gtm.js
+||googletagservices.com/tag/js/gpt.js$script,redirect-rule=googletagservices_gpt.js
+||googletagservices.com/tag/js/gpt.js$script,redirect-rule=googletagservices.com/gpt.js
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js:5
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect-rule=googletagservices_gpt.js
 ||tags.tiqcdn.com/utag/*/prod/utag.js$script,redirect-rule=noopjs
 ||wakanim.tv/*/advertisement?idepisode=$xmlhttprequest,important,redirect-rule=noop-vmap1.0.xml
@@ -2446,6 +2484,7 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 @@||crunchyroll.com/versioned_assets/*$domain=crunchyroll.com
 @@||eum-eu-west-1.instana.io^$domain=accounts.conrad.com
 @@||eum.instana.io^$domain=accounts.conrad.com
+@@||fonts.googleapis.com^$stylesheet,domain=www.castorama.fr
 @@||gaz-tarif-reglemente.fr/content/dam/particuliers-gaz-tr/SitepublicTR/FooterV2/Icone_FB.jpg$image,1p
 @@||gaz-tarif-reglemente.fr/content/dam/particuliers-gaz-tr/SitepublicTR/FooterV2/Icone_YT.jpg$image,1p
 @@||github.com^$generichide
@@ -2461,6 +2500,7 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 @@||streamtape.com/ad.js
 @@||toonanime.cc/engine/editor/jscripts/froala/fonts/*$font,1p
 @@||toonanime.tv/engine/editor/jscripts/froala/fonts/fontawesome-webfont.woff2?v=4.5.0$domain=toonanime.tv
+@@||uptostream.com^$subdocument,csp=worker-src 'none'
 @@||upvid.$generichide
 @@||video.sibnet.ru/fonts/*$font
 @@||vostfree.tv/templates/Animix/fonts/*$font
@@ -2470,6 +2510,7 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 @@||www.google.*/search?$generichide
 @@||www.wakanim.tv/*/advertisement$xhr
 @@||www.wawacity.work^$font,domain=www.wawacity.work
+
 
 
 accounts.conrad.com#@#+js(set-constant, Document.prototype.interestCohort, 'undefined)
@@ -2488,6 +2529,10 @@ speedtest.net#@#+js(no-setTimeout-if, *)
 
 
 digitaltendances.com#@#img[class*="aligncenter"][src*=".jpg"]
+doc.ubuntu-fr.org#@#+js(no-setTimeout-if, *)
 github.com#@#.social-count
 particuliers.engie.fr#@##backToTop:not(html):not(body)
 speedtest.net#@#.pure-u-custom-ad-skyscraper
+
+
+@@/fontawesome-$font,domain=doc.ubuntu-fr.org
