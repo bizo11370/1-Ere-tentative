@@ -87,6 +87,7 @@ _pagespeed_beacon?
 /banner2.gif
 /batch/1/oe/*
 /batch/1/op/*
+/beacon?
 /bloackdas.js
 /blockadblock.$script,xmlhttprequest
 /blockAndInf.js
@@ -136,6 +137,7 @@ _pagespeed_beacon?
 /cookielaw.js
 /cookielawinfo.
 /cookieMonster.min.js
+/cookienotice.
 /cookieNotification.
 /cookieok.js
 /cookiepolicy_
@@ -178,12 +180,18 @@ _pagespeed_beacon?
 /footer-facebook.
 /footer-instagram.
 /footer-twitter.
+/footer/facebook.
+/footer/instagram-
+/footer/pinterest.
+/footer/twitter.
 /fp_cookie.
 /fuckadblock.$script
+/gdpr_footer.
 /gdpr-cookie-
 /gen_204?$image
 /gen_204?$ping
 /generate_204$image
+/google_tag_$script
 /google-adblock.
 /greenoaks.gif?
 /html/body/div[2]/div[1]
@@ -211,10 +219,12 @@ _pagespeed_beacon?
 /js/analytics.
 /js/counter.js
 /js/script-*.*.js$script,domain=domonosok.tk|haes.tech|hqq.to|porn-watch.ru
+/loi/imp?
 /matomo.js$domain=~github.com
 /mod_pagespeed_beacon?
 /newsletter-icon-
 /newsletter-icon.
+/newsletter/newsletter-
 /newsletter/structure/*
 /nonAdBlock/*
 /o_tealium.
@@ -230,6 +240,7 @@ _pagespeed_beacon?
 /px.gif?
 /rbicookiepolicy.
 /redirect?tid=$popup
+/referer/visitor/*
 /resonance.js
 /rollbar.js
 /rss.gif
@@ -241,6 +252,8 @@ _pagespeed_beacon?
 /share-link/*
 /sharedaddy/*$script
 /smarttag.js
+/smetrics.*/b/ss/*
+/smetrics.*/id?
 /social_icons/*
 /social-api.
 /social-buttons.
@@ -393,6 +406,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.addthis_toolbox
 ##.addtoany_list
 ##.addtoany_share_save_container
+##.AdHolder
 ##.AdInfo
 ##.ads_lb
 ##.ads-block-warning
@@ -400,6 +414,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.ads-left
 ##.ads-right
 ##.adsblocked
+##.adsbox
 ##.adsbygoogle
 ##.adsbyvli
 ##.adSense
@@ -425,6 +440,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.better-social-counter
 ##.bk-cookieBar
 ##.bloc-social
+##.block-newsletter:not(html):not(body)
 ##.blockingAd
 ##.bmj-cookie-noticebar-content
 ##.bottom_message
@@ -554,7 +570,9 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.cookieMessageDiv
 ##.cookieNotice
 ##.cookienotice-bar
+##.cookienotice-bar:not(body):not(html)
 ##.cookienotice-container
+##.cookienotice-content
 ##.CookieNotificationTopBar
 ##.cookieOptIn
 ##.cookiePolicy
@@ -649,6 +667,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.fb-share-button
 ##.fb-xfbml-parse-ignore
 ##.follow-block
+##.followUs
 ##.footer__back-to-top-button
 ##.footer__content-social
 ##.footer__links__social
@@ -671,6 +690,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.g1-socials-item-twitter
 ##.g1-teaser
 ##.gb_g.gb_ac.gb_gd
+##.gdpr_note
 ##.gdprLegalNotification
 ##.globalcookiepolicycontainer
 ##.gn-cookie-alert
@@ -698,6 +718,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.icon-instagram-circle
 ##.icon-pinterest
 ##.icon-rss
+##.icon-social
 ##.icon-twitter
 ##.icon-twitter-circle
 ##.icon-whatsapp
@@ -873,6 +894,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.sys_cc-cookies
 ##.tarteaucitronBeforeVisible
 ##.tc-bannière-confidentialité
+##.tc-privacy-banner
 ##.tc-privacy-overlay
 ##.test-adblock-overlay
 ##.to-top:not(html):not(body)
@@ -1073,7 +1095,6 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ###adBlockAlert
 ###adBlockAlertWrap
 ###adBlockDetect
-###adblockDetect
 ###AdBlockDialog
 ###adblocker_announce
 ###adblocker_message
@@ -1441,6 +1462,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ###foCookieNotice
 ###fondAdblock
 ###Footer_cookieLawBox
+###footer_tc_privacy
 ###footer-cookies
 ###footerCk
 ###fp_cookieMessageContainer
@@ -1594,6 +1616,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ###stdCookie
 ###subscribe_email
 ###subscribe_newsletter:not(html):not(body)
+###subscriptionModal:not(html):not(body)
 ###sun-cookieMessage
 ###sxc_confirmation
 ###taboola-ci-dessous-article-vignettes
@@ -1646,18 +1669,35 @@ short-ly.co,svetapple.sk,finya.de,makemoneywithurl.com,finchtechs.com,turkiyegaz
 amazon.*##.ewc-beacon.nav-flyout-body:style(top: 0 !important; height: 100% !important; border-bottom-color: rgb(202, 202, 202); !important; border-bottom-style: solid !important; border-bottom-width: 1px !important;)
 amazon.*##.nav-flyout-body.ewc-beacon:style(height: 100% !important;)
 amazon.*##body:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-top: 0 !important; margin-right: 0 !important;)
+amazon.*##div[data-slot="auto-sparkle-hsa-tetris"]
 amazon.fr##.a-link-normal[href*="&adId="]
 amazon.fr##.amzn-safe-frame-container
 amazon.fr##.maple-banner
+amazon.fr##[cel_widget_id*="-creative-desktop_loom-desktop-"]
 amazon.fr##[class*="-advertising-"]
+amazon.fr##[class*="-sponsored-"]
 amazon.fr##div[cel_widget_id*="_ad-placements-"]
 amazon.fr##div[cel_widget_id*="_SponsoredProducts"]
 amazon.fr##div[cel_widget_id^="adplacements:"]
 amazon.fr##div[cel_widget_id^="LEFT-SAFE_FRAME-"]
+amazon.fr##div[cel_widget_id="dpx-sponsored-products-detail_csm_instrumentation_wrapper"]
 amazon.fr##div[cel_widget_id="sp-rhf-desktop-carousel_desktop-rhf_0"]
+amazon.fr##div[data-cel-widget^="multi-card-creative-desktop_loom-desktop-top-slot_"]
 amazon.fr##div[data-cel-widget="sims-consolidated-4_csm_instrumentation_wrapper"]
 amazon.fr##div[id^="sp_detail"]
 amazon.fr##div[id^="sponsoredProducts"]
+anah.fr##.col-13 > .social-icons
+anah.fr##.col-13 > .social-icons > li
+anah.fr##.col-13 > .social-icons > li > [href="/rss.xml"]
+anah.fr##.col-13 > .social-icons > li > [href="https://dailymotion.com/agence-nationale-habitat"]
+anah.fr##.col-13 > .social-icons > li > [href="https://dailymotion.com/agence-nationale-habitat"] > [src="/typo3conf/ext/anah_site/Resources/Public/2019/assets/img/social/dailymotion.png"]
+anah.fr##.col-13 > .social-icons > li > [href="https://instagram.com/anah_officiel/"]
+anah.fr##.col-13 > .social-icons > li > [href="https://instagram.com/anah_officiel/"] > [src="/typo3conf/ext/anah_site/Resources/Public/2019/assets/img/social/instagram.png"]
+anah.fr##.col-13 > .social-icons > li > [href="https://linkedin.com/company/anah/"]
+anah.fr##.col-13 > .social-icons > li > [href="https://linkedin.com/company/anah/"] > [src="/typo3conf/ext/anah_site/Resources/Public/2019/assets/img/social/linkedin.png"]
+anah.fr##.col-13 > .social-icons > li > [href="https://twitter.com/ANAH_Officiel"]
+anah.fr##.col-13 > .social-icons > li > [href="https://twitter.com/ANAH_Officiel"] > [src="/typo3conf/ext/anah_site/Resources/Public/2019/assets/img/social/twitter.png"]
+anah.fr##div.flex:nth-of-type(1) > .col-13
 anime-planet.com##.pure-g > .pure-1 > .halo
 antimalwareserviceexecutable.co,antimalwareserviceexecutable.org,arnoldporter.com,auditmypc.com,blog.sucuri.net,braintropic.com,cernovich.com,collinmbarrett.com,copyblogger.com,coryrylan.com,digital.com,dqydj.com,ebikeschool.com,ehomerecordingstudio.com,eng.uber.com,formidable.com,gamingtoday.com,gasspouts.com,githubuniverse.com,intowindows.com,milcorp.com,mintpressnews.com,mnn.com,notlaura.com,octoverse.github.com,peerlyst.com,phickle.com,quartersnacks.com,realityblurred.com,recordedfuture.com,regroove.ca,rootreport.com,samharris.org,smartrecruiters.com,techtipsapp.com,tekrevue.com,theamericanscholar.org,theamphour.com,themefoxx.com,thetechhacker.com,thewonderweeks.com,utech-polyurethane.com,vice.com,warriortrading.com,wdc.com,wifinowevents.com,wmiproviderhost.com,wtfuh.com##.site-header:style(position: absolute !important;)
 aol.com##.maas-item:has-text(our Partners)
@@ -1672,12 +1712,19 @@ bing.com##.b_ad:remove()
 bing.com##.b_adLastChild
 bing.com##.b_algo:has(.b_textAdTitleLink)
 bing.com##.b_algo:has(p:matches-css-before(content: "Ad"))
+bing.com##.bnp_container
+bing.com##.bnp_content
+bing.com##.bnp_content_desc
 bing.com##.bnp_cookie_banner
+bing.com##.bnp_cookie_banner
+bing.com##.bnp_overlay_wrapper
 bing.com##.bottom_row
 bing.com##.ins_exp.tds
 bing.com##.moduleCont
 bing.com##.modules_wrapper
+bing.com##.p2
 bing.com##.pa_carousel_mlo
+bing.com##.ra_car_block
 bing.com##.share
 bing.com##.shareicon
 bing.com##.show_none.scroll_cont
@@ -1689,15 +1736,38 @@ bing.com##body > div[id^="bnp.nid"]
 bing.com##div.hpl:nth-of-type(5)
 bing.com##html:style(overflow: auto !important)
 bing.com##html[style="overflow: hidden;"]:style(overflow: visible !important;)
+bricoman.fr##.fixed-full.q-dialog__backdrop
+castorama.fr##.dalipq.footerSocialLinks__FooterSocialLinkWrap-sc-9pd88l-0
+castorama.fr##a.gXXTfL.footerSocialLinks__FooterSocialLinkItem-sc-9pd88l-1
+castorama.fr##a.gXXTfL.footerSocialLinks__FooterSocialLinkItem-sc-9pd88l-1 > span > i
+castorama.fr##a.gXXTfL.footerSocialLinks__FooterSocialLinkItem-sc-9pd88l-1 > span > i > svg
+castorama.fr##a.gXXTfL.footerSocialLinks__FooterSocialLinkItem-sc-9pd88l-1 > span > i > svg > path
 castorama.fr##a[href^="https://www.needhelp.com/projet.php?"]
+cdiscount.com##.jsNoPrdtBloc
+cdiscount.com##.regBloc
+cdiscount.com##div[class^="regBloc"]
 clipwatching.com##.cover
 clipwatching.com##.video_ad2_fadein
 clipwatching.com##div[style] + div:has([class="withoutbg left"] > h3[class="hide"])
+crunchyroll.com##.cf.message-container
+crunchyroll.com##.cookie-setting-link
 crunchyroll.com##.cr-expo-banner
+crunchyroll.com##.cr-expo-banner
+crunchyroll.com##.game-banner-container
+crunchyroll.com##.game-banner-wrapper
 crunchyroll.com##.message-container
+crunchyroll.com##.message-container
+crunchyroll.com##.ot-fade-in.onetrust-pc-dark-filter
+crunchyroll.com##.ot-sdk-columns.ot-sdk-eight
+crunchyroll.com##.ot-sdk-columns.ot-sdk-three
+crunchyroll.com##.ot-sdk-container
+crunchyroll.com##.ot-sdk-row
+crunchyroll.com##.small-margin-bottom.container-shadow.cf.white-wrapper.showmedia-submenu
+crunchyroll.com##.twitter-share-button
 crunchyroll.com##div#template_skin_leaderboard
 cuisineactuelle.fr##.magazineBlock
 cuisineactuelle.fr##.newsletterBlock
+cyberlink.com##.modal-open:style(overflow: auto !important;)
 docs.github.com##.article-grid-toc-content:style(position: static !important;)
 facebook.com##div[data-testid="cookie-policy-dialog"]
 fandom.com##.banner-notifications-placeholder
@@ -1733,8 +1803,11 @@ github.com##.vcard-names-container.py-3.js-sticky.js-user-profile-sticky-fields.
 github.com##.vcard-names-container.py-3.js-user-profile-sticky-fields.is-placeholder:style(height: 0 !important; visibility: hidden !important; display: none !important; width: auto !important;)
 github.com##html:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
 google.*##.uEierd
+google.*##[href^="https://googleadservices.com/pagead/aclk?"][href$="adurl="]:upward(3)
 google.*##a[href*="/aclk?"][data-al]:upward(2)
 google.com##div#bottomads
+google.fr##.HTjtHe
+google.fr##.jw8mI
 google.fr##[data-text-ad]
 google.fr##a[href^="https://www.googleadservices.com/pagead/aclk?"]
 guides.github.com##.sticky.js-toc.toc:style(position: absolute !important;)
@@ -1746,7 +1819,14 @@ help.github.com##.article-grid-toc-content:style(position: static !important;)
 hyipstats.net##.w-125px
 hyipstats.net##+js(no-fetch-if, adsbygoogle)
 hyipstats.net##+js(no-fetch-if, pagead2.googlesyndication.com)
+jeuxvideo.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
 journaldugeek.com##.socialbar__container > .single__share > :not(.comments)
+lcd-compare.com##.in.fade.modal-backdrop
+leboncoin.fr##.apn-na.crGigL.sc-bdVaJa
+leboncoin.fr##.styles_sideColumn__MyCwB
+leboncoin.fr##[href="https://leboncoin.fr/paiement-securise-vehicule/garantie-panne-mecanique"] > picture > ._1cnjm
+leboncoin.fr##*.sc-fgfRvd
+leboncoin.fr##*.sc-hZSUBg
 lesnumeriques.com##.ln__a-dc
 lesnumeriques.com##.ln__m-shr
 lesnumeriques.com##.ln__sb__second > a[href^="/publicite/"]
@@ -1763,8 +1843,14 @@ monprojet.anah.gouv.fr##a.icon
 monprojet.anah.gouv.fr##div.footer_column-mobile.footer_column:nth-of-type(2)
 monprojet.anah.gouv.fr##div.footer_column-mobile.footer_column:nth-of-type(2) > h4
 movavi.com##.top-popup-gdpr
+nautiljon.com##.follow
+nautiljon.com##.font-fb
+nautiljon.com##.font-tw
 nautiljon.com##.gad
+nautiljon.com##.nj
+nautiljon.com##[href="https://nautiljon.com/actualite/rss.php"] > .font-rss
 nvidia.com##.global-nav, .secondary-menu-slot, .subnav:style(position: relative !important; top: 0 !important;)
+nvidia.fr##[src="/content/DriverDownload-March2009/includes/fr/images/220x76_facebook.jpg"]
 ok.ru##.html5-vpl_info-panel
 otakufr.*##.widget_text.widget.widget_custom_html:has(script[src^="//platform.bidgear.com/ads.php"])
 otakufr.co##.container-1a8c1cd833239462a6dd2d93cd04e00e__img
@@ -1806,8 +1892,13 @@ razer.com##header:style(position: static !important;)
 redirect-ads.com##a[href][target="_blank"][onclick*="remove()"]
 rexel.fr##.disallow-cursor:style(cursor: unset !important;)
 rexel.fr##.modal-backdrop
+rueducommerce.fr##.is-open.micromodal-slide.modal
+rueducommerce.fr##.mfp-ready.mfp-auto-cursor.mfp-wrap
+rueducommerce.fr##.mfp-ready.mfp-bg
+rueducommerce.fr##.modal__overlay
 s.yimg.com##div
 saruch.co##hkejiu
+silicon.fr##.pop-in-workplace.pop-in.event-popin
 speedtest.net##.eot-box-wrapper > div.pure-g
 speedtest.net##.notification-container
 speedtest.net##.privacy-update
@@ -1834,6 +1925,9 @@ video.sibnet.ru##.vjs-overlayclip-box-close
 video.sibnet.ru##.vjs-share-button
 vvww.toonanime.cc##iframe:nth-of-type(3)
 waaw.to##.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links:style(display: block !important;)
+wakanim.tv##.css-1bch5xm.qc-cmp-cleanslate
+wakanim.tv##.nav-main_social
+wakanim.tv##div.footer-main_item:nth-of-type(6)
 wall.alphacoders.com##.ads-bottom-center-infinite.center
 wikihow.com##.adsbygoogle
 wikihow.com##.nav_icon:style(display: block !important;)
@@ -1842,67 +1936,6 @@ wikihow.com##.sticking > .altblock:style(position: relative !important; width: 6
 wikihow.com##.sticking:style(top: 0 !important;)
 wikihow.com##div.wh_ad_inner
 wordpress.com##body:style(padding-top: 0 !important;)
-www.anah.fr##.col-13 > .social-icons
-www.anah.fr##.col-13 > .social-icons > li
-www.anah.fr##.col-13 > .social-icons > li > [href="/rss.xml"]
-www.anah.fr##.col-13 > .social-icons > li > [href="https://twitter.com/ANAH_Officiel"]
-www.anah.fr##.col-13 > .social-icons > li > [href="https://twitter.com/ANAH_Officiel"] > [src="/typo3conf/ext/anah_site/Resources/Public/2019/assets/img/social/twitter.png"]
-www.anah.fr##.col-13 > .social-icons > li > [href="https://www.dailymotion.com/agence-nationale-habitat"]
-www.anah.fr##.col-13 > .social-icons > li > [href="https://www.dailymotion.com/agence-nationale-habitat"] > [src="/typo3conf/ext/anah_site/Resources/Public/2019/assets/img/social/dailymotion.png"]
-www.anah.fr##.col-13 > .social-icons > li > [href="https://www.instagram.com/anah_officiel/"]
-www.anah.fr##.col-13 > .social-icons > li > [href="https://www.instagram.com/anah_officiel/"] > [src="/typo3conf/ext/anah_site/Resources/Public/2019/assets/img/social/instagram.png"]
-www.anah.fr##.col-13 > .social-icons > li > [href="https://www.linkedin.com/company/anah/"]
-www.anah.fr##.col-13 > .social-icons > li > [href="https://www.linkedin.com/company/anah/"] > [src="/typo3conf/ext/anah_site/Resources/Public/2019/assets/img/social/linkedin.png"]
-www.anah.fr##div.flex:nth-of-type(1) > .col-13
-www.bing.com##.bnp_container
-www.bing.com##.bnp_content
-www.bing.com##.bnp_content_desc
-www.bing.com##.bnp_cookie_banner
-www.bing.com##.bnp_overlay_wrapper
-www.bing.com##.p2
-www.bricoman.fr##.fixed-full.q-dialog__backdrop
-www.castorama.fr##.dalipq.footerSocialLinks__FooterSocialLinkWrap-sc-9pd88l-0
-www.castorama.fr##a.gXXTfL.footerSocialLinks__FooterSocialLinkItem-sc-9pd88l-1
-www.castorama.fr##a.gXXTfL.footerSocialLinks__FooterSocialLinkItem-sc-9pd88l-1 > span > i
-www.castorama.fr##a.gXXTfL.footerSocialLinks__FooterSocialLinkItem-sc-9pd88l-1 > span > i > svg
-www.castorama.fr##a.gXXTfL.footerSocialLinks__FooterSocialLinkItem-sc-9pd88l-1 > span > i > svg > path
-www.crunchyroll.com##.cf.message-container
-www.crunchyroll.com##.cookie-setting-link
-www.crunchyroll.com##.cr-expo-banner
-www.crunchyroll.com##.game-banner-container
-www.crunchyroll.com##.game-banner-wrapper
-www.crunchyroll.com##.message-container
-www.crunchyroll.com##.ot-fade-in.onetrust-pc-dark-filter
-www.crunchyroll.com##.ot-sdk-columns.ot-sdk-eight
-www.crunchyroll.com##.ot-sdk-columns.ot-sdk-three
-www.crunchyroll.com##.ot-sdk-container
-www.crunchyroll.com##.ot-sdk-row
-www.crunchyroll.com##.small-margin-bottom.container-shadow.cf.white-wrapper.showmedia-submenu
-www.crunchyroll.com##.twitter-share-button
-www.google.*##[href^="https://www.googleadservices.com/pagead/aclk?"][href$="adurl="]:upward(3)
-www.google.fr##.HTjtHe
-www.google.fr##.jw8mI
-www.jeuxvideo.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
-www.lcd-compare.com##.in.fade.modal-backdrop
-www.leboncoin.fr##.apn-na.crGigL.sc-bdVaJa
-www.leboncoin.fr##.styles_sideColumn__MyCwB
-www.leboncoin.fr##[href="https://www.leboncoin.fr/paiement-securise-vehicule/garantie-panne-mecanique"] > picture > ._1cnjm
-www.leboncoin.fr##*.sc-fgfRvd
-www.leboncoin.fr##*.sc-hZSUBg
-www.nautiljon.com##.follow
-www.nautiljon.com##.font-fb
-www.nautiljon.com##.font-tw
-www.nautiljon.com##.nj
-www.nautiljon.com##[href="https://www.nautiljon.com/actualite/rss.php"] > .font-rss
-www.nvidia.fr##[src="/content/DriverDownload-March2009/includes/fr/images/220x76_facebook.jpg"]
-www.rueducommerce.fr##.is-open.micromodal-slide.modal
-www.rueducommerce.fr##.mfp-ready.mfp-auto-cursor.mfp-wrap
-www.rueducommerce.fr##.mfp-ready.mfp-bg
-www.rueducommerce.fr##.modal__overlay
-www.silicon.fr##.pop-in-workplace.pop-in.event-popin
-www.wakanim.tv##.css-1bch5xm.qc-cmp-cleanslate
-www.wakanim.tv##.nav-main_social
-www.wakanim.tv##div.footer-main_item:nth-of-type(6)
 youtube-nocookie.com,youtube.com##.ytp-pause-overlay, .show-video-thumbnail-button, #rvid
 youtube.com##.annotation.iv-branding
 youtube.com##.share-panel-services, .ytp-button.ytp-share-button
@@ -1937,14 +1970,29 @@ bing.com###b_opalpers, #miniheader
 bing.com###b_pole
 bing.com###b_results > li[style]:not([class])
 bing.com###b_results:xpath(//span[(text()='d') or (text()='n')]):upward(5)
+bing.com###bnp\.nid\.63245
+bing.com###bnp\.nid\.63246
 bing.com###scroll_cont
 clipwatching.com###coverAds
 clipwatching.com###showmac
 cn.bing.com###b_results > li:has(:scope > h2 + .b_caption > div.b_attribution:not([u]) + p[class])
 combien-coute.net###sd-cmp
 crunchyroll.com###footer ~ .opt-in[data-role="opt-in-banner"]
+crunchyroll.com###marketing_banner
+crunchyroll.com###message_box
+crunchyroll.com###onetrust-accept-btn-handler
+crunchyroll.com###onetrust-banner-sdk
+crunchyroll.com###onetrust-banner-sdk > .ot-sdk-container
+crunchyroll.com###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
+crunchyroll.com###onetrust-button-group-parent
+crunchyroll.com###onetrust-consent-sdk
+crunchyroll.com###onetrust-group-container
+crunchyroll.com###onetrust-policy
+crunchyroll.com###onetrust-policy-text
+crunchyroll.com###series_promo_banner
 crunchyroll.com###template_skin_leaderboard
 cuisineaz.com###advi
+cyberlink.com###gdpr_note
 digitaltendances.com###content-main [href="https://digitaltendances.com/telechargement/meilleurs-jeux-gratuits-android-ios-sans-wifi-internet/"]
 digitaltendances.com###content-main [href="https://digitaltendances.com/telechargement/meilleurs-sites-streaming-films-series-vf-vostfr-gratuit/"]
 digitaltendances.com###content-main [href="https://digitaltendances.com/tutoriels/top-meilleurs-animes-manga-japonais-plus-populaires/"]
@@ -1970,14 +2018,20 @@ google.fr###tadsb
 google.fr###tadsb[aria-label]
 google.fr###taw > div > [data-ved]
 gounlimited.to###adbd
+grosbill.com###_ctl0_pop_up_cnil
+grosbill.com###_ctl0_pop_up_cnil > div
 gum-gum-streaming.com###ggs_offer
 journaldugeek.com###js-single-content > .single__share > :not(.single__share__alert)
+lcd-compare.com###myModal
+leboncoin.fr###home-portal
 manga-news.com###ban970250
 manga-news.com###block-up
 microsoft.com###cookie-prompt, #epb, .m-back-to-top, .site-survey-opener
 microsoft.com###email-newsletter-dialog
 microsoft.com###epb
 microsoft.com###uhfCookieAlert
+nautiljon.com###cgVideoPlayer
+nautiljon.com###community
 nvidia.com###cookiePolicy-layer
 nvidia.com###page-content, .m-t-60:style(margin-top: 0 !important;)
 otaku-attitude.net###smart-bann
@@ -2022,31 +2076,12 @@ wikipedia.org###siteNotice
 wizcase.com###bio_ep
 wizcase.com###bio_ep_bg
 wondershare.*###gdprAgree
-www.bing.com###bnp\.nid\.63245
-www.bing.com###bnp\.nid\.63246
-www.crunchyroll.com###marketing_banner
-www.crunchyroll.com###message_box
-www.crunchyroll.com###onetrust-accept-btn-handler
-www.crunchyroll.com###onetrust-banner-sdk
-www.crunchyroll.com###onetrust-banner-sdk > .ot-sdk-container
-www.crunchyroll.com###onetrust-banner-sdk > .ot-sdk-container > .ot-sdk-row
-www.crunchyroll.com###onetrust-button-group-parent
-www.crunchyroll.com###onetrust-consent-sdk
-www.crunchyroll.com###onetrust-group-container
-www.crunchyroll.com###onetrust-policy
-www.crunchyroll.com###onetrust-policy-text
-www.crunchyroll.com###series_promo_banner
-www.grosbill.com###_ctl0_pop_up_cnil
-www.grosbill.com###_ctl0_pop_up_cnil > div
-www.lcd-compare.com###myModal
-www.leboncoin.fr###home-portal
-www.nautiljon.com###cgVideoPlayer
-www.nautiljon.com###community
 youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.annotation-type-custom.annotation, .ytp-promotooltip-wrapper
 
 
 ||d1ev866ubw90c6.cloudfront.net^
 ||d1f05vr3sjsuy7.cloudfront.net^
+||d1lxz4vuik53pc.cloudfront.net^
 ||d2kk0o3fr7ed01.cloudfront.net^
 ||d2klx87bgzngce.cloudfront.net^
 ||d3bch4rrbnbe5n.cloudfront.net^
@@ -2134,6 +2169,7 @@ youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.anno
 
 ||addtoany.com^$3p
 ||adleadevent.com^$3p
+||adnxs-simple.com^$3p
 ||adskeeper.com^$3p
 ||adtrue.com^$3p
 ||advarkads.com^$3p
@@ -2230,6 +2266,7 @@ youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.anno
 ||9a67bd5b1f091.com^
 ||27ceb2d5631623.com^
 ||33across.com^
+||a.klaviyo.com^
 ||abgligarchan.com^
 ||abtasty.com^
 ||acdcdn.com^
@@ -2251,6 +2288,7 @@ youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.anno
 ||api-cf.affirm.com^
 ||arbaloseyepit.com^
 ||asccdn.com^
+||bat.bing.com^
 ||batch.com^
 ||bats.video.yahoo.com^
 ||bc.marfeelcache.com^
@@ -2280,6 +2318,7 @@ youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.anno
 ||collector.githubapp.com^
 ||colonistnobilityheroic.com^
 ||consent.cmp.oath.com^
+||consent.cookiebot.com^
 ||cowardlymissinggranulated.com^
 ||cpmstar.com^
 ||criteo.com^
@@ -2318,9 +2357,12 @@ youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.anno
 ||google-analytics.com^
 ||greatdexchange.com^
 ||grubsoan.com^
+||guce.advertising.com^
 ||h12-media.com^
 ||hemquotedchamber.com^
 ||highperformancecpm.com^
+||hs-scripts.com^
+||hugedomains.com^
 ||iadvize.com^
 ||iiueuenutuhaf.com^
 ||illishrastus.com^
@@ -2382,19 +2424,23 @@ youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.anno
 ||s10.histats.com^
 ||sb.scorecardresearch.com^
 ||scorecardresearch.com^
+||script.crazyegg.com^
 ||securite.01net.com^
 ||server.cpmstar.com^
 ||skimegcolder.com^
+||smartadserver.com^
 ||smetrics.nvidia.com^
 ||speedcurve.com^
 ||sstatic1.histats.com^
 ||st.chatango.com^
+||static-tracking.klaviyo.com^
 ||static.hotjar.com^
 ||stats.wp.com^
 ||statsforads.com^
 ||steadfastsystem.com^
 ||stizoolr.com^
 ||syteapi.com^
+||taboola.com^
 ||tagbom.com^
 ||tags.h12-media.com^
 ||tags.tiqcdn.com^
@@ -2404,6 +2450,7 @@ youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.anno
 ||tipcatscarola.com^
 ||tiqcdn.com^
 ||tnzjsphdird.com^
+||tracking.cdiscount.com^
 ||uhqpnhorurueku.com^
 ||uptimecdn.com^
 ||usounoul.com^
@@ -2413,16 +2460,13 @@ youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.anno
 ||vlitag.com^
 ||vortex.data.microsoft.com^
 ||w.usabilla.com^
+||w3counter.com^
 ||waisheph.com^
 ||widgets.outbrain.com^
 ||wistia.com^
 ||wkcuhilbg.com^
 ||wpadmngr.com^
 ||wtbevents.pricespider.com^
-||www.hugedomains.com^
-||www.smartadserver.com^
-||www.taboola.com^
-||www.w3counter.com^
 ||xiti.com
 ||xpbbyiqbcawamy.com^
 ||your-notice.com^
@@ -2490,6 +2534,7 @@ youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.anno
 ||ausoafab.net^
 ||az416426.vo.msecnd.net^
 ||clickserve.dartsearch.net^
+||contentsquare.net^
 ||criteo.net^
 ||devtools.azureedge.net^
 ||dm-event.net^
@@ -2524,7 +2569,6 @@ youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.anno
 ||log.rutube.ru^
 ||mc.yandex.ru^
 ||tns-counter.ru^
-||www.tns-counter.ru^
 ||yadro.ru^
 
 
@@ -2537,6 +2581,7 @@ $third-party,xmlhttprequest,domain=01fmovies.com|1377x.to|1fichier.com|1me.club|
 ||adsco.re^
 ||affirm.com/api/v2/cookie_sent
 ||amazon.*/action-impressions/
+||anah.fr/typo3conf/ext/anah_site/Resources/Public/2019/assets/img/social/rss.png
 ||aol.com/beacons/
 ||aolcdn.com/ads/
 ||bdgest.com/habillages/
@@ -2554,8 +2599,10 @@ $third-party,xmlhttprequest,domain=01fmovies.com|1377x.to|1fichier.com|1me.club|
 ||cloudfront.net/events
 ||connect.facebook.net^
 ||connect.facebook.net^$3p,domain=~facebook.com|~fb.com
+||crunchyroll.com/favicons/site.webmanifest$other,domain=www.crunchyroll.com
 ||crunchyroll.com/tracker
 ||crunchyroll.com/versioned_assets/js/tracking^
+||cyberlink.com/prog/util/web-notification
 ||dailymotion.com/logger/*?session_id=
 ||dailymotion.com^*/log/
 ||dmcdn.net/behavior/
@@ -2567,6 +2614,7 @@ $third-party,xmlhttprequest,domain=01fmovies.com|1377x.to|1fichier.com|1me.club|
 ||fls-*.amazon.
 ||freychang.fun^
 ||github.com/_private/browser/stats
+||google.*/velog/
 ||google.com/favicon.ico$popup
 ||guideforwindows.top^$3p
 ||hubvisor.io^
@@ -2582,6 +2630,7 @@ $third-party,xmlhttprequest,domain=01fmovies.com|1377x.to|1fichier.com|1me.club|
 ||img.leboncoin.fr/api/v1/lbcpb5/images/0b2ad893-b25f-4fc8-bec3-f44a206e835a$image
 ||jwpcdn.com/player/plugins/googima/
 ||jwpcdn.com/player/plugins/googima/$script
+||ki-oon.com/medias/fond/image-1624372343.jpg$image
 ||licdn.com/*li.lms-analytics/
 ||linkedin.com/countserv/$3p
 ||m.stripe.network^
@@ -2589,6 +2638,7 @@ $third-party,xmlhttprequest,domain=01fmovies.com|1377x.to|1fichier.com|1me.club|
 ||messenger-notify.digital^$popup
 ||microsoft.com/mscc/
 ||modlogypr.biz^
+||nautiljon.com/pub/bg.php$image
 ||neko-san.fr/stats
 ||netu.tv/js/restore_googl.js
 ||ninjastream.to/js/lib.js
@@ -2620,20 +2670,16 @@ $third-party,xmlhttprequest,domain=01fmovies.com|1377x.to|1fichier.com|1me.club|
 ||upstream.to/js/kaltura.js
 ||video.sibnet.ru/my/settings/*
 ||vortex.data.microsoft.com/collect
+||wakanim.tv/manifest.json$other,domain=www.wakanim.tv
 ||wikihow.com/ev/
 ||wikihow.com/x/collect?
-||www.anah.fr/typo3conf/ext/anah_site/Resources/Public/2019/assets/img/social/rss.png
-||www.crunchyroll.com/favicons/site.webmanifest$other,domain=www.crunchyroll.com
-||www.google.*/velog/
-||www.ki-oon.com/medias/fond/image-1624372343.jpg$image
-||www.nautiljon.com/pub/bg.php$image
-||www.wakanim.tv/manifest.json$other,domain=www.wakanim.tv
-||www.youtube.com/youtubei/*/log_event$xmlhttprequest
-||www.zupimages.net/up/22/07/oss1.png$image
 ||yahoo.com/p?
 ||yimg.com/cx/vzm/cs.js
 ||youtube.com/*_204
 ||youtube.com/api/stats/qoe?
+||youtube.com/youtubei/*/log_event$xmlhttprequest
+||zupimages.net/up/22/07/oss1.png$image
+
 
 
 ||*$script,redirect-rule=empty,domain=streamzz.*|streamz.vg
@@ -2684,6 +2730,8 @@ $third-party,xmlhttprequest,domain=01fmovies.com|1377x.to|1fichier.com|1me.club|
 ||amazon.$removeparam=pd_rd_wg
 ||amazon.$removeparam=pf_rd_p
 ||amazon.$removeparam=pf_rd_r
+||amazon.$removeparam=qid
+||amazon.$removeparam=ref
 ||amazon.$removeparam=visitId
 
 
@@ -2935,8 +2983,11 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 @@||127.0.0.1:*/intel/*$xhr,domain=intel.fr
 @@||adobedtm.com^*/launch-$script
 @@||amazon.*/*uedata$image,1p
+@@||bing.com/search$popup
 @@||bing.com^$generichide
 @@||c.evidon.com^$script,domain=www.crunchyroll.com
+@@||cdiscount.com/Js/tracking/*$domain=www.cdiscount.com
+@@||cdiscount.com^$script,domain=www.cdiscount.com
 @@||cdn.cookielaw.org^$domain=crunchyroll.com
 @@||cdn.cookielaw.org^$script,domain=www.crunchyroll.com
 @@||cdn.cookielaw.org^$xhr,domain=www.crunchyroll.com
@@ -2944,6 +2995,7 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 @@||cdnjs.cloudflare.com/ajax/*$script,domain=www.canon.fr
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/*$script,domain=www.msi.com
 @@||cdnjs.cloudflare.com^$domain=dood.la
+@@||cdnjs.cloudflare.com^$script,domain=cedeo.fr
 @@||cdnjs.cloudflare.com^$script,domain=dood.so
 @@||cdnjs.cloudflare.com^$script,domain=parisanime.com
 @@||cdnjs.cloudflare.com^$script,domain=www.easylounge.com
@@ -2954,22 +3006,26 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 @@||cloudfront.net^$font,3p,domain=www.son-video.com
 @@||crunchyroll.com/versioned_assets/*$domain=crunchyroll.com
 @@||dev.visualwebsiteoptimizer.com^$script,domain=www.wakanim.tv
+@@||dz-techs.com/wp-content/themes/publisher/includes/libs/better-framework/assets/fonts/fontawesome-webfont.woff2$font,domain=www.dz-techs.com
 @@||eum-eu-west-1.instana.io^$domain=accounts.conrad.com
 @@||eum.instana.io^$domain=accounts.conrad.com
 @@||fonts.googleapis.com^$stylesheet,domain=www.castorama.fr
 @@||gaz-tarif-reglemente.fr/content/dam/particuliers-gaz-tr/SitepublicTR/FooterV2/Icone_FB.jpg$image,1p
 @@||gaz-tarif-reglemente.fr/content/dam/particuliers-gaz-tr/SitepublicTR/FooterV2/Icone_YT.jpg$image,1p
 @@||github.com^$generichide
+@@||google.*/search?$generichide
 @@||google.com/recaptcha/$script
 @@||google.com/recaptcha/$subdocument,csp
 @@||gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js$script
 @@||gstatic.com/cv/js/sender/v1/cast_sender.js$script
 @@||gstatic.com/recaptcha/$script
 @@||image.jeuxvideo.com^$image,domain=jeuxvideo.com
+@@||js.stripe.com^$script,domain=manomano.fr
 @@||mdphenligne.cnsa.fr^$font,1p
 @@||otakufr.co/wp-content/*$font,1p
 @@||sdk.privacy-center.org^$domain=jeuxvideo.com
 @@||sdk.privacy-center.org^$script,domain=www.leboncoin.fr
+@@||sentry.io^$xhr,domain=manomano.fr
 @@||stackpath.bootstrapcdn.com^$domain=accounts.conrad.com
 @@||static.jvc.gg^$script,domain=jeuxvideo.com
 @@||static.jvc.gg^$stylesheet,domain=jeuxvideo.com
@@ -2982,16 +3038,11 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 @@||upvid.$generichide
 @@||video.sibnet.ru/fonts/*$font
 @@||vostfree.tv/templates/Animix/fonts/*$font
+@@||vpnbook.com^$1p
+@@||wakanim.tv/*/advertisement$xhr
 @@||wakanim.tv/fr/v2/*$domain=wakanim.tv
-@@||www.bing.com/search$popup
-@@||www.cdiscount.com/Js/tracking/*$domain=www.cdiscount.com
-@@||www.cdiscount.com^$script,domain=www.cdiscount.com
-@@||www.dz-techs.com/wp-content/themes/publisher/includes/libs/better-framework/assets/fonts/fontawesome-webfont.woff2$font,domain=www.dz-techs.com
-@@||www.google.*/search?$generichide
-@@||www.vpnbook.com^$1p
-@@||www.wakanim.tv/*/advertisement$xhr
-@@||www.wawacity.blue/assets/fonts/*$font,1p
-@@||www.wawacity.work^$font,domain=www.wawacity.work
+@@||wawacity.blue/assets/fonts/*$font,1p
+@@||wawacity.work^$font,domain=www.wawacity.work
 
 
 accounts.conrad.com#@#+js(set-constant, Document.prototype.interestCohort, 'undefined)
@@ -3012,12 +3063,13 @@ www.bdgest.com#@#+js(no-setTimeout-if, *)
 #@#div[id^="div-gpt-"]
 
 
+cedeo.fr#@#+js(no-setTimeout-if, *)
 digitaltendances.com#@#img[class*="aligncenter"][src*=".jpg"]
 doc.ubuntu-fr.org#@#+js(no-setTimeout-if, *)
 github.com#@#.social-count
+idealo.fr#@#+js(no-setTimeout-if, *)
 particuliers.engie.fr#@##backToTop:not(html):not(body)
 speedtest.net#@#.pure-u-custom-ad-skyscraper
-www.idealo.fr#@#+js(no-setTimeout-if, *)
 
 
 @@/fontawesome-$font,domain=doc.ubuntu-fr.org
