@@ -11,6 +11,23 @@ _pagespeed_beacon?
 -cookie-law-popup.
 -share-buttons3/
 -sociaux.$domain=~centres-sociaux.fr
+=ads_top&rand
+=comscoreadobedpvcall&
+=DIV_DA_$script
+=eulerian&
+=getsidestats&
+=googleanalytics_
+=metrics_profile&
+=pageimpression&
+=propellerads$popup
+=recreativ&utm_medium=$popup
+=stats&action=
+=stats&apiversion=
+=tovarro&utm_campaign=$popup
+=ws://*?pool=
+=ws://*?pools=
+=wss://*?pool=
+=wss://*?pools=
 ://ads2.
 ://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.bestprints.biz|~ads.bigbom.com|~ads.brave.com|~ads.buscaempresas.co|~ads.cableidp.jp|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.d2c.ne.jp|~ads.dev.int.revelian.com|~ads.dollartree.com|~ads.elcarado.com|~ads.gambinoslot.com|~ads.google.com|~ads.gree.net|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kazakh-zerno.net|~ads.lapalingo.com|~ads.listonic.com|~ads.lordlucky.com|~ads.magalu.com|~ads.mba|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.selfip.com|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.typepad.jp|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
 ://counter.
@@ -77,6 +94,7 @@ _pagespeed_beacon?
 /adservice.$domain=~adservice.io
 /akam/11/*
 /amp-ad-
+/amp-auto-ads-
 /analytics/layer
 /analyticsmediator.
 /antiadblockmsg.
@@ -93,6 +111,7 @@ _pagespeed_beacon?
 /blockAndInf.js
 /blockblock.jquery.
 /blogads.
+/busting/*/gtm-
 /cdn-cgi/bm/cv/*
 /cdn-cgi/bm/cv/*$script
 /cdn-cgi/rum?
@@ -173,6 +192,7 @@ _pagespeed_beacon?
 /eu-cookie-
 /EUCookieDirective.
 /eucookielaw.js$script
+/event-tracking/*
 /ezcl.webp?
 /favicon.ico$image,3p,domain=~streameast.live|~apple.com|~douban.com|~bahn.de|~winfuture.de|~bt.com|~ebay.com.au|~ebay.com|~ebay.co.uk|~go.com|~github.com|~microsoft.com|~stackexchange.com|~stackoverflow.com|~askubuntu.com|~reddit.com|~4chan.org|~twitter.com|~live.com|~espn.com|~yahoo.com
 /fontawesome-*$font
@@ -188,6 +208,7 @@ _pagespeed_beacon?
 /fuckadblock.$script
 /gdpr_footer.
 /gdpr-cookie-
+/gen204?
 /gen_204?$image
 /gen_204?$ping
 /generate_204$image
@@ -205,6 +226,7 @@ _pagespeed_beacon?
 /icone_fb.
 /icone_yt.
 /icons/social-
+/images/share.
 /images/social/*
 /img/banner/*$domain=~almicro.ru|~belby.by|~chitai-gorod.ru|~frosbyte.org|~fvds.ru|~gostas-klimat.ru|~imhonet.ru|~megabitschool.ru|~miralin.ru|~mts.ru|~mtsbank.ru|~stavsalut.hostcrm.ru|~themelooks.org|~vavlab.ru|~webnames.ru|~xn-----6kcvbohzccf5ajf4a7e.xn--p1ai
 /img/fb.
@@ -232,11 +254,13 @@ _pagespeed_beacon?
 /optimizely-
 /perf-vitals_
 /piwik.js
+/pixel.gif?
 /plugins/CookieInfo/*
 /plugins/popup-maker/*$script,domain=~tracktion.com
 /popup/adblocker
 /porpoiseant/*
 /prebid.$domain=~prebid.org
+/production/ads/*
 /px.gif?
 /rbicookiepolicy.
 /redirect?tid=$popup
@@ -263,6 +287,7 @@ _pagespeed_beacon?
 /social-likes.
 /social-likes.min.js$domain=~animego.org|~zastenchivosti.net|~gorod-812.ru|~sputnik.by|~sputnik-news.ee|~animalreader.ru|~ichip.ru|~keddr.com|~kino-max.com|~kino24x7.com|~make-3d.ru|~miuipro.ru|~omelchuck.ru|~podfm.ru|~serial-online.com|~sputniknews.com|~trinixy.ru|~kinogo-kinopoisk.net|~bobfilm-online.ru|~westernfilm.ru|~bobfilm.tv|~kinokrik.net|~kinogo720.net|~kinogo-net-co.ru|~kinoklad.net|~intex-press.by|~kino-max.org|~farming-simulator15.ru|~trikky.ru|~trv-science.ru|~unzensuriert.at|~lizaalert.beeline.ru|~megapolisonline.ru|~sputniknews.ru|~miuipro.info|~sputnik.kg|~1prime.ru|~mobnovelty.ru
 /social-media-icons/*
+/social-warfare/*
 /social/fb_
 /social/instagram.
 /social/twitter_
@@ -290,6 +315,7 @@ _pagespeed_beacon?
 /warnCookies.
 /wdbloogablock.js
 /web-vitals/*
+/wf-beacon-
 /wp-content/plugins/ad-block-defender/*
 /wp-content/plugins/add-to-any/addtoany.min.
 /wp-content/plugins/cookie-law-info/*$domain=~wmagazine.com|~moneytoplist.com
@@ -324,7 +350,9 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 
 
 *##.div-gpt-ad:style(width:1px!important;height:1px!important;min-height:1px!important;)
+*##.div-gpt-ad:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
 *##[class^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-height:1px!important)
+*##[class^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
 *##[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-height:1px!important)
 *##[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
 
@@ -401,6 +429,8 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.adblockOverlay
 ##.adBlockWarning
 ##.adContent
+##.addthis_button_compact
+##.addthis_default_style
 ##.addthis_inline_share_toolbox
 ##.addthis_sharing_toolbox
 ##.addthis_toolbox
@@ -434,6 +464,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.back-to-top:not(body):not(html)
 ##.back-to-top:not(html):not(body)
 ##.back-top
+##.backtotop
 ##.bannerInformativaEU
 ##.barre sociale
 ##.BeOpWidget
@@ -617,284 +648,34 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.dispositifAdblockMessageBox
 ##.divascookies
 ##.divCookiePopUp
-##.divCookiePopUpContainer
-##.elementor-popup-modal.dialog-widget
-##.elementor-social-icon
-##.elementor-social-icons-wrapper
-##.elementor-widget-social-icons
-##.entry-share
-##.epson_cookienotice
-##.essb_item
-##.essb_link_pinterest
-##.essb_link_twitter
-##.essb_links
-##.essb_links_list
-##.essb_share
-##.eu-cookie-notice
-##.euCookie
-##.eucookie_disclaimer
-##.euCookies
-##.evidon-banner
-##.ezmob-footer
-##.ezo_ad
-##.ezoic-ad
-##.ezoic-floating-bottom
-##.fa-crayon-carré-o
-##.fa-facebook
-##.fa-facebook-carré
-##.fa-facebook-f
-##.fa-facebook-square
-##.fa-google
-##.fa-google-plus
-##.fa-instagram
-##.fa-linkedin
-##.fa-pinterest
-##.fa-pinterest-p
-##.fa-reddit
-##.fa-rss
-##.fa-tumblr
-##.fa-twitter
-##.fa-twitter-carré
-##.fa-twitter-square
-##.fa-youtube
-##.fa-youtube-play
-##.facebook
-##.facebook-follow
-##.facebook-share-btn
-##.fb-like
-##.fb-like-button
-##.fb-page
-##.fb-share-button
-##.fb-xfbml-parse-ignore
-##.follow-block
-##.followUs
-##.footer__back-to-top-button
-##.footer__content-social
-##.footer__links__social
-##.footer__social
-##.footer__subscribe
-##.footer-cookies-policy
-##.footer-social
-##.footer-social-wrap
-##.footer-socials-section
-##.form-subscribe:not(html):not(body)
-##.fr.cookies-autoriser
-##.fuckYouAdBlock
-##.fuckYouAdBlock2
-##.future-cookie-bar
-##.g-plusone
-##.g1-drop-the-socials
-##.g1-haut de page
-##.g1-socials-item
-##.g1-socials-item-facebook
-##.g1-socials-item-twitter
-##.g1-teaser
-##.gb_g.gb_ac.gb_gd
-##.gdpr_note
-##.gdprLegalNotification
-##.globalcookiepolicycontainer
-##.gn-cookie-alert
-##.go-to-top
-##.go-to-top-button
-##.go-to-top:not(html):not(body)
-##.grdp-popup
-##.grecaptcha-badge
-##.header-annonce
-##.header-blocked-ad
-##.header-cookie-content
-##.header-facebook
-##.header-social
-##.header-social-item
-##.header-social-wrap
-##.header-twitter
-##.headerCookie
-##.icon_facebook
-##.icon_twitter
-##.icon-facebook
-##.icon-facebook-circle
-##.icon-google-plus-circle
-##.icon-gplus
-##.icon-instagram
-##.icon-instagram-circle
-##.icon-pinterest
-##.icon-rss
-##.icon-social
-##.icon-twitter
-##.icon-twitter-circle
-##.icon-whatsapp
-##.icon-youtube
-##.icon-youtube-circle
-##.icone-rss
-##.icône-sociale
-##.infoCookies
-##.inner-header-social
-##.jobnotice_cnt
-##.js-annonce-whitelist-notice
-##.js-checkad-warning
-##.js-cookie-conformité
-##.js-cookie-disclaimer
-##.js-cookie-notice
-##.js-cookie-policy
-##.js-smart-ad
-##.js-toast-cookies.js-component-toast.component-toast
-##.js-twitter-partager
-##.js-twitter-share
-##.jw-settings-sharing
-##.jw-sous-menu-partage
-##.jw-submenu-sharing
-##.jw8mI
-##.kill-adblock-container
-##.large-share-button
-##.lien-social-facebook
-##.liens-sociaux
-##.linkedin
-##.list-inline.social
-##.liste-sociale
-##.m-haut de page
-##.m-jac-annonce
-##.m-social
-##.main-nav-social
-##.mc4wp-form
-##.menu-social-container
-##.menuad
-##.mobile-facebook
-##.mobile-share-buttons-spacer
-##.modal-newsletter
-##.modal-newsletter:not(html):not(body)
-##.modal.modal-newsletter, .modal-backdrop
-##.moove-gdpr-dark-scheme
-##.msg-adblock
-##.navbar-social
-##.newsletter-form:not(html):not(body)
-##.newsletter-link
-##.newsletter-subscription:not(html):not(body)
-##.newsletterForme
-##.noadblock
-##.notice_notice_cookies
-##.notice-cookie
-##.nouveau-partage
-##.om-cookie-agreement
-##.onf-annonce
-##.ot-sdk-show-settings
-##.OUTBRAIN
-##.outerCookieBar
-##.ow_cookie
-##.page-footer__social
-##.panel_cookie
-##.partage
-##.partage social
-##.partages
-##.pea_cook_wrapper
-##.penci-go-to-top-flottant
-##.pf-cookie-directive
-##.pinterest
-##.pinterest-share-btn
-##.pk-share-buttons-item
-##.pk-share-buttons-link
-##.pk-share-buttons-wrap
-##.pk-social-links-items
-##.pk-social-links-wrap
-##.polityka-cookie
-##.popup-box[class*="cookies"]
-##.popup-cookie
-##.post-annonce
-##.post-partage
-##.post-partage-b
-##.printNone.usermsgCookie
-##.privacy-container:not(body):not(html):not(.content-container)
-##.privacy-controls-banner
-##.privacy-popup
-##.privacyhint
-##.pswp__button--partager
-##.pswp__button--share
-##.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links { display: block !important; }
-##.pum[data-popmake*="cookies"]
-##.qb-cookielaw-bar
-##.qc-cmp-ui-container.qc-cmp-showing
-##.regional-cookie-warning
-##.remove-adblock-msg
-##.resp-sharing-button
-##.reviews-display-ad
-##.reviews-display-annonce
-##.roh-cookies
-##.row.user-notes-notification
-##.s-facebook
-##.s-instagram
-##.s-linkedin
-##.s-pinterest
-##.s-twitter
-##.scrolltop
-##.scrolltop:not(body):not(html)
-##.scrollTop:not(body):not(html)
-##.scrolltop:not(html):not(body)
-##.sd_cookiespolicy
-##.sd-partage
-##.sd-sharing-activé
-##.sd-social
-##.sd-social-icon-text
-##.searchResultAd
-##.section-sociale
-##.sgsCookies
-##.share-bar
-##.share-btn
-##.share-buttons
-##.share-count
-##.share-email
-##.share-facebook
-##.share-icon
-##.share-it
-##.share-linkedin
-##.share-links
-##.share-pinterest
-##.share-signature
-##.share-text
-##.share-twitter
-##.sharebar
-##.sharedaddy
-##.shares
-##.sharing-tool-wrapper
-##.sharrre
-##.single__share__label
-##.site-message--cookies.site-message--banner.js-site-message.site-message
-##.social__icon
-##.social-button-small
-##.social-footer
-##.social-header
-##.social-icon-container
-##.social-item
-##.social-likes
-##.social-likes__button
-##.social-likes__counter
-##.social-likes__icon
-##.social-likes__widget
-##.social-likes_ready
-##.social-likes_visible
-##.social-likes-icons
-##.social-likes-pane
-##.social-list:not(html):not(body)
-##.social-login
-##.social-media
-##.social-media-icons
-##.social-media-link
-##.social-media:not(html):not(body)
-##.social-nav
-##.socialBar
-##.socialButton
-##.socialIcon
-##.socialMediaContainer
-##.socials
-##.socials-items
-##.socialWrapper
-##.sociaux
-##.sponsoredPrisma
-##.storm-cookie
-##.svg-adblock-full
-##.svg-adblock-full--box
-##.swf-social-site
-##.sys_cc-cookies
-##.tarteaucitronBeforeVisible
-##.tc-bannière-confidentialité
-##.tc-privacy-banner
+##.enews-widget
+##.jetpack-social-widget-item
+##.m-jac-ad
+##.m-video-wafer
+##.sd-sharing
+##.share-telegram
+##.simple-social-icons
+##.social-foot
+##.swp_social_panel
+##.totop
+##.trustpilot-widget
+##.twitter-follow-button
+##[data-ad-cls]
+##[data-ajax-newsletter-subscription-container]
+##[title^="Follow us on "]
+##[title^="Share on Facebook"]
+##[title^="Share on Twitter"]
+##a[href*="//www.facebook.com/share.php"]
+##A[href^="//www.linkedin.com/shareArticle?"]
+##a[href^="http://www.pinterest.com/pin/create/"]
+##a[href^="https://www.facebook.com/share.php?"]
+##a[title="Share on Facebook"]
+##a[title="Share on Twitter"]
+##amp-consent
+##div[class][data-index][style^="float: none; margin"]
+##div[id^="zergnet-widget"]
+
+
 ##.tc-privacy-overlay
 ##.test-adblock-overlay
 ##.to-top:not(html):not(body)
@@ -949,121 +730,6 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##[title^="Suivez-nous sur « ]
 ##[title="Partager sur Tumblr"]
 ##[title="Retour en haut"]
-##a[aria-label="RSS"]
-##a[href*= ».pub2srv.com/"]
-##a[href*="/afu.php?"]
-##a[href*="facebook.com/sharer/sharer.php?"]
-##a[href*="friendlyduck.com/"]
-##a[href*="https://www.facebook.com/sharer.php"]
-##a[href^="//postlnk.com/"]
-##a[href^="//twitter.com/intent/tweet?"]
-##a[href^="//www.facebook.com/sharer.php?"]
-##a[href^="//www.linkedin.com/shareArticle?"]
-##a[href^="http://twitter.com/intent/tweet?"]
-##a[href^="http://twitter.com/intent/tweet"]
-##a[href^="http://twitter.com/share?"]
-##a[href^="http://twitter.com/share"]
-##a[href^="http://vk.com/share.php?"]
-##a[href^="http://vk.com/share.php"]
-##a[href^="http://www.facebook.com/sharer.php?"]
-##a[href^="http://www.facebook.com/sharer.php"]
-##a[href^="http://www.facebook.com/sharer/sharer.php"]
-##a[href^="http://www.odnoklassniki.ru/dk?st.cmd=addShare"]
-##a[href^="http://www.reddit.com/submit"]
-##a[href^="http://www.tumblr.com/share"]
-##a[href^="http://www.tumblr.com/share/"]
-##a[href^="https://api.whatsapp.com/send?text="]
-##a[href^="https://connect.ok.ru/offer?url="]
-##a[href^="https://feedly.com/i/subscription/"]
-##a[href^="https://pinterest.com/pin/create/"]
-##a[href^="https://plus.google.com/share?"]
-##a[href^="https://plus.google.com/share"]
-##a[href^="https://reddit.com/submit?"]
-##a[href^="https://share.flipboard.com/bookmarklet/"]
-##a[href^="https://share.flipboard.com/bookmarklet/popout?"]
-##a[href^="https://telegram.me/share/url?"]
-##a[href^="https://tm-offers.gamingadult.com/"]
-##a[href^="https://twitter.com/intent/tweet?"]
-##a[href^="https://twitter.com/intent/tweet/?"]
-##a[href^="https://twitter.com/intent/tweet/"]
-##a[href^="https://twitter.com/share?"]
-##a[href^="https://twitter.com/share"]
-##a[href^="https://vk.com/share.php?"]
-##a[href^="https://vk.com/share.php"]
-##a[href^="https://www.facebook.com/sharer.php?"]
-##a[href^="https://www.facebook.com/sharer.php"]
-##a[href^="https://www.facebook.com/sharer/sharer.php"]
-##a[href^="https://www.linkedin.com/cws/share?"]
-##a[href^="https://www.linkedin.com/cws/share?url="]
-##a[href^="https://www.linkedin.com/shareArticle?"]
-##a[href^="https://www.linkedin.com/shareArticle"]
-##a[href^="https://www.pinterest.com/pin/create/button/"]
-##a[href^="https://www.tumblr.com/share"]
-##a[href^="https://www.tumblr.com/share/"]
-##a[href="https://twitter.com/share"]
-##a[onclick*="//www.facebook.com/"][onclick*="sharer.php"]
-##a[onclick^="window.open('https://twitter.com/intent/tweet"]
-##a[title^="Aimez-nous sur Facebook"]
-##a[title^="Partager sur Pinterest"]
-##a[title="Go to top"]
-##a[title="Nous suivre sur Facebook"]
-##a[title="Nous suivre sur Twitter"]
-##a[title="Partager par e-mail"]
-##a[title="Partager sur Facebook"]
-##a[title="Partager sur LinkedIn"]
-##a[title="Partager sur Pinterest"]
-##a[title="Partager sur Twitter"]
-##a[title="Retour en haut"]
-##a[title="RSS"]
-##a[title="Suivez-nous sur Facebook"]
-##a[title="Suivez-nous sur Twitter"]
-##adblock-détecter
-##adblock-modal-component
-##adblocker
-##AMP-AD
-##body .twitter-share-button
-##body #cookie-politique
-##body.modal-open:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
-##button[title="Partager"]
-##div[annonce de données]
-##div[balise-iab-data]
-##div[button="partager"]
-##div[button="share"]
-##div[class^="cc-sharebuttons-« ]
-##div[class^="footer-social-« ]
-##div[class^="style__social"]
-##div[class^="styles_advertising_"]
-##div[data-ad-playerid]
-##div[data-ad]
-##div[data-ng-controller="AcceptCookiesController"]
-##div[fournisseur de publicités de données]
-##div[id^="adtrue_tag"]
-##div[id^="dfp-ad-« ]
-##div[id^="div-gpt-ad-"]
-##div[id^="div-gpt-ad-« ]
-##div[id^="div-gpt-ad"]
-##div[id^="ezoic-pub-ad-« ]
-##div[id^="M"][id*="ScriptRootC"]
-##div[id^="rc-widget-« ]
-##div[id^="zergnet-widget"]
-##div[nom-annonce_données]
-##div[title="Scroll Back to Top"]
-##gh-cookieb-active
-##iframe[src*="//imasdk.googleapis.com/js/core/bridge"][src*= ».html"]
-##iframe[width="728"][height="90"]
-##img[alt^="Partager sur Facebook"]
-##img[alt^="Partager sur Twitter"]
-##img[src*="//counter.yadro.ru/"]
-##img[src*="counter.yadro.ru"]
-##img[width="160"][height="600"]
-##ins.adsbygoogle[data-ad-client]:not([data-matched-content-ui-type])
-##ins[data-ad-position]
-##ins[data-revive-zoneid]
-##message-bar-cookie-notice
-##racine-#fb:not(body):not(html)
-##span[id^="ezoic-pub-ad-placeholder-« ]
-
-
 ###_evidon_banner
 ###_iCD
 ###aabl-container
@@ -1504,6 +1170,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ###icon-facebook
 ###icon-instagram
 ###icon-rss
+###icon-snapchat
 ###icon-twitter
 ###icon-youtube
 ###id_cookieconsent
@@ -1584,6 +1251,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ###popup-cookie
 ###popup-cookies
 ###privacy_cookie
+###privacy_policy:not(input)
 ###privacy-alerte
 ###privacy-consentement
 ###privacy-superposition
@@ -1616,9 +1284,11 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ###stdCookie
 ###subscribe_email
 ###subscribe_newsletter:not(html):not(body)
+###subscribe-email:not(html):not(body)
 ###subscriptionModal:not(html):not(body)
 ###sun-cookieMessage
 ###sxc_confirmation
+###taboola-below-article-thumbnails
 ###taboola-ci-dessous-article-vignettes
 ###tarteaucitronAlertBig
 ###tarteaucitronRoot
@@ -1655,6 +1325,119 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ###wrapCookie
 ###wrapperBlocker
 ###ws-cookie-consent-msg
+##a[aria-label="RSS"]
+##a[href*= ».pub2srv.com/"]
+##a[href*="/afu.php?"]
+##a[href*="facebook.com/sharer/sharer.php?"]
+##a[href*="friendlyduck.com/"]
+##a[href*="https://www.facebook.com/sharer.php"]
+##a[href^="//postlnk.com/"]
+##a[href^="//twitter.com/intent/tweet?"]
+##a[href^="//www.facebook.com/sharer.php?"]
+##a[href^="//www.linkedin.com/shareArticle?"]
+##a[href^="http://twitter.com/intent/tweet?"]
+##a[href^="http://twitter.com/intent/tweet"]
+##a[href^="http://twitter.com/share?"]
+##a[href^="http://twitter.com/share"]
+##a[href^="http://vk.com/share.php?"]
+##a[href^="http://vk.com/share.php"]
+##a[href^="http://www.facebook.com/sharer.php?"]
+##a[href^="http://www.facebook.com/sharer.php"]
+##a[href^="http://www.facebook.com/sharer/sharer.php"]
+##a[href^="http://www.odnoklassniki.ru/dk?st.cmd=addShare"]
+##a[href^="http://www.reddit.com/submit"]
+##a[href^="http://www.tumblr.com/share"]
+##a[href^="http://www.tumblr.com/share/"]
+##a[href^="https://api.whatsapp.com/send?text="]
+##a[href^="https://connect.ok.ru/offer?url="]
+##a[href^="https://feedly.com/i/subscription/"]
+##a[href^="https://pinterest.com/pin/create/"]
+##a[href^="https://plus.google.com/share?"]
+##a[href^="https://plus.google.com/share"]
+##a[href^="https://reddit.com/submit?"]
+##a[href^="https://share.flipboard.com/bookmarklet/"]
+##a[href^="https://share.flipboard.com/bookmarklet/popout?"]
+##a[href^="https://telegram.me/share/url?"]
+##a[href^="https://tm-offers.gamingadult.com/"]
+##a[href^="https://twitter.com/intent/tweet?"]
+##a[href^="https://twitter.com/intent/tweet/?"]
+##a[href^="https://twitter.com/intent/tweet/"]
+##a[href^="https://twitter.com/share?"]
+##a[href^="https://twitter.com/share"]
+##a[href^="https://vk.com/share.php?"]
+##a[href^="https://vk.com/share.php"]
+##a[href^="https://www.facebook.com/sharer.php?"]
+##a[href^="https://www.facebook.com/sharer.php"]
+##a[href^="https://www.facebook.com/sharer/sharer.php"]
+##a[href^="https://www.linkedin.com/cws/share?"]
+##a[href^="https://www.linkedin.com/cws/share?url="]
+##a[href^="https://www.linkedin.com/shareArticle?"]
+##a[href^="https://www.linkedin.com/shareArticle"]
+##a[href^="https://www.pinterest.com/pin/create/button/"]
+##a[href^="https://www.tumblr.com/share"]
+##a[href^="https://www.tumblr.com/share/"]
+##a[href="https://twitter.com/share"]
+##a[onclick*="//www.facebook.com/"][onclick*="sharer.php"]
+##a[onclick^="window.open('https://twitter.com/intent/tweet"]
+##a[title^="Aimez-nous sur Facebook"]
+##a[title^="Partager sur Pinterest"]
+##a[title="Go to top"]
+##a[title="Nous suivre sur Facebook"]
+##a[title="Nous suivre sur Twitter"]
+##a[title="Partager par e-mail"]
+##a[title="Partager sur Facebook"]
+##a[title="Partager sur LinkedIn"]
+##a[title="Partager sur Pinterest"]
+##a[title="Partager sur Twitter"]
+##a[title="Retour en haut"]
+##a[title="RSS"]
+##a[title="Suivez-nous sur Facebook"]
+##a[title="Suivez-nous sur Twitter"]
+##adblock-détecter
+##adblock-modal-component
+##adblocker
+##AMP-AD
+##body .twitter-share-button
+##body #cookie-politique
+##body.modal-open:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
+##button[title="Partager"]
+##div[annonce de données]
+##div[balise-iab-data]
+##div[button="partager"]
+##div[button="share"]
+##div[class^="cc-sharebuttons-« ]
+##div[class^="footer-social-« ]
+##div[class^="style__social"]
+##div[class^="styles_advertising_"]
+##div[data-ad-playerid]
+##div[data-ad]
+##div[data-ng-controller="AcceptCookiesController"]
+##div[fournisseur de publicités de données]
+##div[id^="adtrue_tag"]
+##div[id^="dfp-ad-« ]
+##div[id^="div-gpt-ad-"]
+##div[id^="div-gpt-ad-« ]
+##div[id^="div-gpt-ad"]
+##div[id^="ezoic-pub-ad-« ]
+##div[id^="M"][id*="ScriptRootC"]
+##div[id^="rc-widget-« ]
+##div[id^="zergnet-widget"]
+##div[nom-annonce_données]
+##div[title="Scroll Back to Top"]
+##gh-cookieb-active
+##iframe[src*="//imasdk.googleapis.com/js/core/bridge"][src*= ».html"]
+##iframe[width="728"][height="90"]
+##img[alt^="Partager sur Facebook"]
+##img[alt^="Partager sur Twitter"]
+##img[src*="//counter.yadro.ru/"]
+##img[src*="counter.yadro.ru"]
+##img[width="160"][height="600"]
+##ins.adsbygoogle[data-ad-client]:not([data-matched-content-ui-type])
+##ins[data-ad-position]
+##ins[data-revive-zoneid]
+##message-bar-cookie-notice
+##racine-#fb:not(body):not(html)
+##span[id^="ezoic-pub-ad-placeholder-« ]
 
 
 short-ly.co,svetapple.sk,finya.de,makemoneywithurl.com,finchtechs.com,turkiyegazetesi.com.tr,mentalflare.com,apkmb.com,izle7.com,spidermods.in,karaoke-lyrics.net,shabdkosh.com,synonyms.com,borsatek.com,quotes.net,tv100.com,videezy.com,ik4.es,peak.cz,branchen-info.net,online-stellenmarkt.net,nova.cz,entrepreneur.com,thinkmobiles.com,speedrun.com,mifirm.net,mathrubhumi.com,thehimalayantimes.com,aleph.org.mx,tellows.de,ich-geh-wandern.de,stopots.com,alternativeto.net,wunschliste.de,kiz10.com,thetechbasket.com,wetter24.de,wetterstationen.meteomedia.de,donnerwetter.de,gotvach.bg,iteramos.com,sizechart.com,mobinozer.com,kamuajans.com,grammar.com,karaoketexty.cz,sme.sk,imhd.sk,fanatik.ro,songmeanings.com,tgrthaber.com.tr,pesmaster.com,zedge.net,interez.sk,lyricsondemand.com,gbnews.uk,letemsvetemapplem.eu,filmibeat.com,moddedguru.com,tellychakkar.com,uschovna.cz,dotabuff.com,wuolah.com,infobae.com,adnkronos.com,t24.com.tr,afterdawn.com,animesonglyrics.com,canadafreepress.com,vladan.fr,jablickar.cz,myhealthgazette.com,windowspro.de,kizlarsoruyor.com,enmimaquinafunciona.com,firenzetoday.it,hrej.cz,ispazio.net,timeanddate.de,calcolareonline.eu,haberler.com,newindianexpress.com,factinate.com,proiezionidiborsa.it,telefonnummer.net,ohtuleht.ee,mynet.com,ruyalar.net,bezprawnik.pl,sonichits.com,akinator.mobi,spidersweb.pl,geekzone.co.nz,gameblog.fr,pacogames.com,ntower.de,oyunturu.org,timeout.co.il,mobilityarena.com,smallseotools.com,zilinak.sk,bolec.info,veneziatoday.it,scientias.nl,musixmatch.com,log.com.tr,pinkvilla.com,shwoghk14.blogspot.com,animalpedia.it,hifi.de,hifi-forum.de,casertanews.it,brindisireport.it,slangit.com,romatoday.it,apkmirror.com,planeteanimal.com,sadeczanin.info,lyricstranslate.com,zerohedge.com,aktuality.sk,ixbt.com,dotesports.com,europapress.es,guiainfantil.com,nme.com,tupi.fm,ehitusfoorum.com,eksiup.com,monwindows.com,paradurumu.com,browserhow.com,posta.com.tr,odatv4.com,cumhuriyet.com.tr,yenicaggazetesi.com.tr,recipesnk.com,motornk.com,worldmangas.com,mangalong.com,mistermanga.com,anitoc.com,enginepassion.com,thepostmillennial.com,mangaready.com,alvinet.com,abbreviations.com,lectortmo.com,openshot.org,fanatik.com.tr,hurriyetdailynews.com,hurriyet.com.tr,iflscience.com,punchng.com,zacks.com,kanald.com.tr,digitbin.com,doodle.com,gamerant.com,screenrant.com,linuxsmartphones.com,liliputing.com,ioccasion.fr,watchgeneration.fr,macg.co,igen.fr,wordreference.com,letsrun.com,lesfrontaliers.lu,interpals.net,mediafire.com,feber.se,overclock.net,phonearena.com,skyscrapercity.com,mtb-news.de,geekwire.com,bimmerfest.com,accuweather.com#$#body div.fc-consent-root { display: none !important; }
@@ -1743,6 +1526,7 @@ castorama.fr##a.gXXTfL.footerSocialLinks__FooterSocialLinkItem-sc-9pd88l-1 > spa
 castorama.fr##a.gXXTfL.footerSocialLinks__FooterSocialLinkItem-sc-9pd88l-1 > span > i > svg
 castorama.fr##a.gXXTfL.footerSocialLinks__FooterSocialLinkItem-sc-9pd88l-1 > span > i > svg > path
 castorama.fr##a[href^="https://www.needhelp.com/projet.php?"]
+ccleaner.com##html:style(overflow: visible!important;)
 cdiscount.com##.jsNoPrdtBloc
 cdiscount.com##.regBloc
 cdiscount.com##div[class^="regBloc"]
@@ -1802,9 +1586,13 @@ github.com##.vcard-names-container.is-stuck:style(pointer-events: none !importan
 github.com##.vcard-names-container.py-3.js-sticky.js-user-profile-sticky-fields.is-stuck:style(position: static !important; margin-top: unset !important;)
 github.com##.vcard-names-container.py-3.js-user-profile-sticky-fields.is-placeholder:style(height: 0 !important; visibility: hidden !important; display: none !important; width: auto !important;)
 github.com##html:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
+glarysoft.com##.cookiesTip
 google.*##.uEierd
 google.*##[href^="https://googleadservices.com/pagead/aclk?"][href$="adurl="]:upward(3)
 google.*##a[href*="/aclk?"][data-al]:upward(2)
+google.*##iframe[role="presentation"][src*="ogs.google."][src*="widget/callout"]
+google.*##iframe[role="presentation"][src*="ogs.google."][src*="widget/callout"]:upward(div[style^="overflow: hidden; position: absolute; top: 0px; width: 370px;"])
+google.com##.Fgvgj
 google.com##div#bottomads
 google.fr##.HTjtHe
 google.fr##.jw8mI
@@ -1946,6 +1734,7 @@ youtube.com##.ytp-ce-playlist
 youtube.com##.ytp-paid-content-overlay
 youtube.com##.ytp-pause-overlay
 youtube.com##.ytp-title-channel
+
 
 
 1fichier.com###cookie_box
@@ -2121,7 +1910,6 @@ youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.anno
 ||play.google.com/log?$xmlhttprequest
 
 
-
 ||addthis.com^$3p,important,domain=~amd.com|~missingkids.com|~missingkids.org|~sainsburys.jobs|~schonmagazine.com|~sitecore.com
 ||ak.hetaruvg.com^$important
 ||api.github.com/_private/browser/stats$important
@@ -2143,6 +1931,7 @@ youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.anno
 ||scorecardresearch.com^$important
 ||truthtraff.com^$important
 ||waisheph.com^$important
+||wcpstatic.microsoft.com^$1p,important
 
 
 ||ausoafab.net^$important
@@ -2187,6 +1976,7 @@ youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.anno
 ||etp-prod.com^$3p
 ||ezodn.com^$3p
 ||facil-iti.com^$3p
+||increaserev.com^$3p
 ||moneymakercdn.com^$3p
 ||platform.twitter.com/js/button.$3p
 ||popnc.com^$3p
@@ -2254,6 +2044,9 @@ youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.anno
 ||yonsandileer.com^$popup
 
 
+||wc.yahoodns.net^$image
+
+
 ||r.mail.ru^$image
 
 
@@ -2271,8 +2064,11 @@ youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.anno
 ||abtasty.com^
 ||acdcdn.com^
 ||achcdn.com^
+||adaptv.advertising.com^
+||addthis.com^
 ||addthis.com^
 ||adform.com^
+||adnxs.com^
 ||adobedtm.com^
 ||ads-twitter.com^
 ||ads.stickyadstv.com^
@@ -2418,6 +2214,7 @@ youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.anno
 ||reyden-x.com^
 ||rlcdn.com^
 ||rndskittytor.com^
+||rum-http-intake.logs.datadoghq.com^
 ||runative-syndicate.com^
 ||rvedfxeljxo.com^
 ||s-img.adskeeper.com^
@@ -2431,6 +2228,7 @@ youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.anno
 ||smartadserver.com^
 ||smetrics.nvidia.com^
 ||speedcurve.com^
+||spotxchange.com^
 ||sstatic1.histats.com^
 ||st.chatango.com^
 ||static-tracking.klaviyo.com^
@@ -2472,6 +2270,7 @@ youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.anno
 ||your-notice.com^
 ||ytimm.com^
 ||yuhvjuedhcu.com^
+||zergnet.com^
 ||zikroarg.com^
 ||zunsoach.com^
 
@@ -2584,6 +2383,8 @@ $third-party,xmlhttprequest,domain=01fmovies.com|1377x.to|1fichier.com|1me.club|
 ||anah.fr/typo3conf/ext/anah_site/Resources/Public/2019/assets/img/social/rss.png
 ||aol.com/beacons/
 ||aolcdn.com/ads/
+||arc.msn.com/*/impression?pid=
+||assets.pinterest.com/js/pinit.js^$3p
 ||bdgest.com/habillages/
 ||bdgest.com/js/site.js?
 ||bedetheque.com/javascript/campagne?
@@ -2593,6 +2394,7 @@ $third-party,xmlhttprequest,domain=01fmovies.com|1377x.to|1fichier.com|1me.club|
 ||catch.tube/images/pro/converter/converter.png
 ||catchvideo.net/static/android-banner-full-
 ||cdn.ampproject.org/*/amp-analytics-
+||cdn.ampproject.org/v0/amp-consent-*.*.js
 ||cdn.trustcommander.net/privacy^
 ||ced-ns.sascdn.com/diff/js/smart.js
 ||clipwatching.com/clipjs.js
@@ -2605,6 +2407,7 @@ $third-party,xmlhttprequest,domain=01fmovies.com|1377x.to|1fichier.com|1me.club|
 ||cyberlink.com/prog/util/web-notification
 ||dailymotion.com/logger/*?session_id=
 ||dailymotion.com^*/log/
+||direct-events-collector.spot.im^
 ||dmcdn.net/behavior/
 ||dn-staticdown.qbox.me^$script,domain=geo.captcha-delivery.com
 ||doodcdn.com/ads/ad.js
@@ -2668,18 +2471,22 @@ $third-party,xmlhttprequest,domain=01fmovies.com|1377x.to|1fichier.com|1me.club|
 ||trustcommander.net/iab-tcfapi/
 ||unagi-*.amazon.com/1/events^
 ||upstream.to/js/kaltura.js
+||uservoice.com^*/track.js
 ||video.sibnet.ru/my/settings/*
 ||vortex.data.microsoft.com/collect
 ||wakanim.tv/manifest.json$other,domain=www.wakanim.tv
 ||wikihow.com/ev/
 ||wikihow.com/x/collect?
 ||yahoo.com/p?
+||yahoo.com/sdarla/
+||yahoo.net/pixel.gif
+||yahoo.net/pixel*.gif
 ||yimg.com/cx/vzm/cs.js
 ||youtube.com/*_204
 ||youtube.com/api/stats/qoe?
 ||youtube.com/youtubei/*/log_event$xmlhttprequest
+||zdassets.com/ekr/snippet.js
 ||zupimages.net/up/22/07/oss1.png$image
-
 
 
 ||*$script,redirect-rule=empty,domain=streamzz.*|streamz.vg
@@ -3046,6 +2853,9 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 
 
 accounts.conrad.com#@#+js(set-constant, Document.prototype.interestCohort, 'undefined)
+aol.com#@#.navigation:style(position: absolute !important; top: 0 !important; z-index: -1 !important;)
+aol.com#@#+js(abort-current-script, *)
+bdgest.com#@#+js(no-setTimeout-if, *)
 bricoman.fr#@#+js(no-setTimeout-if, *)
 gaz-tarif-reglemente.fr#@##backToTop:not(html):not(body)
 mail.aol.com#@#+js(no-setTimeout-if, *)
@@ -3055,7 +2865,6 @@ neko-sama.io#@#+js(no-setTimeout-if, *)
 pluto.tv#@#+js(set-constant, Document.prototype.interestCohort, 'undefined)
 speedtest.net#@#+js(no-setInterval-if, *)
 speedtest.net#@#+js(no-setTimeout-if, *)
-www.bdgest.com#@#+js(no-setTimeout-if, *)
 
 
 #@#.ad-placement
@@ -3072,5 +2881,6 @@ particuliers.engie.fr#@##backToTop:not(html):not(body)
 speedtest.net#@#.pure-u-custom-ad-skyscraper
 
 
+@@||*/ads.$domain=www.wakanim.tv
 @@/fontawesome-$font,domain=doc.ubuntu-fr.org
 
