@@ -647,6 +647,206 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.dispositifAdblockContent
 ##.dispositifAdblockMessageBox
 ##.divascookies
+##.divCookiePopUp
+##.enews-widget
+##.jetpack-social-widget-item
+##.m-jac-ad
+##.m-video-wafer
+##.sd-sharing
+##.share-telegram
+##.simple-social-icons
+##.social-foot
+##.swp_social_panel
+##.tc-privacy-overlay
+##.test-adblock-overlay
+##.to-top:not(html):not(body)
+##.toast-type-newCookie
+##.top-bar-adblock
+##.top-popup-gdpr:not(body):not(html)
+##.totop
+##.trustpilot-widget
+##.tsAttention--Info--bouton
+##.twitter-follow-button
+##.twitter-share-button
+##.uk-cookie-banner
+##.uk-cookies
+##.usernotice_pop:not(body):not(html)
+##.vjs-share-control
+##.wh_ad_inner
+##.widget_adswidget4-quick-adsense
+##.wp_adblock_detect
+##.wpd-sbs-title
+##.wpdiscuz-subscribe-bar
+##.wrapper--cookies
+##.ya-share2
+##.ytp-share-button
+##.zergnet
+##.zergnet-widget
+##[aria-label="cookieconsent"]
+##[class][data-sitename][data-header-version] > div[id^="detection-block"]
+##[class*="auto-bottom-advertising-"]
+##[class*="socialLink"]
+##[conteneur de données-ajax-newsletter-abonnement]
+##[data-ad-cls]
+##[data-ads-core]
+##[data-ajax-newsletter-subscription-container]
+##[href*= ».smartadserver.com"]
+##[href*="//agacelebir.com"]
+##[href*="/afu.php"]
+##[href*="facebook.com/sharer.php?"]
+##[href*="facebook.com/sharer/sharer.php?"]
+##[href*="linkedin.com/shareArticle"]
+##[href*="pinterest.com/pin/create/button/"]
+##[href*="postlnk.com"]
+##[href*="reddit.com/submit?url="]
+##[href*="share.flipboard.com"]
+##[href*="twitter.com/intent/tweet"]
+##[href*="twitter.com/share"]
+##[id*="ScriptRoot"]
+##[id^="adswidget2-quick-adsense"]
+##[id^="adswidget3-quick-adsense"]
+##[id^="div-gpt-ad"]
+##[id^="sl_share_fb"]
+##[onclick^="window.open('https://twitter.com/intent/tweet?"]
+##[title^="Aimez-nous sur Facebook"]
+##[title^="Follow us on "]
+##[title^="Partager sur Facebook"]
+##[title^="Partager sur LinkedIn"]
+##[title^="Partager sur Tumblr"]
+##[title^="Partager sur Twitter"]
+##[title^="Share on Facebook"]
+##[title^="Share on Twitter"]
+##[title^="Suivez-nous sur « ]
+##[title="Partager sur Tumblr"]
+##[title="Retour en haut"]
+###_evidon_banner
+###_iCD
+###aabl-container
+###wrapCookie
+###wrapperBlocker
+###ws-cookie-consent-msg
+##a[aria-label="RSS"]
+##a[href*= ».pub2srv.com/"]
+##a[href*="//www.facebook.com/share.php"]
+##a[href*="/afu.php?"]
+##a[href*="facebook.com/sharer/sharer.php?"]
+##a[href*="friendlyduck.com/"]
+##a[href*="https://www.facebook.com/sharer.php"]
+##a[href^="//postlnk.com/"]
+##a[href^="//twitter.com/intent/tweet?"]
+##a[href^="//www.facebook.com/sharer.php?"]
+##A[href^="//www.linkedin.com/shareArticle?"]
+##a[href^="//www.linkedin.com/shareArticle?"]
+##a[href^="http://twitter.com/intent/tweet?"]
+##a[href^="http://twitter.com/intent/tweet"]
+##a[href^="http://twitter.com/share?"]
+##a[href^="http://twitter.com/share"]
+##a[href^="http://vk.com/share.php?"]
+##a[href^="http://vk.com/share.php"]
+##a[href^="http://www.facebook.com/sharer.php?"]
+##a[href^="http://www.facebook.com/sharer.php"]
+##a[href^="http://www.facebook.com/sharer/sharer.php"]
+##a[href^="http://www.odnoklassniki.ru/dk?st.cmd=addShare"]
+##a[href^="http://www.pinterest.com/pin/create/"]
+##a[href^="http://www.reddit.com/submit"]
+##a[href^="http://www.tumblr.com/share"]
+##a[href^="http://www.tumblr.com/share/"]
+##a[href^="https://api.whatsapp.com/send?text="]
+##a[href^="https://connect.ok.ru/offer?url="]
+##a[href^="https://feedly.com/i/subscription/"]
+##a[href^="https://pinterest.com/pin/create/"]
+##a[href^="https://plus.google.com/share?"]
+##a[href^="https://plus.google.com/share"]
+##a[href^="https://reddit.com/submit?"]
+##a[href^="https://share.flipboard.com/bookmarklet/"]
+##a[href^="https://share.flipboard.com/bookmarklet/popout?"]
+##a[href^="https://telegram.me/share/url?"]
+##a[href^="https://tm-offers.gamingadult.com/"]
+##a[href^="https://twitter.com/intent/tweet?"]
+##a[href^="https://twitter.com/intent/tweet/?"]
+##a[href^="https://twitter.com/intent/tweet/"]
+##a[href^="https://twitter.com/share?"]
+##a[href^="https://twitter.com/share"]
+##a[href^="https://vk.com/share.php?"]
+##a[href^="https://vk.com/share.php"]
+##a[href^="https://www.facebook.com/share.php?"]
+##a[href^="https://www.facebook.com/sharer.php?"]
+##a[href^="https://www.facebook.com/sharer.php"]
+##a[href^="https://www.facebook.com/sharer/sharer.php"]
+##a[href^="https://www.linkedin.com/cws/share?"]
+##a[href^="https://www.linkedin.com/cws/share?url="]
+##a[href^="https://www.linkedin.com/shareArticle?"]
+##a[href^="https://www.linkedin.com/shareArticle"]
+##a[href^="https://www.pinterest.com/pin/create/button/"]
+##a[href^="https://www.tumblr.com/share"]
+##a[href^="https://www.tumblr.com/share/"]
+##a[href="https://twitter.com/share"]
+##a[onclick*="//www.facebook.com/"][onclick*="sharer.php"]
+##a[onclick^="window.open('https://twitter.com/intent/tweet"]
+##a[title^="Aimez-nous sur Facebook"]
+##a[title^="Partager sur Pinterest"]
+##a[title="Go to top"]
+##a[title="Nous suivre sur Facebook"]
+##a[title="Nous suivre sur Twitter"]
+##a[title="Partager par e-mail"]
+##a[title="Partager sur Facebook"]
+##a[title="Partager sur LinkedIn"]
+##a[title="Partager sur Pinterest"]
+##a[title="Partager sur Twitter"]
+##a[title="Retour en haut"]
+##a[title="RSS"]
+##a[title="Share on Facebook"]
+##a[title="Share on Twitter"]
+##a[title="Suivez-nous sur Facebook"]
+##a[title="Suivez-nous sur Twitter"]
+##adblock-détecter
+##adblock-modal-component
+##adblocker
+##AMP-AD
+##amp-consent
+##body .twitter-share-button
+##body #cookie-politique
+##body.modal-open:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
+##button[title="Partager"]
+##div[annonce de données]
+##div[balise-iab-data]
+##div[button="partager"]
+##div[button="share"]
+##div[class][data-index][style^="float: none; margin"]
+##div[class^="cc-sharebuttons-« ]
+##div[class^="footer-social-« ]
+##div[class^="style__social"]
+##div[class^="styles_advertising_"]
+##div[data-ad-playerid]
+##div[data-ad]
+##div[data-ng-controller="AcceptCookiesController"]
+##div[fournisseur de publicités de données]
+##div[id^="adtrue_tag"]
+##div[id^="dfp-ad-« ]
+##div[id^="div-gpt-ad-"]
+##div[id^="div-gpt-ad-« ]
+##div[id^="div-gpt-ad"]
+##div[id^="ezoic-pub-ad-« ]
+##div[id^="M"][id*="ScriptRootC"]
+##div[id^="rc-widget-« ]
+##div[id^="zergnet-widget"]
+##div[nom-annonce_données]
+##div[title="Scroll Back to Top"]
+##gh-cookieb-active
+##iframe[src*="//imasdk.googleapis.com/js/core/bridge"][src*= ».html"]
+##iframe[width="728"][height="90"]
+##img[alt^="Partager sur Facebook"]
+##img[alt^="Partager sur Twitter"]
+##img[src*="//counter.yadro.ru/"]
+##img[src*="counter.yadro.ru"]
+##img[width="160"][height="600"]
+##ins.adsbygoogle[data-ad-client]:not([data-matched-content-ui-type])
+##ins[data-ad-position]
+##ins[data-revive-zoneid]
+##message-bar-cookie-notice
+##racine-#fb:not(body):not(html)
+##span[id^="ezoic-pub-ad-placeholder-« ]
+
 
 ###_evidon_banner
 ###_iCD
