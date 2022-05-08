@@ -1622,6 +1622,140 @@ google.fr##[data-text-ad]
 google.fr##a[href^="https://www.googleadservices.com/pagead/aclk?"]
 guides.github.com##.sticky.js-toc.toc:style(position: absolute !important;)
 gum-gum-streaming.com##.loop > center:nth-of-type(3)
+gum-gum-streaming.com##[href="https://bit.ly/3LGb41i"]
+gum-gum-streaming.com##[href="https://bit.ly/3LGb41i"] > .lazyloaded
+gum-gum-streaming.com##div.video-container > div
+help.github.com##.article-grid-toc-content:style(position: static !important;)
+hyipstats.net##.w-125px
+hyipstats.net##+js(no-fetch-if, adsbygoogle)
+hyipstats.net##+js(no-fetch-if, pagead2.googlesyndication.com)
+jeuxvideo.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
+journaldugeek.com##.socialbar__container > .single__share > :not(.comments)
+lcd-compare.com##.in.fade.modal-backdrop
+leboncoin.fr##.apn-na.crGigL.sc-bdVaJa
+leboncoin.fr##.styles_sideColumn__MyCwB
+leboncoin.fr##[href="https://leboncoin.fr/paiement-securise-vehicule/garantie-panne-mecanique"] > picture > ._1cnjm
+leboncoin.fr##*.sc-fgfRvd
+leboncoin.fr##*.sc-hZSUBg
+lesnumeriques.com##.ln__a-dc
+lesnumeriques.com##.ln__m-shr
+lesnumeriques.com##.ln__sb__second > a[href^="/publicite/"]
+lesnumeriques.com##a[href^="/publicite/"]
+macg.co##body:style(overflow: visible !important;)
+manga-news.com##.banner
+manga-news.com##.external-link
+microsoft.com##body:style(overflow: auto !important; padding-right: 0 !important;)
+microsoft.com##body:style(overflow: visible!important; padding-right: 0!important;)
+mon-espace.saurclient.fr##.sds-m-cookiebanner.sds-container
+monprojet.anah.gouv.fr##.fa-linkedin.fa
+monprojet.anah.gouv.fr##.links
+monprojet.anah.gouv.fr##a.icon
+monprojet.anah.gouv.fr##div.footer_column-mobile.footer_column:nth-of-type(2)
+monprojet.anah.gouv.fr##div.footer_column-mobile.footer_column:nth-of-type(2) > h4
+movavi.com##.top-popup-gdpr
+nautiljon.com##.follow
+nautiljon.com##.font-fb
+nautiljon.com##.font-tw
+nautiljon.com##.gad
+nautiljon.com##.nj
+nautiljon.com##[href="https://nautiljon.com/actualite/rss.php"] > .font-rss
+nvidia.com##.global-nav, .secondary-menu-slot, .subnav:style(position: relative !important; top: 0 !important;)
+nvidia.fr##[src="/content/DriverDownload-March2009/includes/fr/images/220x76_facebook.jpg"]
+ok.ru##.html5-vpl_info-panel
+otakufr.*##.widget_text.widget.widget_custom_html:has(script[src^="//platform.bidgear.com/ads.php"])
+otakufr.co##.container-1a8c1cd833239462a6dd2d93cd04e00e__img
+otakufr.co##.container-1a8c1cd833239462a6dd2d93cd04e00e__link
+otakufr.co##.type-w.teaser-9125191.mgline > .image-with-text
+otakufr.co##.type-w.teaser-10081006.mgline > .image-with-text
+otakufr.co##.type-w.teaser-10289161.mgline > .image-with-text
+otakufr.co##[href^="https://www.adskeeper.com/ghits/5194691/i/57476417/2/pp/2/2"] > .image-container > .wp-dark-mode-ignore.mcimg
+otakufr.co##[href="https://discord.gg/nqdVUr7"]
+otakufr.co##[href="https://discord.gg/nqdVUr7"] > .wp-dark-mode-ignore.img-fluid
+otakufr.co##a.list-group-item-action.list-group-item:nth-of-type(4)
+otakufr.co##div.block > .text-center
+otakufr.co##div.block:nth-of-type(2)
+otakufr.co##div.block:nth-of-type(2) > .text-center
+ouo.*##.dlbtns
+ouo.*##[href^="https://dynamicadx.com/"]
+ouo.*##[id*="ScriptRoot"]
+ouo.*##iframe:not([src])
+pastebin.com##.adsbyvli:upward(1)
+pastebin.com##.cd-top
+pastebin.com##.popup-box.-pro
+pastebin.com##.popup-container > .-cookies.popup-box
+pastebin.com##.popup-container > .-pro.popup-box
+pastebin.com##.wrap > .header:style(position: absolute !important;)
+picclick.*##.navbar-fixed-top.navbar-default.navbar:style(position: absolute !important;)
+psebooks.club##.mbreader-popup
+psebooks.club##.mbreader-popup-inner
+pstream.net##a[href^="https://adfpoint.com/"]
+pstream.net##body > a[href="javascript:;"]
+pstream.net##body > a[target="_blank"]
+pstream.net##head:has(style[id*="videojs"]) + body > *:not(.video-js)
+razer.com##.modal-backdrop
+razer.com##.modal-newsletter
+razer.com##app-razer-cookies
+razer.com##body:style(overflow: auto !important;)
+razer.com##body:style(overflow: visible !important; padding-right: 0 !important;)
+razer.com##body:style(padding-top: 0 !important;)
+razer.com##header:style(position: static !important;)
+redirect-ads.com##a[href][target="_blank"][onclick*="remove()"]
+rexel.fr##.disallow-cursor:style(cursor: unset !important;)
+rexel.fr##.modal-backdrop
+rueducommerce.fr##.is-open.micromodal-slide.modal
+rueducommerce.fr##.mfp-ready.mfp-auto-cursor.mfp-wrap
+rueducommerce.fr##.mfp-ready.mfp-bg
+rueducommerce.fr##.modal__overlay
+s.yimg.com##div
+saruch.co##hkejiu
+silicon.fr##.pop-in-workplace.pop-in.event-popin
+speedtest.net##.eot-box-wrapper > div.pure-g
+speedtest.net##.notification-container
+speedtest.net##.privacy-update
+speedtest.net##.privacy-update, .notification-container
+speedtest.net##.pure-u-custom-ad-rectangle
+speedtest.net##.result-item-share
+speedtest.net##.top-placeholder
+speedtest.net##div[data-ad-placeholder]
+speedtest.net##div[data-view-name="privacy-updated-notice"]
+streamzz.*,live-eventsport.com,vidlink.org,streamz.*,nullpk.com,mitly.us,merdekaid.online,software-on.com##a[href^="http://deloplen.com/"]
+toonanime.cc##.toonanimeplayer_top p
+toonanime.cc##center > center
+toonanime.tv##center > p
+toonanime.tv##div.content__sidebar-section > center
+toonanime.tv##div.content__sidebar-section p
+toonanime.tv##div.content__sidebar-section:nth-of-type(1) > center
+toonanime.tv##iframe:nth-of-type(3)
+topsitestreaming.info##.custom-html-widget.textwidget > [href="https://linktr.ee/tenshistore"] > .loaded.lazy
+topsitestreaming.info##.loaded.lazy.center
+uqload.com##^script:has-text(break;case $.)
+v5.anime-ultime.net##.playBigBtn
+video.sibnet.ru,tamasha.com##.vjs-share-button
+video.sibnet.ru##.vjs-overlayclip-box-close
+video.sibnet.ru##.vjs-share-button
+vvww.toonanime.cc##iframe:nth-of-type(3)
+waaw.to##.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links:style(display: block !important;)
+wakanim.tv##.css-1bch5xm.qc-cmp-cleanslate
+wakanim.tv##.nav-main_social
+wakanim.tv##div.footer-main_item:nth-of-type(6)
+wall.alphacoders.com##.ads-bottom-center-infinite.center
+wikihow.com##.adsbygoogle
+wikihow.com##.nav_icon:style(display: block !important;)
+wikihow.com##.section h2.sticking, .section h3.sticking, .tool div.sticking:style(position: absolute !important; top: 0 !important; -webkit-border-radius: 4px 4px 0 0 !important;)
+wikihow.com##.sticking > .altblock:style(position: relative !important; width: 60px !important; height: 60px !important; padding: 0 !important; margin: 0 15px 0 0 !important;)
+wikihow.com##.sticking:style(top: 0 !important;)
+wikihow.com##div.wh_ad_inner
+wordpress.com##body:style(padding-top: 0 !important;)
+youtube-nocookie.com,youtube.com##.ytp-pause-overlay, .show-video-thumbnail-button, #rvid
+youtube.com##.annotation.iv-branding
+youtube.com##.share-panel-services, .ytp-button.ytp-share-button
+youtube.com##.video-annotations
+youtube.com##.ytp-ad-progress-list
+youtube.com##.ytp-cards-teaser
+youtube.com##.ytp-ce-playlist
+youtube.com##.ytp-paid-content-overlay
+youtube.com##.ytp-pause-overlay
+youtube.com##.ytp-title-channel
 
 
 1fichier.com###cookie_box
@@ -2096,10 +2230,85 @@ youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.anno
 ||outoctillerytor.com^
 ||pdxgfnnoan.com^
 ||pegasus.unifygroup.com^
+||pi.pardot.com^
+||pitpastraja.com^
+||platform.bidgear.com^
+||platitudefivesnack.com^
+||practisecolander.com^
 ||propeller-traking.com^
+||propeller-traking.com^
+||publicidees.com^
+||pubmatic.com^
+||qlmqzznfcb.com^
+||qualaroo.com^
 ||ravenousdrawers.com^
 ||ravenousdrawers.com^
+||redfastlabs.com^
+||referrer.disqus.com^
+||revcontent.com^
+||reyden-x.com^
+||rlcdn.com^
+||rndskittytor.com^
+||rum-http-intake.logs.datadoghq.com^
+||runative-syndicate.com^
+||rvedfxeljxo.com^
+||s-img.adskeeper.com^
+||s10.histats.com^
+||sb.scorecardresearch.com^
+||scorecardresearch.com^
+||script.crazyegg.com^
+||securite.01net.com^
+||server.cpmstar.com^
+||skimegcolder.com^
+||smartadserver.com^
+||smetrics.nvidia.com^
+||speedcurve.com^
+||spotxchange.com^
+||sstatic1.histats.com^
+||st.chatango.com^
+||static-tracking.klaviyo.com^
+||static.hotjar.com^
+||stats.wp.com^
+||statsforads.com^
+||steadfastsystem.com^
+||stizoolr.com^
+||syteapi.com^
+||taboola.com^
+||tagbom.com^
+||tags.h12-media.com^
+||tags.tiqcdn.com^
+||tarsuscaul.com^
+||themoneytizer.com^
+||thresholdeliminate.com^
+||tipcatscarola.com^
+||tiqcdn.com^
+||tnzjsphdird.com^
+||tracking.cdiscount.com^
+||uhqpnhorurueku.com^
+||uptimecdn.com^
+||usounoul.com^
+||velocitycdn.com^
+||viamariller.com^
+||viglink.com^
+||vlitag.com^
+||vortex.data.microsoft.com^
+||w.usabilla.com^
+||w3counter.com^
+||waisheph.com^
+||widgets.outbrain.com^
+||wistia.com^
+||wkcuhilbg.com^
+||wpadmngr.com^
+||wtbevents.pricespider.com^
+||xiti.com
+||xpbbyiqbcawamy.com^
 ||xyn1d4bjg4vr4m2qwypvuj.com^
+||your-notice.com^
+||ytimm.com^
+||yuhvjuedhcu.com^
+||zergnet.com^
+||zikroarg.com^
+||zunsoach.com^
 
 
 ||6sc.co^
