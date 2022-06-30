@@ -700,6 +700,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.et-social-icon
 ##.et-social-icons
 ##.EUCookie
+##.evidon-banner
 ##.f-social
 ##.fa-facebook-f
 ##.fa-facebook-square
@@ -744,6 +745,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.pk-social-links-wrap
 ##.reviews-display-ad
 ##.sd-sharing
+##.share-buttons
 ##.share-facebook
 ##.share-linkedin
 ##.share-telegram
@@ -779,7 +781,9 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.uk-cookie-banner
 ##.uk-cookies
 ##.usernotice_pop:not(body):not(html)
+##.vjs-share-button
 ##.vjs-share-control
+##.vjs-share-menu-button
 ##.wh_ad_inner
 ##.widget_adswidget4-quick-adsense
 ##.widget_better-ads
@@ -1758,6 +1762,9 @@ gum-gum-streaming.com##[href="https://bit.ly/3LGb41i"] > .lazyloaded
 gum-gum-streaming.com##div.video-container > div
 help.github.com##.article-grid-toc-content:style(position: static !important;)
 hqq.*##[href="https://t.me/Russia_Vs_Ukraine_War3"]
+hqq.*##a[href="https://t.me/Russia_Vs_Ukraine_War3"]
+hqq.*##a[onclick*="openAuc();"]
+hqq.tv##[href^="https://t.me/"]
 hqq.tv##a[onclick="openAuc();"]
 hqq.tv##a[title="Free money easy"]
 hyipstats.net##.w-125px
@@ -1985,6 +1992,7 @@ bing.com###scroll_cont
 clipwatching.com###coverAds
 clipwatching.com###showmac
 cn.bing.com###b_results > li:has(:scope > h2 + .b_caption > div.b_attribution:not([u]) + p[class])
+codeur.com###follow-modal
 combien-coute.net###sd-cmp
 commentcamarche.net###ba_right
 crunchyroll.com###footer ~ .opt-in[data-role="opt-in-banner"]
@@ -2059,7 +2067,10 @@ pourdebon.com###didomi-popup
 redirect-ads.com###playback-fake
 rexel.fr###gdprCookieConsentManagedSummary
 saurclient.fr###cookies
+sendvid.com###video-js-video > [href^="javascript:"]
 sendvid.com###video-js-video > a[href="javascript:void(0)"][style*="z-index: 99999"]
+sendvid.com###vjs-logo-top-bar
+sendvid.com###vjs-logobrand
 sibnet.ru###vjs-overlayclip-container-box
 universanime.co###text-2
 universanime.co###text-2 > .textwidget
@@ -2073,6 +2084,7 @@ universanime.co###text-5 > .textwidget
 universanime.co###text-5 > .textwidget > p
 universanime.co###text-5 > .title
 video.sibnet.ru###vjs-overlayclip-box
+video.sibnet.ru###vjs-overlayclip-container-box
 video.sibnet.ru###vjs-overlayclip-container-box
 vidoza.net###videotop > iframe
 vostfree.com###ads
@@ -2341,6 +2353,7 @@ youtube.com###ticker.ytd-masthead
 ||advarkads.com^
 ||affluentshinymulticultural.com^
 ||affuentshinymulticultural.com^
+||agacelebir.com^
 ||agloowie.com^
 ||ahscdn.com^
 ||aikraboo.com^
@@ -2350,6 +2363,7 @@ youtube.com###ticker.ytd-masthead
 ||analytics-static.ugc.bazaarvoice.com^
 ||answeredfluency.com^
 ||api-cf.affirm.com^
+||aq7uama85rddeinve.com^
 ||arbaloseyepit.com^
 ||asacdn.com^
 ||asccdn.com^
@@ -2410,6 +2424,7 @@ youtube.com###ticker.ytd-masthead
 ||dogconcurrencesauce.com^
 ||dolleddhaman.com^
 ||dopansearor.com^
+||dummieseardrum.com^
 ||eec.crunchyroll.com^
 ||eehuzaih.com^
 ||eergithi.com^
@@ -2433,6 +2448,7 @@ youtube.com###ticker.ytd-masthead
 ||glersakr.com^
 ||go6shde9nj2itle.com^
 ||google-analytics.com^
+||goplayhere.com^
 ||greatdexchange.com^
 ||grubsoan.com^
 ||gstatic.com^
@@ -2492,6 +2508,7 @@ youtube.com###ticker.ytd-masthead
 ||pegasus.unifygroup.com^
 ||pi.pardot.com^
 ||pitpastraja.com^
+||plarium.com^
 ||platform.bidgear.com^
 ||platitudefivesnack.com^
 ||poshhateful.com^
@@ -2520,11 +2537,13 @@ youtube.com###ticker.ytd-masthead
 ||scorecardresearch.com^
 ||script.crazyegg.com^
 ||securite.01net.com^
+||seedtag.com^
 ||server.cpmstar.com^
 ||skimegcolder.com^
 ||smartadserver.com^
 ||smetrics.nvidia.com^
 ||speedcurve.com^
+||spotlighthemp.com^
 ||spotxchange.com^
 ||sstatic1.histats.com^
 ||st.chatango.com^
@@ -2540,6 +2559,7 @@ youtube.com###ticker.ytd-masthead
 ||taboola.com^
 ||tagbom.com^
 ||tags.h12-media.com^
+||tags.refinery89.com^
 ||tags.tiqcdn.com^
 ||tarsuscaul.com^
 ||themoneytizer.com^
@@ -2648,6 +2668,7 @@ youtube.com###ticker.ytd-masthead
 ||go-mpulse.net^
 ||jomtingi.net^
 ||kelkoogroup.net^
+||lephaush.net^
 ||mauchopt.net^
 ||monetate.net^
 ||pebed.dm-event.net^
@@ -2734,6 +2755,7 @@ $3p,xmlhttprequest,domain=01fmovies.com|1377x.to|1fichier.com|1me.club|247tpb.cl
 ||easyads28.mobi^
 ||egnatius-ear.com^$script,domain=ouo.*
 ||embed.mystream.to^
+||eu.messenger-notify.digital^
 ||fls-*.amazon.
 ||fonts.googleapis.com^$stylesheet,domain=la-spa.fr
 ||freychang.fun^
@@ -2752,6 +2774,8 @@ $3p,xmlhttprequest,domain=01fmovies.com|1377x.to|1fichier.com|1me.club|247tpb.cl
 ||img1.ak.crunchyroll.com/i/spire2/05ed6158ab0bf2442c692c2325f954571555017990_main.png$image
 ||img1.ak.crunchyroll.com/i/spire3/7b6a2f23ff22d2f7ed1b603a105db55c1623107784_main.jpg$image
 ||img1.ak.crunchyroll.com/i/spire3/68b7afadc32d87c6d7396d3b8635c3b91623614424_main.jpg$image
+||img.1fichier.com/facebook.png$image,1p
+||img.1fichier.com/twitter.png$image,1p
 ||img.leboncoin.fr/api/v1/lbcpb5/images/0b2ad893-b25f-4fc8-bec3-f44a206e835a?rule=autopromo-1200x800-png$image
 ||img.leboncoin.fr/api/v1/lbcpb5/images/0b2ad893-b25f-4fc8-bec3-f44a206e835a$image
 ||imsdb.pw/cdn-cgi/trace
@@ -3209,6 +3233,7 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 @@||google.com/recaptcha/$subdocument,csp
 @@||gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js$script
 @@||gstatic.com/cv/js/sender/v1/cast_sender.js$script
+@@||gstatic.com/recaptcha/*$script,domain=google.com
 @@||gstatic.com/recaptcha/$script
 @@||hqq.$script,1p
 @@||image.jeuxvideo.com^$image,domain=jeuxvideo.com
@@ -3223,8 +3248,13 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 @@||static.jvc.gg^$script,domain=jeuxvideo.com
 @@||static.jvc.gg^$stylesheet,domain=jeuxvideo.com
 @@||static.prod-cms.saurclient.fr^$font,domain=www.saurclient.fr
+@@||stc.cdncache.xyz/*/*.css$domain=streamz.ws
+@@||stc.cdncache.xyz/*/*.js$domain=streamz.ws
+@@||stc.cdncache.xyz/css/fonts/$domain=streamz.ws
 @@||stc.cdncache.xyz^$script,domain=streamzz.to
 @@||streamtape.com/ad.js
+@@||streamz.*/count.php^$xmlhttprequest
+@@||streamz.$generichide
 @@||toonanime.cc/engine/editor/jscripts/froala/fonts/*$font,1p
 @@||toonanime.tv/engine/editor/jscripts/froala/fonts/fontawesome-webfont.woff2?v=4.5.0$domain=toonanime.tv
 @@||unpkg.com^$script,domain=ddl-francais.com
@@ -3250,7 +3280,6 @@ bricoman.fr#@#+js(no-setTimeout-if, *)
 cedeo.fr#@#+js(no-setTimeout-if, *)
 doc.ubuntu-fr.org#@#+js(no-setTimeout-if, *)
 idealo.fr#@#+js(no-setTimeout-if, *)
-mail.aol.com#@#+js(no-setTimeout-if, *)
 mail.aol.com#@#+js(no-setTimeout-if, *)
 meteofrance.com#@#+js(no-setTimeout-if, *)
 neko-sama.io#@#+js(no-setTimeout-if, *)
