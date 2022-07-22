@@ -786,6 +786,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.icon-twitter-circle
 ##.icon-youtube
 ##.icon-youtube-circle
+##.icoShare
 ##.jetpack-social-widget-item
 ##.js-share-btn
 ##.js-smart-ad
@@ -808,6 +809,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.pk-social-links-items
 ##.pk-social-links-wrap
 ##.reseaux-sociaux-list
+##.resp-sharing-button
 ##.reviews-display-ad
 ##.rkads
 ##.scroll-to-top:not(body)
@@ -831,6 +833,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.social-likes
 ##.socialBar
 ##.socialButton
+##.socials
 ##.socials-items
 ##.sponsoredPrisma
 ##.sticky-ad-holder
@@ -2163,6 +2166,7 @@ cn.bing.com###b_results > li:has(:scope > h2 + .b_caption > div.b_attribution:no
 codeur.com###follow-modal
 combien-coute.net###sd-cmp
 commentcamarche.net###ba_right
+commentcamarche.net###ba_right
 crunchyroll.com###footer ~ .opt-in[data-role="opt-in-banner"]
 crunchyroll.com###marketing_banner
 crunchyroll.com###message_box
@@ -3288,6 +3292,8 @@ clipwatching.com##+js(abort-on-property-write, adcashMacros)
 clipwatching.com##+js(addEventListener-defuser, click, popMagic)
 clipwatching.com##+js(no-setTimeout-if, showpop)
 clipwatching.com##+js(set-constant, adblock, false)
+commentcamarche.net##+js(json-prune, siteParams.aabMessage)
+commentcamarche.net##+js(set-constant, integrityObserver.corrupted, false)
 crunchyroll.com##+js(json-prune, value.media.ad_breaks)
 crunchyroll.com##+js(no-setInterval-if, onAdVideoStart)
 dl-protect.*##+js(abort-current-script, String.fromCharCode, /btoa|break/)
@@ -3483,6 +3489,7 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 @@||cdn*.tooncdn.xyz^$xhr,domain=toonanime.xyz
 @@||cdnjs.cloudflare.com/ajax/*$script,domain=www.canon.fr
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/*$script,domain=www.msi.com
+@@||cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/*$script,domain=zooplus.fr
 @@||cdnjs.cloudflare.com^$domain=dood.la
 @@||cdnjs.cloudflare.com^$domain=fr.klipsch.com
 @@||cdnjs.cloudflare.com^$script,domain=cedeo.fr
@@ -3593,6 +3600,7 @@ vudeo.io#@#+js(abort-current-script, document.createElement, delete window)
 
 
 aol.com#@#.navigation:style(position: absolute !important; top: 0 !important; z-index: -1 !important;)
+commentcamarche.net#@#.top_btn
 digitaltendances.com#@#img[class*="aligncenter"][src*=".jpg"]
 gaz-tarif-reglemente.fr#@##backToTop:not(html):not(body)
 github.com#@#.social-count
