@@ -5,10 +5,13 @@ _ad_choices_
 _adblock_killer.
 _adblocker_detected
 _pagespeed_beacon?
+_xa/ads_
 -300x250-$~xmlhttprequest
 -adblock-notice-
 -adblock-notice/*
 -cookie-law-popup.
+-porn-$all,important
+-porno-$all,important
 -share-buttons3/
 -sociaux.$domain=~centres-sociaux.fr
 ://ads2.
@@ -17,6 +20,7 @@ _pagespeed_beacon?
 ://matomo.
 ://piwik.$domain=~matomo.org|~piwik.pro
 ?*&refer=*&key=*&scrwidth=*&scrheight=$popup
+?action=saveviewstat&
 .*/adv/
 .com/1clkn/
 .com/adx/
@@ -27,7 +31,11 @@ _pagespeed_beacon?
 .histats.*.js
 .ru/ads/
 .tns-counter.ru/v13a
+.xxx/ads/
+*porn*$all,important
+*porno*$all,important
 /__cookie_js.php
+/300x600_
 /:\/\/www\.([a-z]{6,16})\.com\/([a-z]{1,4})\.js$/$script,3p
 //eu.messenger-notify.digital/*$popup
 /\/[0-9a-z]{8,10}\?shu=[0-9a-z]{150,}/$document
@@ -147,6 +155,7 @@ _pagespeed_beacon?
 /cookiebar.
 /cookieBox.js
 /cookieCompliance.js
+/cookieconsent
 /cookieConsent-
 /cookiecontrol-
 /cookiecontrol.js
@@ -198,6 +207,7 @@ _pagespeed_beacon?
 /eucookielaw.js$script
 /event-tracking/*
 /ezcl.webp?
+/facebook-btn.$~stylesheet
 /favicon.ico$image,3p,domain=~streameast.live|~apple.com|~douban.com|~bahn.de|~winfuture.de|~bt.com|~ebay.com.au|~ebay.com|~ebay.co.uk|~go.com|~github.com|~microsoft.com|~stackexchange.com|~stackoverflow.com|~askubuntu.com|~reddit.com|~4chan.org|~twitter.com|~live.com|~espn.com|~yahoo.com
 /fingerprint2.min.js
 /fontawesome-*$font
@@ -227,6 +237,7 @@ _pagespeed_beacon?
 /gplus_icon.
 /greenoaks.gif?
 /gtm.js
+/ht.js?site_
 /html/body/div[2]/div[1]
 /https?:\/\/\w{10,}\.com\/\w{10,}\/\d{5}/$script,3p
 /i?stm=
@@ -248,6 +259,7 @@ _pagespeed_beacon?
 /img/social-
 /img/social/*$image
 /img/tw.
+/img/twitter.
 /imp.gif?
 /inc/antiblock.
 /inc/ezcl.
@@ -279,10 +291,12 @@ _pagespeed_beacon?
 /pixel/sbe?
 /plugins/CookieInfo/*
 /plugins/popup-maker/*$script,domain=~tracktion.com
+/popunder.
 /popup/adblocker
 /porpoiseant/*
 /prebid.$domain=~prebid.org
 /production/ads/*
+/promo-banner.$3p
 /px.gif?
 /rbicookiepolicy.
 /redirect?tid=$popup
@@ -293,6 +307,7 @@ _pagespeed_beacon?
 /rss.png
 /rss15.
 /ruxitagentjs_
+/script.$domain=amateurfrancais.com|pornogaulois.com|sexefelin.com|tootx.com|tubixe.com|twistedporn.com|vidsexe.com|webchoc.com
 /scroll-to-top/*
 /share-buttons/*
 /share-link/*
@@ -321,6 +336,7 @@ _pagespeed_beacon?
 /sponsored-articles/*$xmlhttprequest
 /stats.wawacity.
 /stats/footer.
+/stattracker-
 /supercookie-
 /SvgAdblockDetected/*
 /tagcommander_
@@ -367,7 +383,7 @@ eu.messenger-notify.digital$popup
 facebook.com/plugins/$domain=~facebook.com|~freepresets.com
 gfvbbbbbbbbFRTD_ad_choices_
 i.ibb.co/kg3hHbm
-
+xnxx.
 
 =ads_top&rand
 =comscoreadobedpvcall&
@@ -441,6 +457,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.ad-interstitial
 ##.ad-item
 ##.ad-left
+##.ad-link:not(.adsbox)
 ##.ad-marker
 ##.ad-masthead
 ##.ad-mpu-plus-top
@@ -501,7 +518,9 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.ads-right
 ##.adsblocked
 ##.adsbox
+##.adsbyexoclick
 ##.adsbygoogle
+##.adsbytrafficjunky
 ##.adsbyvli
 ##.adSense
 ##.adtester-container
@@ -527,6 +546,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.back-top
 ##.back-top:not(html):not(body)
 ##.backtotop
+##.backtotop:not(html):not(body)
 ##.badge-style-type-ad
 ##.bannerInformativaEU
 ##.barre sociale
@@ -582,6 +602,8 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.cookie_accept
 ##.cookie_bar
 ##.cookie_content
+##.cookie_disclaimer
+##.cookie_disclaimer:not(body):not(html)
 ##.cookie_info
 ##.cookie_message
 ##.cookie_message:not(body):not(html)
@@ -680,6 +702,8 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.cookieOptIn
 ##.cookiePolicy
 ##.cookiepolicy
+##.cookies-accept
+##.cookies-accept:not(body):not(html):not(fieldset):not(button)
 ##.cookies-alert
 ##.cookies-container
 ##.cookies-container:not(body):not(html)
@@ -690,7 +714,9 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.cookies-policy
 ##.cookies-popup
 ##.cookies-warning
+##.cookies-wrapper
 ##.cookiesAlert
+##.cookiesBanner:not(body):not(html)
 ##.cookiesBar
 ##.cookiesContent
 ##.cookiesInfo
@@ -726,6 +752,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.et-social-icon
 ##.et-social-icons
 ##.EUCookie
+##.euCookieModal
 ##.evidon-banner
 ##.f-social
 ##.fa-facebook
@@ -736,6 +763,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.fa-google-plus
 ##.fa-instagram
 ##.fa-pinterest
+##.fa-reddit-square
 ##.fa-twitter
 ##.fa-twitter-square
 ##.fa-youtube
@@ -766,6 +794,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.header-menu-bottom-ads
 ##.header-social
 ##.header-social-icons
+##.homePageAds
 ##.house-ad
 ##.HTjtHe
 ##.icon-facebook
@@ -788,6 +817,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.icon-youtube-circle
 ##.icoShare
 ##.jetpack-social-widget-item
+##.js_scroll_top
 ##.js-share-btn
 ##.js-smart-ad
 ##.js-twitter-share
@@ -808,14 +838,17 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.pk-share-buttons-wrap
 ##.pk-social-links-items
 ##.pk-social-links-wrap
+##.remove-ads
 ##.reseaux-sociaux-list
 ##.resp-sharing-button
 ##.reviews-display-ad
 ##.rkads
+##.scroll_top_btn
 ##.scroll-to-top:not(body)
 ##.scroll-to-top:not(html):not(body)
 ##.scrollToTop
 ##.scrollToTop:not(html):not(body)
+##.scrollup:not(html):not(body)
 ##.sd-sharing
 ##.share-buttons
 ##.share-facebook
@@ -827,12 +860,15 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.social__twitter
 ##.social__youtube
 ##.social_buttons
+##.social_container
 ##.social-foot
 ##.social-icon-facebook
 ##.social-icon-twitter
 ##.social-likes
+##.social-row
 ##.socialBar
 ##.socialButton
+##.socialIconsWrapper
 ##.socials
 ##.socials-items
 ##.sponsoredPrisma
@@ -857,6 +893,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.totop
 ##.trustpilot-widget
 ##.tsAttention--Info--bouton
+##.twitter_btn
 ##.twitter-follow-button
 ##.twitter-icon
 ##.twitter-share-button
@@ -902,6 +939,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##[href*="share.flipboard.com"]
 ##[href*="twitter.com/intent/tweet"]
 ##[href*="twitter.com/share"]
+##[href="https://*/Social/Facebook"]
 ##[href="https://t.me/Russia_Vs_Ukraine_War3"]
 ##[id*="ScriptRoot"]
 ##[id^="ads_"]
@@ -953,9 +991,12 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##a[href^="http://www.tumblr.com/share/"]
 ##a[href^="https://affcpatrk.com/"]
 ##a[href^="https://api.whatsapp.com/send?text="]
+##a[href^="https://black77854.com/"]
 ##a[href^="https://connect.ok.ru/offer?url="]
 ##a[href^="https://facebook.com/sharer.php?"]
 ##a[href^="https://feedly.com/i/subscription/"]
+##a[href^="https://go.xxxiijmp.com"]
+##a[href^="https://pcm.bannerator.com/"]
 ##a[href^="https://pinterest.com/pin/create/"]
 ##a[href^="https://plus.google.com/share?"]
 ##a[href^="https://plus.google.com/share"]
@@ -965,6 +1006,8 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##a[href^="https://telegram.me/share/url?"]
 ##a[href^="https://tm-offers.gamingadult.com/"]
 ##a[href^="https://ttf.trmobc.com/"]
+##a[href^="https://twitter.com/home?"]
+##a[href^="https://twitter.com/home?status="]
 ##a[href^="https://twitter.com/intent/tweet?"]
 ##a[href^="https://twitter.com/intent/tweet/?"]
 ##a[href^="https://twitter.com/intent/tweet/"]
@@ -972,6 +1015,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##a[href^="https://twitter.com/share"]
 ##a[href^="https://vk.com/share.php?"]
 ##a[href^="https://vk.com/share.php"]
+##a[href^="https://wittered-mainging.com/"]
 ##a[href^="https://www.facebook.com/dialog/feed?"]
 ##a[href^="https://www.facebook.com/share.php?"]
 ##a[href^="https://www.facebook.com/sharer.php?"]
@@ -984,6 +1028,8 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##a[href^="https://www.linkedin.com/sharing/"]
 ##a[href^="https://www.linkedin.com/sharing/share-offsite/?"]
 ##a[href^="https://www.pinterest.com/pin/create/button/"]
+##a[href^="https://www.reddit.com/submit?"]
+##a[href^="https://www.reddit.com/submit"]
 ##a[href^="https://www.tumblr.com/share"]
 ##a[href^="https://www.tumblr.com/share/"]
 ##a[href^="whatsapp://send"]
@@ -1021,6 +1067,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##body.modal-open:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
 ##button[title="Partager"]
 ##button[title="Share on Twitter"]
+##div.cookiesBanner
 ##div[annonce de données]
 ##div[balise-iab-data]
 ##div[button="partager"]
@@ -1051,6 +1098,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##div[title="Go to top"]
 ##div[title="Scroll Back to Top"]
 ##gh-cookieb-active
+##iframe[src*="//a.realsrv.com/iframe.php"]
 ##iframe[src*="//imasdk.googleapis.com/js/core/bridge"][src*= ».html"]
 ##iframe[src*="//imasdk.googleapis.com/js/core/bridge"][src*=".html"]
 ##iframe[src*="//rcm-"][src*=".amazon-adsystem.com/e/cm"]
@@ -1059,6 +1107,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##img[alt^="Partager sur Twitter"]
 ##img[src*="//counter.yadro.ru/"]
 ##img[src*="counter.yadro.ru"]
+##img[width="88"][height="31"]
 ##img[width="160"][height="600"]
 ##img[width="728"][height="90"]
 ##ins.adsbygoogle
@@ -1083,6 +1132,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ###ad-300_atf-label
 ###ad-300_btf-label
 ###ad-banner_atf-label
+###ad-footer:not([style^="position: absolute; left: -5000px"])
 ###adb-actived
 ###adb-enabled
 ###adb-enabled3
@@ -1362,6 +1412,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ###CookieQBanner
 ###cookiereports-badge
 ###CookieReportsButton
+###cookies
 ###cookies_apla
 ###cookies_banner
 ###cookies_box
@@ -1507,11 +1558,13 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ###global-cookie-message
 ###gn-cookie-accept
 ###go-to-top
+###googleplus
 ###gotop
 ###gotop:not(html):not(body)
 ###h_popup
 ###have-a-cookie
 ###hi-cookie-box
+###hideAd
 ###hr_cookie_policy_message
 ###huk_cookie_prefernce_panel
 ###hw_cookie_law
@@ -1542,6 +1595,7 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ###jGoTop:not(html):not(body)
 ###jlp-cookie-container
 ###jquery-cookie-law-script
+###js_euCookieModal.euCookieModal
 ###js_popup_cookies.belka-cookies
 ###js_pushDownCookieMessage
 ###js-cookies-bar
@@ -1687,6 +1741,8 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ###wk_cookies
 ###WP-cookie-info
 ###wpca-bar
+###wpnp_next
+###wpnp_previous
 ###wrapCookie
 ###wrapperBlocker
 ###ws-cookie-consent-msg
@@ -1694,6 +1750,38 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 
 short-ly.co,svetapple.sk,finya.de,makemoneywithurl.com,finchtechs.com,turkiyegazetesi.com.tr,mentalflare.com,apkmb.com,izle7.com,spidermods.in,karaoke-lyrics.net,shabdkosh.com,synonyms.com,borsatek.com,quotes.net,tv100.com,videezy.com,ik4.es,peak.cz,branchen-info.net,online-stellenmarkt.net,nova.cz,entrepreneur.com,thinkmobiles.com,speedrun.com,mifirm.net,mathrubhumi.com,thehimalayantimes.com,aleph.org.mx,tellows.de,ich-geh-wandern.de,stopots.com,alternativeto.net,wunschliste.de,kiz10.com,thetechbasket.com,wetter24.de,wetterstationen.meteomedia.de,donnerwetter.de,gotvach.bg,iteramos.com,sizechart.com,mobinozer.com,kamuajans.com,grammar.com,karaoketexty.cz,sme.sk,imhd.sk,fanatik.ro,songmeanings.com,tgrthaber.com.tr,pesmaster.com,zedge.net,interez.sk,lyricsondemand.com,gbnews.uk,letemsvetemapplem.eu,filmibeat.com,moddedguru.com,tellychakkar.com,uschovna.cz,dotabuff.com,wuolah.com,infobae.com,adnkronos.com,t24.com.tr,afterdawn.com,animesonglyrics.com,canadafreepress.com,vladan.fr,jablickar.cz,myhealthgazette.com,windowspro.de,kizlarsoruyor.com,enmimaquinafunciona.com,firenzetoday.it,hrej.cz,ispazio.net,timeanddate.de,calcolareonline.eu,haberler.com,newindianexpress.com,factinate.com,proiezionidiborsa.it,telefonnummer.net,ohtuleht.ee,mynet.com,ruyalar.net,bezprawnik.pl,sonichits.com,akinator.mobi,spidersweb.pl,geekzone.co.nz,gameblog.fr,pacogames.com,ntower.de,oyunturu.org,timeout.co.il,mobilityarena.com,smallseotools.com,zilinak.sk,bolec.info,veneziatoday.it,scientias.nl,musixmatch.com,log.com.tr,pinkvilla.com,shwoghk14.blogspot.com,animalpedia.it,hifi.de,hifi-forum.de,casertanews.it,brindisireport.it,slangit.com,romatoday.it,apkmirror.com,planeteanimal.com,sadeczanin.info,lyricstranslate.com,zerohedge.com,aktuality.sk,ixbt.com,dotesports.com,europapress.es,guiainfantil.com,nme.com,tupi.fm,ehitusfoorum.com,eksiup.com,monwindows.com,paradurumu.com,browserhow.com,posta.com.tr,odatv4.com,cumhuriyet.com.tr,yenicaggazetesi.com.tr,recipesnk.com,motornk.com,worldmangas.com,mangalong.com,mistermanga.com,anitoc.com,enginepassion.com,thepostmillennial.com,mangaready.com,alvinet.com,abbreviations.com,lectortmo.com,openshot.org,fanatik.com.tr,hurriyetdailynews.com,hurriyet.com.tr,iflscience.com,punchng.com,zacks.com,kanald.com.tr,digitbin.com,doodle.com,gamerant.com,screenrant.com,linuxsmartphones.com,liliputing.com,ioccasion.fr,watchgeneration.fr,macg.co,igen.fr,wordreference.com,letsrun.com,lesfrontaliers.lu,interpals.net,mediafire.com,feber.se,overclock.net,phonearena.com,skyscrapercity.com,mtb-news.de,geekwire.com,bimmerfest.com,accuweather.com#$#body div.fc-consent-root { display: none !important; }
 short-ly.co,svetapple.sk,finya.de,makemoneywithurl.com,finchtechs.com,turkiyegazetesi.com.tr,mentalflare.com,apkmb.com,izle7.com,spidermods.in,karaoke-lyrics.net,shabdkosh.com,synonyms.com,borsatek.com,quotes.net,tv100.com,videezy.com,ik4.es,peak.cz,branchen-info.net,online-stellenmarkt.net,nova.cz,entrepreneur.com,thinkmobiles.com,speedrun.com,mifirm.net,mathrubhumi.com,thehimalayantimes.com,aleph.org.mx,tellows.de,ich-geh-wandern.de,stopots.com,alternativeto.net,wunschliste.de,kiz10.com,thetechbasket.com,wetter24.de,wetterstationen.meteomedia.de,donnerwetter.de,gotvach.bg,iteramos.com,sizechart.com,mobinozer.com,kamuajans.com,grammar.com,karaoketexty.cz,sme.sk,imhd.sk,fanatik.ro,songmeanings.com,tgrthaber.com.tr,pesmaster.com,zedge.net,interez.sk,lyricsondemand.com,gbnews.uk,letemsvetemapplem.eu,filmibeat.com,moddedguru.com,tellychakkar.com,uschovna.cz,dotabuff.com,wuolah.com,infobae.com,adnkronos.com,t24.com.tr,afterdawn.com,animesonglyrics.com,canadafreepress.com,vladan.fr,jablickar.cz,myhealthgazette.com,windowspro.de,kizlarsoruyor.com,enmimaquinafunciona.com,firenzetoday.it,hrej.cz,ispazio.net,timeanddate.de,calcolareonline.eu,haberler.com,newindianexpress.com,factinate.com,proiezionidiborsa.it,telefonnummer.net,ohtuleht.ee,mynet.com,ruyalar.net,bezprawnik.pl,sonichits.com,akinator.mobi,spidersweb.pl,geekzone.co.nz,gameblog.fr,pacogames.com,ntower.de,oyunturu.org,timeout.co.il,mobilityarena.com,smallseotools.com,zilinak.sk,bolec.info,veneziatoday.it,scientias.nl,musixmatch.com,log.com.tr,pinkvilla.com,shwoghk14.blogspot.com,animalpedia.it,hifi.de,hifi-forum.de,casertanews.it,brindisireport.it,slangit.com,romatoday.it,apkmirror.com,planeteanimal.com,sadeczanin.info,lyricstranslate.com,zerohedge.com,aktuality.sk,ixbt.com,dotesports.com,europapress.es,guiainfantil.com,nme.com,tupi.fm,ehitusfoorum.com,eksiup.com,monwindows.com,paradurumu.com,browserhow.com,posta.com.tr,odatv4.com,cumhuriyet.com.tr,yenicaggazetesi.com.tr,recipesnk.com,motornk.com,worldmangas.com,mangalong.com,mistermanga.com,anitoc.com,enginepassion.com,thepostmillennial.com,mangaready.com,alvinet.com,abbreviations.com,lectortmo.com,openshot.org,fanatik.com.tr,hurriyetdailynews.com,hurriyet.com.tr,iflscience.com,punchng.com,zacks.com,kanald.com.tr,digitbin.com,doodle.com,gamerant.com,screenrant.com,linuxsmartphones.com,liliputing.com,ioccasion.fr,watchgeneration.fr,macg.co,igen.fr,wordreference.com,letsrun.com,lesfrontaliers.lu,interpals.net,mediafire.com,feber.se,overclock.net,phonearena.com,skyscrapercity.com,mtb-news.de,geekwire.com,bimmerfest.com,accuweather.com#$#body { overflow: visible !important; }
+
+
+absoluporn.com##*
+baise3x.com##*
+coqnu.com##*
+cupidonmedia.com##*
+dyn.tnaflix.com##*
+easysexe.com##*
+ei.phncdn.com##*
+fuq.com##*
+heureporno.com##*
+ixxx.com##*
+k.schnell-treffen.com##*
+lavideodujourjetm.net##*
+plx.tukif.com##*
+pornhub.com##*
+realsrv.com##*
+ruenu.com##*
+sexefelin.com##*
+static-l3.xnxx-cdn.com##*
+tracker.tubecj.com##*
+trafficjunky.com##*
+tukif.com##*
+tukifporno.com##*
+videoassets.tukif.com##*
+www.porn300.com##*
+xhamster.com##*
+xhcdn.com##*
+xnxx.com##*
+xrass.com##*
+xvideos.com##*
+youporn.*##*
 
 
 1fichier.com##.ui-widget-content[aria-describedby="modal-msg"]
@@ -2309,6 +2397,12 @@ youtube.com###player-ads
 youtube.com###ticker.ytd-masthead
 
 
+||*.sex^
+||*.porn^
+||*.gay^
+||*.xxx^
+
+
 ||d1ev866ubw90c6.cloudfront.net^
 ||d1f05vr3sjsuy7.cloudfront.net^
 ||d1lxz4vuik53pc.cloudfront.net^
@@ -2537,6 +2631,7 @@ youtube.com###ticker.ytd-masthead
 ||a-ads.com^
 ||a.klaviyo.com^
 ||abgligarchan.com^
+||absoluporn.com^
 ||abtasty.com^
 ||acdcdn.com^
 ||achcdn.com^
@@ -2571,6 +2666,7 @@ youtube.com###ticker.ytd-masthead
 ||arbaloseyepit.com^
 ||asacdn.com^
 ||asccdn.com^
+||baise3x.com^
 ||barthnullary.com^
 ||bat.bing.com^
 ||batch.com^
@@ -2615,12 +2711,14 @@ youtube.com###ticker.ytd-masthead
 ||connect.idocdn.com^
 ||consent.cmp.oath.com^
 ||consent.cookiebot.com^
+||coqnu.com^
 ||cowardlymissinggranulated.com^
 ||cpmstar.com^
 ||criteo.com^
 ||cryptodefiverse.com^
 ||cuddlethehyena.com^
 ||cultergoy.com^
+||cupidonmedia.com^
 ||cyjaruvndimgaa.com^
 ||daijopimplo.com^
 ||dalet.com^
@@ -2641,10 +2739,13 @@ youtube.com###ticker.ytd-masthead
 ||doodstream.com^
 ||dopansearor.com^
 ||dummieseardrum.com^
+||dyn.tnaflix.com^
 ||e2ertt.com^
+||easysexe.com^
 ||eec.crunchyroll.com^
 ||eehuzaih.com^
 ||eergithi.com^
+||ei.phncdn.com^
 ||enamberchivies.com^
 ||ensighten.com^
 ||estat.com^
@@ -2661,6 +2762,7 @@ youtube.com###ticker.ytd-masthead
 ||forter.com^
 ||fri4esianewheywr90itrage.com^
 ||fundingchoicesmessages.google.com^
+||fuq.com^
 ||gaigroak.com^
 ||gamesathletes.com^
 ||genistawabbler.com^
@@ -2677,6 +2779,7 @@ youtube.com###ticker.ytd-masthead
 ||h12-media.com^
 ||hardimacolous.com^
 ||hemquotedchamber.com^
+||heureporno.com^
 ||highperformancecpm.com^
 ||hit-parade.com^
 ||hs-scripts.com^
@@ -2696,6 +2799,7 @@ youtube.com###ticker.ytd-masthead
 ||intelligenceadx.com^
 ||ipmbnqqaon.com^
 ||itheatmoran.com^
+||ixxx.com^
 ||jac.yahoosandbox.com^
 ||jighucme.com^
 ||jill.fc.yahoo.com^
@@ -2706,6 +2810,7 @@ youtube.com###ticker.ytd-masthead
 ||jwpcdn.com^
 ||jwpltx.com^
 ||jywigigu.com^
+||k.schnell-treffen.com^
 ||kronosspell.com^
 ||launchingonsetwhirlwind.com^
 ||lcdn.tsyndicate.com^
@@ -2740,7 +2845,9 @@ youtube.com###ticker.ytd-masthead
 ||plarium.com^
 ||platform.bidgear.com^
 ||platitudefivesnack.com^
+||plx.tukif.com^
 ||podosupsurge.com^
+||pornhub.com^
 ||poshhateful.com^
 ||practisecolander.com^
 ||profitablecpmgate.com^
@@ -2753,6 +2860,7 @@ youtube.com###ticker.ytd-masthead
 ||qlmqzznfcb.com^
 ||qualaroo.com^
 ||ravenousdrawers.com^
+||realsrv.com^
 ||redfastlabs.com^
 ||referrer.disqus.com^
 ||restoro.com^
@@ -2782,6 +2890,7 @@ youtube.com###ticker.ytd-masthead
 ||spotxchange.com^
 ||sstatic1.histats.com^
 ||st.chatango.com^
+||static-l3.xnxx-cdn.com^
 ||static-tracking.klaviyo.com^
 ||static.cloudflareinsights.com^
 ||static.hotjar.com^
@@ -2807,16 +2916,20 @@ youtube.com###ticker.ytd-masthead
 ||tiqcdn.com^
 ||tnzjsphdird.com^
 ||tootseloin.com^
+||tracker.tubecj.com^
 ||tracking.cdiscount.com^
 ||tradedoubler.com^
+||trafficjunky.com^
 ||triplelift.com^
 ||trmobc.com^
+||tukif.com^
 ||tzegilo.com^
 ||uhqpnhorurueku.com^
 ||uptimecdn.com^
 ||usounoul.com^
 ||velocitycdn.com^
 ||viamariller.com^
+||videoassets.tukif.com^
 ||viglink.com^
 ||visiblejoseph.com^
 ||vlitag.com^
@@ -2830,9 +2943,16 @@ youtube.com###ticker.ytd-masthead
 ||wkcuhilbg.com^
 ||wpadmngr.com^
 ||wtbevents.pricespider.com^
+||www.porn300.com^
+||www.porno*.com^
 ||wysistat.com^
+||xhamster.com^
+||xhcdn.com^
 ||xiti.com
+||xnxx.com^
 ||xpbbyiqbcawamy.com^
+||xrass.com^
+||xvideos.com^
 ||xyn1d4bjg4vr4m2qwypvuj.com^
 ||youngsterbusinessman.com^
 ||your-notice.com^
@@ -2852,11 +2972,13 @@ youtube.com###ticker.ytd-masthead
 ||kameleoon.eu^
 
 
+||.pornoplus.fr^
 ||d-bi.fr^
 ||early-birds.fr^
 ||push.neko-san.fr^
 ||res.paruvendu.fr^
 ||weborama.fr^
+||www.porno*.fr^
 
 
 ||teads.tv^
@@ -2887,6 +3009,9 @@ youtube.com###ticker.ytd-masthead
 ||yomeno.xyz^
 
 
+||www.mvideoporno.xxx^
+
+
 ||xyz^$script,3p,domain=~anidub.com|~animedia.pro|~animeheaven.ru|~animevibe.wtf|~app.element.io|~assistir-filme.biz|~auth.magic.link|~avtomaty-i-bonusy.com|~coomeet.com|~crackstreams.com|~crackstreams.ga|~csgoreports.com|~cvid.kiev.ua|~emblix.cc|~estream.to|~europixhd.io|~films.hds-stream.com|~flowcdn.nl|~funtik.tv|~getvi.tv|~github.io|~hanime.tv|~hentaiz.org|~herokuapp.com|~infoua.biz|~jokehd.com|~jokerswidget.com|~jokerswidget.org|~kinoguru.be|~kinoguru.me|~kristinita.ru|~live-golf.stream|~live-nhl.stream|~lookbase.xyz|~magicfilm.net|~mail.google.com|~map-a-date.cc|~matchat.online|~mikeamigorein.xyz|~miranimbus.ru|~my.mail.ru|~nccg.ru|~newdmn.icu|~onmovies.se|~playjoke.xyz|~roadhub.ru|~roblox.com|~sextop.net|~soccer365.ru|~soonwalk.net|~sportsbay.org|~streetbee.io|~streetbee.ru|~telerium.club|~telerium.live|~uacycling.info|~uploadedpremiumlink.net|~vk.com|~vmeste.tv|~web.app
 ||xyz^$xmlhttprequest,3p,domain=~anidub.com|~animedia.pro|~animeheaven.ru|~animevibe.wtf|~app.element.io|~assistir-filme.biz|~auth.magic.link|~avtomaty-i-bonusy.com|~coomeet.com|~crackstreams.com|~crackstreams.ga|~csgoreports.com|~cvid.kiev.ua|~emblix.cc|~estream.to|~europixhd.io|~films.hds-stream.com|~flowcdn.nl|~funtik.tv|~getvi.tv|~github.io|~hanime.tv|~hentaiz.org|~herokuapp.com|~infoua.biz|~jokehd.com|~jokerswidget.com|~jokerswidget.org|~kinoguru.be|~kinoguru.me|~kristinita.ru|~live-golf.stream|~live-nhl.stream|~lookbase.xyz|~magicfilm.net|~mail.google.com|~map-a-date.cc|~matchat.online|~mikeamigorein.xyz|~miranimbus.ru|~my.mail.ru|~nccg.ru|~newdmn.icu|~odysee.com|~onmovies.se|~playjoke.xyz|~roadhub.ru|~roblox.com|~sextop.net|~soccer365.ru|~soonwalk.net|~sportsbay.org|~streetbee.io|~streetbee.ru|~telerium.club|~telerium.live|~uacycling.info|~uploadedpremiumlink.net|~vk-apps.com|~vk.com|~vmeste.tv|~web.app
 
@@ -2914,6 +3039,7 @@ youtube.com###ticker.ytd-masthead
 ||eulerian.net^
 ||fwmrm.net^
 ||go-mpulse.net^
+||jacquieetmicheltv.net^
 ||jomtingi.net^
 ||kelkoogroup.net^
 ||lephaush.net^
@@ -2962,6 +3088,7 @@ $3p,xmlhttprequest,domain=01fmovies.com|1377x.to|1fichier.com|1me.club|247tpb.cl
 ||adapex.io^$3p
 ||adobedtm.com^$3p,domain=~adobe.com
 ||adsco.re^
+||adserver*/?sdomain=$document
 ||affirm.com/api/v2/cookie_sent
 ||allocine.fr/_/geolocalize
 ||amazon.*/action-impressions/
@@ -3091,6 +3218,7 @@ $3p,xmlhttprequest,domain=01fmovies.com|1377x.to|1fichier.com|1me.club|247tpb.cl
 ||t.co/Oj2WdFcXgO$popup,domain=parisanime.com
 ||tagbucket.cc^
 ||tagcommander.com^*/tc_$script,important
+||tnaflix.com/js/mew.js
 ||topsitestreaming.info/wp-content/uploads/2020/06/DEVIENSAMBASSADEUR.jpg$image
 ||tra.scds.pmdstatic.net/sourcepoint/
 ||trustcommander.net/iab-tcfapi/
