@@ -2812,6 +2812,7 @@ youtube.com###ticker.ytd-masthead
 ||jywigigu.com^
 ||k.schnell-treffen.com^
 ||kronosspell.com^
+||lassampy.com^
 ||launchingonsetwhirlwind.com^
 ||lcdn.tsyndicate.com^
 ||lhhrupisllmy.com^
@@ -2931,6 +2932,7 @@ youtube.com###ticker.ytd-masthead
 ||viamariller.com^
 ||videoassets.tukif.com^
 ||viglink.com^
+||vinegarfactorelevator.com
 ||visiblejoseph.com^
 ||vlitag.com^
 ||vortex.data.microsoft.com^
@@ -3038,6 +3040,7 @@ youtube.com###ticker.ytd-masthead
 ||ds-aksb-a.akamaihd.net
 ||eulerian.net^
 ||fwmrm.net^
+||glugherg.net^
 ||go-mpulse.net^
 ||jacquieetmicheltv.net^
 ||jomtingi.net^
@@ -3719,6 +3722,7 @@ neko-sama.io#@#+js(no-setTimeout-if, *)
 pluto.tv#@#+js(set-constant, Document.prototype.interestCohort, 'undefined)
 speedtest.net#@#+js(no-setInterval-if, *)
 speedtest.net#@#+js(no-setTimeout-if, *)
+uqload.com#@#+js(abort-current-script, document.createElement, break;case $.)
 vudeo.io#@#+js(abort-current-script, document.createElement, delete window)
 
 
