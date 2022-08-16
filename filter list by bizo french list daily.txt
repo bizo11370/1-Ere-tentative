@@ -816,10 +816,318 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ##.icon-share
 ##.icon-social-facebook-circle
 ##.icon-social-instagram-circle
+##.icon-social-mail-circle
+##.icon-social-twitter-circle
+##.icon-twitter
+##.icon-twitter-circle
+##.icon-youtube
+##.icon-youtube-circle
+##.icoShare
+##.jetpack-social-widget-item
+##.js_scroll_top
+##.js-share-btn
+##.js-smart-ad
+##.js-twitter-share
+##.jw-settings-sharing
+##.jw-submenu-sharing
+##.layout__adHeader
+##.layout__adPlaceHolder
+##.linkedin
+##.list-inline.social
+##.ListSocial
+##.m-jac-ad
+##.m-video-wafer
+##.meta-share
+##.OUTBRAIN
+##.pinterest
+##.pk-share-buttons-item
+##.pk-share-buttons-link
+##.pk-share-buttons-wrap
+##.pk-social-links-items
+##.pk-social-links-wrap
 ##.policy-cookie
 ##.policy-cookie:not(body):not(html)
+##.remove-ads
+##.reseaux-sociaux-list
+##.resp-sharing-button
+##.reviews-display-ad
+##.rkads
+##.scroll_top_btn
+##.scroll-to-top:not(body)
+##.scroll-to-top:not(html):not(body)
+##.scrollToTop
+##.scrollToTop:not(html):not(body)
+##.scrollup:not(html):not(body)
+##.sd-sharing
+##.share-buttons
+##.share-facebook
 ##.share-link
+##.share-linkedin
+##.share-telegram
+##.share-twitter
+##.simple-social-icons
+##.social__facebook
+##.social__twitter
+##.social__youtube
+##.social_buttons
+##.social_container
+##.social-foot
+##.social-icon-facebook
+##.social-icon-twitter
+##.social-likes
+##.social-row
+##.socialBar
+##.socialButton
+##.socialIconsWrapper
+##.socials
+##.socials-items
+##.sponsoredPrisma
+##.sticky-ad-holder
+##.swf-social-site
+##.swp_social_panel
+##.tc-privacy-overlay
+##.td-icon-facebook
+##.td-icon-instagram
+##.td-icon-twitter
+##.td-post-sharing
+##.td-post-sharing-bottom
+##.td-scroll-up
+##.td-social-icon-wrap
+##.td-social-sharing-button
+##.test-adblock-overlay
+##.to-top:not(html):not(body)
+##.toast-type-newCookie
+##.top_btn
+##.top-bar-adblock
+##.top-popup-gdpr:not(body):not(html)
+##.totop
+##.trustpilot-widget
+##.tsAttention--Info--bouton
+##.twitter_btn
+##.twitter-follow-button
+##.twitter-icon
+##.twitter-share-button
+##.uk-cookie-banner
+##.uk-cookies
+##.usernotice_pop:not(body):not(html)
+##.vjs-share-button
+##.vjs-share-control
+##.vjs-share-menu-button
+##.wh_ad_inner
+##.widget_adswidget4-quick-adsense
+##.widget_better-ads
+##.wp_adblock_detect
+##.wpd-sbs-title
+##.wpdiscuz-subscribe-bar
+##.wrapper--cookies
+##.ya-share2
+##.ytp-share-button
+##.zergnet
+##.zergnet-widget
+##.zone-reseaux-sociaux
+##[aria-label="Back to top"]
+##[aria-label="cookieconsent"]
+##[class][data-sitename][data-header-version] > div[id^="detection-block"]
+##[class*="auto-bottom-advertising-"]
+##[class*="socialLink"]
+##[conteneur de données-ajax-newsletter-abonnement]
+##[data-ad-cls]
+##[data-ad-position]
+##[data-ads-core]
+##[data-ajax-newsletter-subscription-container]
+##[data-alert-cookie]
+##[href*= ».smartadserver.com"]
+##[href*="//agacelebir.com"]
+##[href*="/afu.php"]
+##[href*="facebook.com/share.php?u="]
+##[href*="facebook.com/sharer.php?"]
+##[href*="facebook.com/sharer/sharer.php?"]
+##[href*="linkedin.com/shareArticle"]
+##[href*="pinterest.com/pin/create/button/"]
+##[href*="postlnk.com"]
+##[href*="reddit.com/submit?url="]
+##[href*="share.flipboard.com"]
+##[href*="twitter.com/intent/tweet"]
+##[href*="twitter.com/share"]
+##[href="https://*/Social/Facebook"]
+##[href="https://t.me/Russia_Vs_Ukraine_War3"]
+##[id*="ScriptRoot"]
+##[id^="ads_"]
+##[id^="adswidget2-quick-adsense"]
+##[id^="adswidget3-quick-adsense"]
+##[id^="div-gpt-ad"]
+##[id^="sl_share_fb"]
+##[onclick^="window.open('https://twitter.com/intent/tweet?"]
+##[title^="Aimez-nous sur Facebook"]
+##[title^="Follow us on "]
+##[title^="Partager sur Facebook"]
+##[title^="Partager sur LinkedIn"]
+##[title^="Partager sur Tumblr"]
+##[title^="Partager sur Twitter"]
+##[title^="Share on Facebook"]
+##[title^="Share on LinkedIn"]
+##[title^="Share on Twitter"]
+##[title^="Suivez-nous sur « ]
+##[title="Partager sur Tumblr"]
+##[title="Retour en haut"]
+##a[aria-label="RSS"]
+##a[href*= ».pub2srv.com/"]
+##a[href*="://go.nordvpn.net/"] > img
+##a[href*="//www.facebook.com/share.php"]
+##a[href*="/aff_c?offer_id="] > img
+##a[href*="/afu.php?"]
+##a[href*="facebook.com/sharer/sharer.php?"]
+##a[href*="friendlyduck.com/"]
+##a[href*="http://twitter.com/share"]
+##a[href*="https://www.facebook.com/sharer.php"]
+##a[href^="//postlnk.com/"]
+##a[href^="//twitter.com/intent/tweet?"]
+##a[href^="//www.facebook.com/sharer.php?"]
+##A[href^="//www.linkedin.com/shareArticle?"]
+##a[href^="//www.linkedin.com/shareArticle?"]
+##a[href^="http://twitter.com/intent/tweet?"]
+##a[href^="http://twitter.com/intent/tweet"]
+##a[href^="http://twitter.com/share?"]
+##a[href^="http://twitter.com/share"]
+##a[href^="http://vk.com/share.php?"]
+##a[href^="http://vk.com/share.php"]
+##a[href^="http://www.facebook.com/sharer.php?"]
+##a[href^="http://www.facebook.com/sharer.php"]
+##a[href^="http://www.facebook.com/sharer/sharer.php"]
+##a[href^="http://www.odnoklassniki.ru/dk?st.cmd=addShare"]
+##a[href^="http://www.pinterest.com/pin/create/"]
+##a[href^="http://www.reddit.com/submit"]
+##a[href^="http://www.tumblr.com/share"]
+##a[href^="http://www.tumblr.com/share/"]
+##a[href^="https://affcpatrk.com/"]
+##a[href^="https://api.whatsapp.com/send?text="]
+##a[href^="https://black77854.com/"]
+##a[href^="https://connect.ok.ru/offer?url="]
+##a[href^="https://facebook.com/sharer.php?"]
+##a[href^="https://feedly.com/i/subscription/"]
+##a[href^="https://go.xxxiijmp.com"]
+##a[href^="https://pcm.bannerator.com/"]
+##a[href^="https://pinterest.com/pin/create/"]
+##a[href^="https://plus.google.com/share?"]
+##a[href^="https://plus.google.com/share"]
+##a[href^="https://reddit.com/submit?"]
+##a[href^="https://share.flipboard.com/bookmarklet/"]
+##a[href^="https://share.flipboard.com/bookmarklet/popout?"]
+##a[href^="https://telegram.me/share/url?"]
+##a[href^="https://tm-offers.gamingadult.com/"]
+##a[href^="https://ttf.trmobc.com/"]
+##a[href^="https://twitter.com/home?"]
+##a[href^="https://twitter.com/home?status="]
+##a[href^="https://twitter.com/intent/tweet?"]
+##a[href^="https://twitter.com/intent/tweet/?"]
+##a[href^="https://twitter.com/intent/tweet/"]
+##a[href^="https://twitter.com/share?"]
+##a[href^="https://twitter.com/share"]
+##a[href^="https://vk.com/share.php?"]
+##a[href^="https://vk.com/share.php"]
+##a[href^="https://wittered-mainging.com/"]
+##a[href^="https://www.facebook.com/dialog/feed?"]
+##a[href^="https://www.facebook.com/share.php?"]
+##a[href^="https://www.facebook.com/sharer.php?"]
+##a[href^="https://www.facebook.com/sharer.php"]
+##a[href^="https://www.facebook.com/sharer/sharer.php"]
+##a[href^="https://www.linkedin.com/cws/share?"]
+##a[href^="https://www.linkedin.com/cws/share?url="]
+##a[href^="https://www.linkedin.com/shareArticle?"]
+##a[href^="https://www.linkedin.com/shareArticle"]
+##a[href^="https://www.linkedin.com/sharing/"]
+##a[href^="https://www.linkedin.com/sharing/share-offsite/?"]
+##a[href^="https://www.pinterest.com/pin/create/button/"]
+##a[href^="https://www.reddit.com/submit?"]
+##a[href^="https://www.reddit.com/submit"]
+##a[href^="https://www.tumblr.com/share"]
+##a[href^="https://www.tumblr.com/share/"]
+##a[href^="whatsapp://send"]
+##a[href="https://twitter.com/share"]
+##a[href="https://www.addtoany.com/share"]
+##a[onclick*="//www.facebook.com/"][onclick*="sharer.php"]
+##a[onclick^="window.open('https://twitter.com/intent/tweet"]
+##a[onclick="openAuc();"]
+##a[title^="Aimez-nous sur Facebook"]
+##a[title^="Partager sur Pinterest"]
+##a[title="Go to top"]
+##a[title="Nous suivre sur Facebook"]
+##a[title="Nous suivre sur Twitter"]
+##a[title="Partager par e-mail"]
+##a[title="Partager sur Facebook"]
+##a[title="Partager sur LinkedIn"]
+##a[title="Partager sur Pinterest"]
+##a[title="Partager sur Twitter"]
+##a[title="Retour en haut"]
+##a[title="RSS"]
+##a[title="Share on Facebook"]
+##a[title="Share on LinkedIn"]
+##a[title="Share on Twitter"]
+##a[title="Suivez-nous sur Facebook"]
+##a[title="Suivez-nous sur Twitter"]
+##adblock-détecter
+##adblock-modal-component
+##adblocker
+##amp-ad
+##AMP-AD
+##amp-consent
+##body .twitter-share-button
+##body #cookie-politique
+##body:not(.didomi-popup-open) #didomi-host
+##body.modal-open:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
+##button[title="Partager"]
+##button[title="Share on Twitter"]
 ##div.cli-modal-backdrop
+##div.cookiesBanner
+##div[annonce de données]
+##div[balise-iab-data]
+##div[button="partager"]
+##div[button="share"]
+##div[class][data-index][style^="float: none; margin"]
+##div[class^="cc-sharebuttons-« ]
+##div[class^="footer-social-« ]
+##div[class^="style__social"]
+##div[class^="styles_advertising_"]
+##div[data-ad-name]
+##div[data-ad-playerid]
+##div[data-ad-provider]
+##div[data-ad]
+##div[data-ng-controller="AcceptCookiesController"]
+##div[fournisseur de publicités de données]
+##div[id*=_ad_native]
+##div[id^="adtrue_tag"]
+##div[id^="dfp-ad-« ]
+##div[id^="div-gpt-ad-"]
+##div[id^="div-gpt-ad-« ]
+##div[id^="div-gpt-ad"]
+##div[id^="ezoic-pub-ad-« ]
+##div[id^="M"][id*="ScriptRootC"]
+##div[id^="optidigital-adslot-"]
+##div[id^="rc-widget-« ]
+##div[id^="zergnet-widget"]
+##div[nom-annonce_données]
+##div[title="Go to top"]
+##div[title="Scroll Back to Top"]
+##gh-cookieb-active
+##iframe[src*="//a.realsrv.com/iframe.php"]
+##iframe[src*="//imasdk.googleapis.com/js/core/bridge"][src*= ».html"]
+##iframe[src*="//imasdk.googleapis.com/js/core/bridge"][src*=".html"]
+##iframe[src*="//rcm-"][src*=".amazon-adsystem.com/e/cm"]
+##iframe[width="728"][height="90"]
+##img[alt^="Partager sur Facebook"]
+##img[alt^="Partager sur Twitter"]
+##img[src*="//counter.yadro.ru/"]
+##img[src*="counter.yadro.ru"]
+##img[width="88"][height="31"]
+##img[width="160"][height="600"]
+##img[width="728"][height="90"]
+##ins.adsbygoogle
+##ins.adsbygoogle[data-ad-client]:not([data-matched-content-ui-type])
+##ins[data-ad-position]
+##ins[data-revive-zoneid]
+##message-bar-cookie-notice
+##racine-#fb:not(body):not(html)
+##span[id^="ezoic-pub-ad-placeholder-« ]
 
 
 ###_evidon_banner
@@ -1210,6 +1518,246 @@ heraldsun.com.au,azsoft.org,tv2play.hu,pikabu.ru,noweconomy.live,discordbotlist.
 ###divCookie
 ###divCookies_pnlCookies
 ###dnn_ctr496_View_EUcookie
+###e-privacy-message
+###ec-cookie-messages-container
+###ee-cookies-message
+###epbar
+###et-social-icônes
+###eu_cookie
+###eu-cookie-bar-notification
+###eu-cookie-law
+###eu-cookie-notifier
+###EUCookie
+###eucookie
+###eucookielaw
+###eucookielaw-dans-html
+###eucookielawcontainer
+###EUCookieMsg
+###euCookiesQuestion
+###EUDirectiveCookiePanel
+###facebook-like
+###fb-root:not(body):not(html)
+###fdih-cb
+###fnAdblockingOverlay
+###foCookieNotice
+###fondAdblock
+###Footer_cookieLawBox
+###footer_tc_privacy
+###footer-cookies
+###footerCk
+###fp_cookieMessageContainer
+###future-cookie-bar
+###gb > .gb_8.gb_da.gb_Jb
+###gb > .gb_d.gb_2b.gb_Dc
+###gb > .gb_d.gb_Bb.gb_Ac
+###gb > .gb_g.gb_9b.gb_Oc
+###gb > .gb_g.gb_ac.gb_gd
+###gb > .gb_g.gb_ec.gb_9c
+###gb > .gb_g.gb_ec.gb_ed
+###gb > .gb_g.gb_ec.gb_Wc
+###gb > .gb_g.gb_gc.gb_md
+###gb > .gb_g.gb_nc.gb_oc
+###gb > .gb_g.gb_rc.gb_sc
+###gb > .gb_ia.gb_tb.gb_Jb
+###gb > .gb_X.gb_wa.gb_Jb
+###GDPR
+###gdpr_accept
+###gdpr-bannière
+###gdpr:not(html):not(body)
+###gdprLegalNotification
+###gh-cookieb
+###gld_cookie_flag
+###global-cookie-message
+###gn-cookie-accept
+###go-to-top
+###googleplus
+###gotop
+###gotop:not(html):not(body)
+###h_popup
+###have-a-cookie
+###hi-cookie-box
+###hideAd
+###hr_cookie_policy_message
+###huk_cookie_prefernce_panel
+###hw_cookie_law
+###icanhascookie
+###ico_banner
+###icoCookiesBanner
+###icon-facebook
+###icon-instagram
+###icon-rss
+###icon-snapchat
+###icon-twitter
+###icon-youtube
+###id_cookieconsent
+###ietCookiePanel
+###imPolicycookiemessage
+###info_cookie_container
+###info-cookie
+###infocookie
+###inner > .container.globalhead > .hidden-xs.notice.cookiez
+###inscription_newsletter
+###intro_ad_1
+###iolCookiePolicy
+###isCookieAccepted
+###itv-cookie-notification
+###itv-glob-cookie-policy
+###iubenda-cs-banner
+###jGoTop
+###jGoTop:not(html):not(body)
+###jlp-cookie-container
+###jquery-cookie-law-script
+###js_euCookieModal.euCookieModal
+###js_popup_cookies.belka-cookies
+###js_pushDownCookieMessage
+###js-cookies-bar
+###js-popup-blocker
+###kuki
+###lc_cookies-main
+###lca-cookie-notification
+###lht-advertising
+###LoggingCookie
+###ma > .ckch
+###mc_embed_signup
+###mc_embed_signup_scroll
+###mc-embedded-subscribe-form
+###mc4wp-form-1
+###mdp-deblocker-js-disabled
+###menu-social
+###menu-social-1
+###message_adblock
+###message-bar-cookie-notice
+###mktg_Cookie_Wrap
+###mmmmm-cookies
+###modal_cookie-mask
+###modal-adblocker
+###moove_gdpr_cookie_info_bar
+###moove_gdpr_cookie_modal
+###mrw_cookielaw_banner
+###mtv-cookies
+###mw-mf-page-center > #gdpr
+###myCookie
+###navBackToTop
+###newsletter-subscription:not(html):not(body)
+###newsletterbox
+###norm_cookies
+###notForm\:userNot > .notificationBar
+###notifications > .info.notification
+###notify-adblock
+###npo_cc_notification
+###npo_cc_notification_wrapper
+###nq_cnilbanner
+###nuk-cookieMessage
+###obvestilo-piskotki
+###obvstilo-piskotki
+###okcookies
+###onetrust-consent-sdk
+###ot-sdk-btn
+###ow_cookie
+###pageTop > .cc_container
+###permission-bar
+###Piskotki
+###piskotki
+###piskotki_obvestilo
+###Piskotki1_PiskotekForma
+###piskotOpozorilo
+###pl_cookies
+###plea
+###plugin_cookie_int
+###pm13_cookie_info
+###policy-bannière
+###policyNotice
+###politicaCookies
+###polityka-cookies
+###popin_tc_privacy
+###popup-cookie
+###popup-cookies
+###privacy_cookie
+###privacy_policy:not(input)
+###privacy-alerte
+###privacy-consentement
+###privacy-superposition
+###PrivacyBanner
+###privacyPolicyLayerN
+###promoTb > tbody > tr:nth-of-type(1)
+###pronamic_cookie_holder
+###pub_banniere_basse
+###pub_banniere_haute
+###pub_interstitiel
+###pub_megabanner
+###pub_pave_article
+###pub_pave2
+###pub_pave3
+###rbiCookiePolicy_pushDownBoxWrapper
+###Row1_Column1_Cell1_CookieSettings_CookieSettings
+###rtl_cookie_small
+###scc-consentement
+###scroll-top:not(corps)
+###scroll-top:not(html):not(body)
+###scrolltop:not(html):not(body)
+###scrollTop:not(html):not(body)
+###share-bouton
+###share-button
+###share:not(html):not(body)
+###shareBottom
+###site-cookie-policy
+###site-wide-cookie-message
+###SiteMasterPage_updCookieDisclaimer
+###skycom-cookie-wrapper
+###sliding-popup
+###social_media
+###socialButtonOnPage
+###socialHeader
+###sp-cc[action*="cookiepref"]
+###sponsoredProducts_feature_div
+###stdCookie
+###subscribe_email
+###subscribe_newsletter:not(html):not(body)
+###subscribe-email:not(html):not(body)
+###subscriptionModal:not(html):not(body)
+###sun-cookieMessage
+###sxc_confirmation
+###taboola-below-article-thumbnails
+###taboola-ci-dessous-article-vignettes
+###taboola-right-rail-thumbnails
+###tarteaucitronAlertBig
+###tarteaucitronRoot
+###tc-privacy-wrapper
+###tc-privacy-wrapper ~ #privacy-overlay
+###tellAFriendBox_feature_div
+###tesco_cookie_widget
+###theCookie
+###thecookie
+###tie-popup-adblock
+###TNTpageContentPlaceHolder_pnlCookieMessage
+###to-top
+###to-top:not(corps)
+###top-annonce
+###top-link
+###top-notification-bar-container
+###topcontrol
+###toppopupgdpr
+###tto-cookieMessage
+###twCookieConsent
+###uglipop_content_fixed
+###uglipop_overlay
+###ukCookiePopup
+###ultimedia_wrapper
+###usrConsent
+###v-cookielaw
+###viewlet-cookiepolicy
+###warning_cookie
+###wcpConsentBannerCtrl
+###website-cookies
+###wk_cookiebar
+###wk_cookies
+###WP-cookie-info
+###wpca-bar
+###wpnp_next
+###wpnp_previous
+###wrapCookie
+###wrapperBlocker
+###ws-cookie-consent-msg
 
 
 planeteanimal.com#@#a[href^="https://wa.me/?text="]
@@ -1642,6 +2190,47 @@ wamiz.com##blockquote#adblocker
 wawacity.live##.gplay-box
 wikihow.com##.adsbygoogle
 wikihow.com##.nav_icon:style(display: block !important;)
+wikihow.com##.section h2.sticking, .section h3.sticking, .tool div.sticking:style(position: absolute !important; top: 0 !important; -webkit-border-radius: 4px 4px 0 0 !important;)
+wikihow.com##.sticking > .altblock:style(position: relative !important; width: 60px !important; height: 60px !important; padding: 0 !important; margin: 0 15px 0 0 !important;)
+wikihow.com##.sticking:style(top: 0 !important;)
+wikihow.com##div.wh_ad_inner
+wordpress.com##body:style(padding-top: 0 !important;)
+www.google.com##:root:style(overflow-y: visible !important;)
+www.google.com##^script:has-text(CONSENT)
+www.google.fr##.m114nf.aID8W
+www.google.fr##^script:has-text(CONSENT)
+www.google.fr##html.QVCmK:style(overflow: auto !important;)
+www.wakanim.tv##.css-grbsza.qc-cmp-cleanslate
+www.wakanim.tv##.SerieV2-infosRT
+www.wakanim.tv##.share
+www.wakanim.tv##.share_circle
+www.wakanim.tv##.shares
+www.wakanim.tv##div.shares_item:nth-of-type(1)
+www.wakanim.tv##div.shares_item:nth-of-type(2)
+www.wakanim.tv##div.shares_item:nth-of-type(3)
+yandexcdn.com##[href="https://t.me/Russia_Vs_Ukraine_War3"]
+youtube-nocookie.com,youtube.com##.ytp-pause-overlay, .show-video-thumbnail-button, #rvid
+youtube.com##.annotation.iv-branding
+youtube.com##.appbar-guide-menu-layout, .gstl_50.sbdd_a, .js-yt-header.yt-header, ytd-mini-guide-renderer.ytd-app, app-drawer[opened=""][persistent=""], ytd-two-column-browse-results-renderer[page-subtype="history"] #secondary.ytd-two-column-browse-results-renderer:style(position: absolute !important;)
+youtube.com##.opened
+youtube.com##.opened:not(.ytcp-bulk-actions):remove()
+youtube.com##.share-panel-services, .ytp-button.ytp-share-button
+youtube.com##.sparkles-light-cta
+youtube.com##.video-annotations
+youtube.com##.ytd-merch-shelf-renderer
+youtube.com##.ytp-ad-progress-list
+youtube.com##.ytp-cards-teaser
+youtube.com##.ytp-ce-playlist
+youtube.com##.ytp-paid-content-overlay
+youtube.com##.ytp-pause-overlay
+youtube.com##.ytp-title-channel
+youtube.com##div#masthead-ad
+youtube.com##div#player-ads
+youtube.com##opened
+youtube.com##ytd-feed-filter-chip-bar-renderer:style(position: static !important; margin-bottom: 0 !important;)
+youtube.com##ytd-guide-entry-renderer:style(display: block !important;)
+youtube.com##ytd-playlist-sidebar-renderer.ytd-browse:style(position: absolute !important; left: unset !important; height: 100% !important;)
+youtube.com##ytd-settings-sidebar-renderer.ytd-browse:style(position: absolute !important; left: 0 !important; height: 100% !important;)
 
 
 1fichier.com###cookie_box
