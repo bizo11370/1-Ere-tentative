@@ -52718,6 +52718,7 @@ cuisineactuelle.fr##.magazineBlock
 cuisineactuelle.fr##.newsletterBlock
 cyberlink.com##.modal-backdrop
 cyberlink.com##.modal-open:style(overflow: auto !important;)
+ddl-francais.com##a[onclick*="openAuc();"]
 docs.github.com##.article-grid-toc-content:style(position: static !important;)
 dood.pm##+js(set-constant, xPoPAdS, false)
 facebook.com##div[data-testid="cookie-policy-dialog"]
@@ -54112,13 +54113,13 @@ $3p,xmlhttprequest,domain=01fmovies.com|1377x.to|1fichier.com|1me.club|247tpb.cl
 /fuckadblock.$script,redirect-rule=nofab.js
 
 
-||deloplen.com/apu.php?$script,important,redirect-rule=noop.txt
 ||ad.mail.ru/$script,redirect-rule=empty
 ||addthis.com/*/addthis_widget.js$script,redirect-rule=addthis.com/addthis_widget.js
 ||commentsengine.com^$script,3p,redirect-rule=noopjs
 ||d2klx87bgzngce.cloudfront.net^$script,redirect-rule=noop.js
+||deloplen.com/apu.php?$script,important,redirect-rule=noop.txt
 ||dmxleo.dailymotion.com/cdn/manifest/video/$xmlhttprequest,redirect-rule=noop-vmap1.0.xml
-||google-analytics.com/analytics.js$script,redirect-rule=google-analytics_analytics.js,domain=~olx.*
+||google-analytics.com/analytics.js$script,redirect-rule=google-analytics_analytics.js,domain=~banki.ru|~bigc.co.th|~olx.*
 ||google-analytics.com/analytics.js$script,redirect-rule=google-analytics.com/analytics.js
 ||google-analytics.com/analytics.js$script,redirect-rule=google-analytics.com/analytics.js:5
 ||google-analytics.com/ga.js$script,redirect-rule=google-analytics_ga.js,domain=~daj.jp
@@ -54204,6 +54205,7 @@ $3p,xmlhttprequest,domain=01fmovies.com|1377x.to|1fichier.com|1me.club|247tpb.cl
 *##+js(set-constant, navigator.joinAdInterestGroup, undefined)
 *##+js(set-constant, navigator.leaveAdInterestGroup, undefined)
 *##+js(set-constant, navigator.runAdAuction, undefined)
+*##+js(window.open-defuser)
 
 
 1fichier.com##+js(nowebrtc)
@@ -54417,6 +54419,8 @@ uqload.com##+js(abort-current-inline-script, String.fromCharCode, /emZnbG9hZGVk|
 uqload.com##+js(abort-current-inline-script, String.fromCharCode, zfgloaded)
 uqload.com##+js(acis, JSON.parse, break;case $.)
 uqload.com##+js(acis, Math, break;case $.)
+vpo.link,redload.co,streaming-french.net,ytms.one,rpdrlatino.live,vaav.top,ddl-francais.com,cuevana4.cc,watch-series.site,illimite-streaming.com,gratflix.org,multiup.us,player.koreanpornmovie.xyz,filmesonlinehd1x.pro,kalashnikovfire.tk,netu.fshd.link,oyohd.one,xxvideoss.net,pourvous.club,movi.pk,kitraskimisi.com,msmini.cyou,hydrax.xyz,thisirussia.io,waaw1.tv,vf-film.vip,alphaporno.com,vido.fun,czxxx.org,pajalusta.club,goplayer.online,streamzz.*,glokom.club,xtapes.to,wowstream.top,streamon.to,gotoons.org,upvideo.to,moovies.in,thisisrussia.io,cdnqq.net,richhioon.eu,haes.tech,wiztube.xyz,antentri.top,mp4cage.com,netu.in,cineflixtv.net,vizplay.*,view47.*,streamplusvip.*,oyohd.com,hindilinks4uto.com,animestream.watch,msubplix.com,vidxhot.net,waaw.*,chillicams.net,flashx.net,hqq.to,justswallows.com,openload.casa,meucdn.vip,yandexcdn.com,firstr0w.eu,hqq.tv,onlystream.tv,streamz.*,hindipix.in,3movs.com,alltube.tv,oload.monster,tryboobs.com,eporner.com,oload.press,vivatube.com,oload.life,nxload.com,oload.services,verystream.com,freeteenporn.xxx,ashemale.one,kaotic.com,hentaicore.org,oload.vip,vidop.icu,oload.best,oload.network,alltube.pl,oload.biz,oload.website,oload.xyz##+js(abort-on-property-read, BetterJsPop)
+vpo.link,thisirussia.io,vf-film.vip,vaav.top,ddl-francais.com,cuevana4.cc,watch-series.site,multiup.us,hqq.to,hqq.tv##+js(set-constant, WebSocket, undefined)
 vudeo.io##+js(abort-current-script, JSON.parse, break;case $.)
 waaw.*,waaw1.*##+js(nowoif)
 waaw.*##+js(nostif, debug)
@@ -54502,6 +54506,7 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 @@||hqq.$script,1p
 @@||image.jeuxvideo.com^$image,domain=jeuxvideo.com
 @@||js.stripe.com^$script,domain=manomano.fr
+@@||jwpcdn.com^$script,domain=www.wakanim.tv
 @@||mdphenligne.cnsa.fr^$font,1p
 @@||otakufr.co/wp-content/*$font,1p
 @@||ouo.io^
@@ -54540,44 +54545,23 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 @@||wawacity.work^$font,domain=www.wawacity.work
 @@||www.google.*/search?$domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||www.google.*/search?$generichide
+@@||www.wakanim.tv/manifest.json$other,domain=www.wakanim.tv
 @@||www.wawacity.*/assets/fonts/*$font,domain=www.wawacity.*
-
 
 
 @@*$document,csp=worker-src 'none',domain=uptostream.com
 @@/banner/*^$image,domain=www.cyberlink.com
 
 
-@@/fontawesome-$font,domain=assurance-animaux.self-assurance.fr
-@@/fontawesome-$font,domain=comparateur-jardinage-lemonde.fr
-@@/fontawesome-$font,domain=doc.ubuntu-fr.org
-@@/fontawesome-$font,domain=hdss.watch
-@@/fontawesome-$font,domain=isdownorblocked.com
-@@/fontawesome-$font,domain=meilleurtaux.com
-@@/fontawesome-$font,domain=multiup.org
-@@/fontawesome-$font,domain=sendvid.com
-@@/fontawesome-$font,domain=thetravellingsouk.com
-@@/fontawesome-$font,domain=vostanimez
-@@/fontawesome-$font,domain=vostanimez.com
-@@/fontawesome-$font,domain=vostanimez.tv
-@@/fontawesome-$font,domain=vostfree.*
+@@/fontawesome-$font,domain=assurance-animaux.self-assurance.fr|comparateur-jardinage-lemonde.fr|doc.ubuntu-fr.org|hdss.watch|isdownorblocked.com|meilleurtaux.com|multiup.org|sendvid.com|thetravellingsouk.com|vostanimey.com|vostanimez.*|vostfree.*
 
 
 accounts.conrad.com#@#+js(set-constant, Document.prototype.interestCohort, 'undefined)
 aol.com#@#+js(abort-current-script, *)
-bdgest.com#@#+js(no-setTimeout-if, *)
-bricoman.fr#@#+js(no-setTimeout-if, *)
-cedeo.fr#@#+js(no-setTimeout-if, *)
-doc.ubuntu-fr.org#@#+js(no-setTimeout-if, *)
-idealo.fr#@#+js(no-setTimeout-if, *)
-mail.aol.com#@#+js(no-setTimeout-if, *)
-meteofrance.com#@#+js(no-setTimeout-if, *)
-neko-sama.io#@#+js(no-setTimeout-if, *)
 pluto.tv#@#+js(set-constant, Document.prototype.interestCohort, 'undefined)
-speedtest.net#@#+js(no-setInterval-if, *)
-speedtest.net#@#+js(no-setTimeout-if, *)
 uqload.com#@#+js(abort-current-script, document.createElement, break;case $.)
 vudeo.io#@#+js(abort-current-script, document.createElement, delete window)
+bdgest.com,bricoman.fr,cedeo.fr,doc.ubuntu-fr.org,idealo.fr,mail.aol.com,meteofrance.com,neko-sama.io,speedtest.net#@#+js(no-setTimeout-if, *)
 
 
 #@#.ad-placement
@@ -54601,4 +54585,5 @@ cyberlink.com#@##subscriptionModal:not(html):not(body)
 hqq.tv#@##clickj
 planeteanimal.com#@##taboola-below-article-thumbnails
 planeteanimal.com#@#a[href^="https://wa.me/?text="]
+wakanim.tv#@##jwplayer-container > #container-player[style*="width:100%"][style*="cursor:pointer"]
 
