@@ -53673,6 +53673,7 @@ $3p,xmlhttprequest,domain=01fmovies.com|1377x.to|1fichier.com|1me.club|247tpb.cl
 ||arbaloseyepit.com^
 ||asacdn.com^
 ||asccdn.com^
+||ashcdn.com^
 ||baise3x.com^
 ||banquetunarmedgrater.com^
 ||barthnullary.com^
@@ -54878,20 +54879,15 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 @@/banner/*^$image,domain=www.cyberlink.com
 
 
-@@/fontawesome-$font,domain=archiexpo.fr|assurance-animaux.self-assurance.fr|comparateur-jardinage-lemonde.fr|doc.ubuntu-fr.org|diablo3.judgehype.com|hdss.watch|isdownorblocked.com|livraddict.com|malekal.com|meilleurtaux.com|microsoft.com|multiup.org|sendvid.com|storagereview.com|thetravellingsouk.com|ventaria.eu|vostanimey.com|vostanimez.*|vostfree.*|geosat.fr|wawanimez.com
-				
+@@/fontawesome-$font,domain=archiexpo.fr|assurance-animaux.self-assurance.fr|comparateur-jardinage-lemonde.fr|doc.ubuntu-fr.org|diablo3.judgehype.com|hdss.watch|isdownorblocked.com|livraddict.com|malekal.com|meilleurtaux.com|microsoft.com|multiup.org|sendvid.com|storagereview.com|thetravellingsouk.com|ventaria.eu|vostanimey.com|vostanimez.*|vostfree.*|geosat.fr|wawanime.info|wawanimez.com
+
+bdgest.com,bilibili.tv,bricoman.fr,cedeo.fr,doc.ubuntu-fr.org,idealo.fr,mail.aol.com,meteofrance.com,neko-sama.io,netflix.com,nvidia.com,speedtest.net,tomshardware.fr#@#+js(no-setTimeout-if, *)
+
+bilibili.tv,mail.aol.com,rewards.bing.com,rewards.microsoft.com,tomshardware.fr#@#+js(window.open-defuser)				
 		
 accounts.conrad.com#@#+js(set-constant, Document.prototype.interestCohort, 'undefined)
 aol.com#@#+js(abort-current-script, *)
-bdgest.com,bricoman.fr,cedeo.fr,doc.ubuntu-fr.org,idealo.fr,mail.aol.com,meteofrance.com,neko-sama.io,speedtest.net#@#+js(no-setTimeout-if, *)
-bilibili.tv#@#+js(no-setTimeout-if, *)
-bilibili.tv#@#+js(window.open-defuser)
-netflix.com#@#+js(no-setTimeout-if, *)
 pluto.tv#@#+js(set-constant, Document.prototype.interestCohort, 'undefined)
-rewards.bing.com#@#+js(window.open-defuser)
-rewards.microsoft.com#@#+js(window.open-defuser)
-tomshardware.fr#@#+js(no-setTimeout-if, *)
-tomshardware.fr#@#+js(window.open-defuser)
 uqload.com#@#+js(abort-current-script, document.createElement, break;case $.)
 vudeo.io#@#+js(abort-current-script, document.createElement, delete window)
 
@@ -54909,8 +54905,6 @@ github.com#@#.social-count
 google.*#@#.HTjtHe
 google.*#@#.jw8mI
 jeuxvideo.com#@#.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
-mail.aol.com#@#+js(window.open-defuser)
-nvidia.com#@#+js(no-setTimeout-if, *)
 particuliers.engie.fr#@##backToTop:not(html):not(body)
 pcgamer.com#@#[href*="pinterest.com/pin/create/button/"]
 saunierduval.fr#@#.cookiewarning:not(body)
