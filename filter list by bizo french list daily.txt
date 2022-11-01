@@ -54909,6 +54909,7 @@ github.com#@#.social-count
 google.*#@#.HTjtHe
 google.*#@#.jw8mI
 jeuxvideo.com#@#.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
+mail.aol.com#@#+js(window.open-defuser)
 nvidia.com#@#+js(no-setTimeout-if, *)
 particuliers.engie.fr#@##backToTop:not(html):not(body)
 pcgamer.com#@#[href*="pinterest.com/pin/create/button/"]
