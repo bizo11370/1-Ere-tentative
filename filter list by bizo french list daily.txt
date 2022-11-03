@@ -436,6 +436,25 @@ i.ibb.co/kg3hHbm
 xnxx.
 
 
+=ads_top&rand
+=comscoreadobedpvcall&
+=DIV_DA_$script
+=eulerian&
+=getsidestats&
+=googleanalytics_
+=metrics_profile&
+=pageimpression&
+=propellerads$popup
+=recreativ&utm_medium=$popup
+=stats&action=
+=stats&apiversion=
+=tovarro&utm_campaign=$popup
+=ws://*?pool=
+=ws://*?pools=
+=wss://*?pool=
+=wss://*?pools=
+
+
 *$ping,3p
 *$image,3p,domain=uqload.com
 *$script,3p,denyallow=cloudflare.com|cloudfront.net|sharethis.com|sharethis.net,domain=toonanime.*
